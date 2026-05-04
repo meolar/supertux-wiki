@@ -4,13 +4,13 @@ This page shall describe all enemies, old and new, that appear or could appear i
 
 Note: For some badguys, we still need to settle down on proper names (e.g. *Mr. Tree* or *Walking Tree*).
 
-Poison Ivy
-==========
+Vicious Ivy
+===========
 
 ![](img/badguy/icons/vicious_ivy.gif)
 
-Poison Ivy is a vicious plant which walks straight forward and falls when reaching the edge of a platform. Due
-to it flapping its wings while falling it starts hovering slowly towards the ground (not implemented yet).
+Vicious Ivy is a plant which walks straight forward and falls when reaching the edge of a platform. Due
+to it flapping its leaves while falling it starts hovering slowly towards the ground.
 
 | Property       | Status |
 |----------------|--------|
@@ -25,7 +25,7 @@ Walking Leaf
 
 ![](img/badguy/icons/walking_leaf.gif)
 
-Walking Leaf is a bit smarter than the ordinary *Poison Ivy* because it does not fall off of platforms. Since it
+Walking Leaf is a bit smarter than the ordinary *Vicious Ivy* because it does not fall off of platforms. Since it
 is more careful, it walks a bit slower than the average badguy.
 
 | Property       | Status |
@@ -44,7 +44,7 @@ Leafshot
 A plant that decided falling from a tree is not the most exciting part in life went ahead and hoped to
 one day be shot back into a tree. Sadly, the lack of hands makes it impossible for Leafshot to point the
 [cannon](https://github.com/SuperTux/supertux/wiki/Badguys-Misc#Cannon) upwards. Thus the cannon only
-shoots him out in a straight line until crashing.
+shoots him out in a straight line until crashing into a wall.
 
 | Property       | Status |
 |----------------|--------|
@@ -65,10 +65,10 @@ Mr. Tree
 ![](images/Littletrees.png)
 </details>
 
-A walking tree crowned with luscious green leaves. Jumping on Mr. Tree will cause him to break into 2-3 *Poison Ivy*
-and one *Stumpy*, a leaf-less version of Mr. Tree.
+A walking tree crowned with luscious green leaves. Jumping on Mr. Tree will cause him to break into 2-3 *Vicious Ivy*
+and one *Stumpy*, a leafless version of Mr. Tree.
 
-Buttjumping Mr. Tree will defeat the entire tree without spawning any *Poison Ivy*.
+Buttjumping Mr. Tree will defeat the entire tree without spawning any *Vicious Ivy*.
 
 | Property       | Status |
 |----------------|--------|
@@ -80,7 +80,7 @@ Buttjumping Mr. Tree will defeat the entire tree without spawning any *Poison Iv
 ### Idea proposal
 
 When Mr. Tree is hit by a fireball, it might be set on fire. A burning
-Mr. Tree runs around, killing small enemies (like Poison Ivies) and
+Mr. Tree runs around, killing small enemies (like Vicious Ivies) and
 setting on fire other Mr. Trees and straw blocks. If a burning tree hits
 Mr. Bomb, they both die due to Mr. Bomb exploding. After a while, Mr. Tree's
 leaves will burn completely, reducing it to a normal Stumpy (or killing
@@ -92,7 +92,7 @@ Snail
 
 ![](img/badguy/icons/snail.gif)
 
-The Snail behaves similar to Poison Ivy while falling at normal speed. When buttjumped upon the snail will flips over.
+The Snail behaves similar to the Iceblock while falling at normal speed. When buttjumped upon the snail will flips over.
 When flipped over, further jumps on it will kick it around, hurting everything in its way and can die after being
 squished again for a number of times. Snails can also be carried and thrown at other badguys.
 
@@ -110,9 +110,7 @@ Igel
 ![](img/badguy/icons/igel.gif)
 
 Igel (*German for "hedgehog"*) are spiky fellows that cannot be squished or buttjumped due to their spines but they can
-be shot with a projectile. Once shot they will be pushed back. They are defeated by pushing them close enough to a
-wall or a ledge.
-
+be shot with a projectile. If an Igel goes in front of Tux, he will curl up into a spiky ball and roll towards the player.
 | Property       | Status |
 |----------------|--------|
 | Squishable     | no     |
@@ -138,7 +136,7 @@ Jumpy (woodjumpy)
 
 ![](img/badguy/icons/woodjumpy.png)
 
-Jumpy is a wooden barrel with metal spikes attached to it. He jumps up and down and stays stationary on the same position.
+Wood Jumpy is a wooden barrel with metal spikes attached to it. He jumps up and down and stays stationary on the same position.
 His viewing direction follows Tux.
 
 The simplest way of avoiding him is usually to run below him or jump over him at the right time.
@@ -151,12 +149,12 @@ The simplest way of avoiding him is usually to run below him or jump over him at
 | Freezable      | yes    |
 
 
-Fish
-====
+Jumping Fish
+============
 
 ![](img/badguy/icons/fish.gif)
 
-Fish is a badguy that jumps out of water. When Tux has to cross the water he has to pay attention to the fish so he
+Jumping Fish is a badguy that jumps out of water. When Tux has to cross the water he has to pay attention to the fish so he
 doesn't get caught.
 
 | Property       | Status |
@@ -209,9 +207,9 @@ Rock Crusher
 
 ![](img/badguy/icons/rock_crusher.png "Rock") ![](img/badguy/icons/moss_crusher.png "Moss")
 
-Rock Crushers and their mossy counterpart are enemies that are hanging on the ceiling or walls. When Tux gets within one tile they
+Rock Crushers are enemies that are hanging on the ceiling or walls. When Tux gets within one tile they
 will attempt to crush Tux into the nearest wall or floor. After they hit a wall, they slowly drift back up. On this “return trip”,
-Tux may safely climb on top of them and hitch a ride. When in their resting position, their eyes shall follow Tux.
+Tux may safely climb on top of them and hitch a ride. When in their resting position, their eyes follow Tux.
 
 | Property       | Status |
 |----------------|--------|
@@ -241,7 +239,7 @@ it will drop whatever it is carrying. Most of the time Owl is carrying a single
 | Squishable     | yes    |
 | Buttjumpable   | yes    |
 | Burnable       | yes    |
-| Freezable      | no     |
+| Freezable      | yes    |
 
 
 Zeekling
@@ -356,30 +354,6 @@ If Tux manages to get out of reach of the Will-o-wisp, it will stop following hi
 | Burnable       | no     |
 | Freezable      | no     |
 
-Stony
-=====
-<details>
-  <summary>Concept Art</summary>
-
-![](images/Littlestone.png)
-![](images/Stony_wall.png)
-</details>
-
-Water drop
-==========
-<details>
-  <summary>Concept Art</summary>
-
-![](images/Waterdrop.png)
-</details>
-
-Spooky Tree
-===========
-<details>
-  <summary>Concept Art</summary>
-
-![](images/Spooky-Tree.jpeg)
-</details>
 
 Ghost Tree
 ==========
