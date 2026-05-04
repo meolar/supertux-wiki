@@ -2,6 +2,10 @@ Developer mode enables various features intended to be used by developers of
 the game, most notably various cheats. This mode cannot be entered by means
 of a graphical user interface.
 
+SuperTux 0.7
+------------
+## Enabling Developer Mode
+
 SuperTux 0.3
 ------------
 
