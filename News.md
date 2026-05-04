@@ -1,3 +1,9 @@
+2026
+====
+
+- SuperTux 0.7.0 has been released.
+- Development on Icy Island and Rooted Forest has been completed.
+
 2021
 ====
 
