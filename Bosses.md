@@ -13,7 +13,7 @@
 ![](images/Yeti-concept-throw.png)
 </details>
 
-The **Yeti** awaits Tux after the first castle and is the end boss [Icy Island](https://github.com/SuperTux/supertux/wiki/Icy-Island).
+The **Yeti** awaits Tux after the first castle and is the end boss of [Icy Island](https://github.com/SuperTux/supertux/wiki/Icy-Island).
 He is found in the level *No More Mr Ice Guy*.
 
 He is a massive, fuzzy creature preying on Tux in the cold. He may not be the brightest
@@ -21,9 +21,10 @@ but proves to be quite a threat when enraged.
 
 #### Attacks
 
-The Yeti will attack the player in two different ways. First, he will rush towards the player,
-going from one side to the other. This maneuver is then followed by him stomping three times which
-attacks Tux indirectly by making icicles fall down.
+The Yeti will attack the player in three different ways. First, he will rush towards the player,
+going from one side to the other. This maneuver is then followed by him throwing bouncing snowballs
+towards the player, and then will stomp three times which attacks Tux indirectly by making icicles fall down.
+In Pinch Mode, the Yeti will additionally throw a few big snowballs which Tux must dodge.
 
 
 ### Ghost Tree
@@ -35,20 +36,37 @@ attacks Tux indirectly by making icicles fall down.
 ![](images/Forestboss2.png)
 </details>
 
-*(Note: The Ghost Tree is a work in progress. Although it is unfinished some incomplete graphics
-can be found in the game.)*
+*(Note: Although the Ghost Tree is basically finished, not all of the animations have been made yet.)*
 
-The Ghost Tree, a large errie, purple tree with deep, dark holes as eyes, is the end boss of
+The Ghost Tree, a large eerie, purple tree with deep, dark holes as eyes, is the end boss of
 [Rooted Forest](https://github.com/SuperTux/supertux/wiki/Rooted-Forest).
 
 Planted by Nolok, the Ghost Tree began spreading a horrible disease through out the forest through
 its roots. It has no mind of its own. Its whole purpose is to spread itself and infect the land.
+Its core, a glowing pink ball located in the Ghost Tree's mouth, is what powers it. To defeat the boss
+the core must be destroyed by stepping on it when it is revealed.
 
 #### Attacks
 
 The Ghost Tree primarily will attack the player from below with its roots, bursting out of the
 ground. These can be anticipated by the cracks appearing on the ground. Its other attacks are
-depended on which *Ghost Orb* they absorbed prior.
+depended on which *Ghost Orb* it absorbed prior. Once the Ghost Tree performs an 'orb' attack,
+it will reveal its core for a short time, and Tux must step on it.
+
+##### Red Orb
+The Ghost Tree will release a wave of roots from one side of the screen to the other that Tux must jump over.
+
+##### Green Orb
+The Ghost Tree slowly releases a root out of the ground at Tux's current position, which shortly after explodes
+and releases some root shards.
+
+##### Blue Orb
+The Ghost Tree releases a root in a similar manner to the Green Orb attack, but the root has two dart traps on it
+which will release darts Tux must dodge.
+
+##### Pinch Mode Attack
+In Pinch Mode, the Ghost Tree swallows all three colors of *Ghost Orbs*, therefore releasing a root which
+behaves like both the Green and Blue roots. Red root waves also spawn in the center of the root.
 
 ---
 
