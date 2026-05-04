@@ -21,7 +21,7 @@ continue walking on the platform below. Jumping on him will squish him and thus 
 | Freezable      | no     |
 
 
-Mrs. Snowball (smartball)
+Mrs. Snowball (Smartball)
 =========================
 
 ![](img/badguy/icons/smartball.gif)
@@ -65,7 +65,7 @@ Bouncing Snowball
 
 ![](img/badguy/icons/bouncing_snowball.gif)
 
-A leg-less snowball with eyes that moves forward in a constant bounce motion like a ball. It's jump height
+A legless snowball with eyes that moves forward in a constant bounce motion like a ball. It's jump height
 is big enough that Tux can pass under him safely, while making it difficult to jump on him or (potentially)
 outright impossible when he is at the highest point.
 
@@ -129,8 +129,8 @@ The simplest way of avoiding him is usually to run below him or jump over him at
 > ![](images/Jumpy.png)
 
 
-Spiky (armoredsnowball)
-=======================
+Spiky
+=====
 
 ![](img/badguy/icons/spiky.gif "Awake Spiky") ![](img/badguy/icons/sleeping_spiky.png "Sleeping Spiky")
 
@@ -183,7 +183,7 @@ badguy, both Mr. IceBlock and the other badguy are killed, leaving Tux unharmed.
 Mr. IceBlock is scored as 0 points.
 
 
-Mrs. Iceblock (smartblock)
+Mrs. Iceblock (Smartblock)
 ==========================
 
 ![](img/badguy/icons/smartblock.gif)
@@ -217,7 +217,7 @@ When attacked with a buttjump both the body and the head are defeated.
 | Freezable      | no     |
 
 
-Kamikaze Snowball (snowshot)
+Kamikaze Snowball (Shooting snowball)
 ============================
 
 ![](img/badguy/icons/kamikaze_snowball.gif)
@@ -247,7 +247,7 @@ Crystallo
 ![](img/badguy/icons/roof_crystallo.gif "Roof Crystallo")
 
 Another very basic enemy, but unlike the *Mr. Snowball* or *Mr. Iceblock* he doesn't walk around in a straight
-pattern, but walks back and forth around a fixed position.
+pattern, but walks back and forth around a fixed position. Crystallo lives in the Crystal Mine, near Icy Island.
 
 They can be seen on the ground as well as the ceiling. If they notice Tux below them they will drop and shatter
 into four sharp crystal shards upon impact. Some may also rest inside larger crystals. Wake them up and they will
