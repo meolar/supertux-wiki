@@ -27,7 +27,7 @@ Tux becomes determined to save her, thus beginning his journey.
 
 ![](images/Introcutscene.png)
 
-### Interlude: A Yeti in the Distance
+### Interlude: An Unsuspected Follower
 
 (Plays after finishing the level "The End of the Tunnel")
 
@@ -36,18 +36,18 @@ watching him from higher up on a small incline. Before Tux can do anything, howe
 Tux is concerned by the yeti's sudden retreat but decides to continue his journey as he has spotted the castle,
 in the same direction the yeti went.
 
-### Interlude: Empty Throne Room
+### Interlude: Nobody Home
 
 (Plays at the end of the level "Castle Of Nolok")
 
-Tux reaches an empty throne room with nothing but a letter hanging on a pillar. A letter by Penny that mentions
-Nolok having tricked Tux and taking off with her to a far forest. Tux hears the yeti who runs towards a door nearby.
+Tux reaches an empty throne room with nothing but a letter hanging on a pillar. Another letter from Nolok that mentions
+him tricking Tux and taking off with Penny to a far-away forest. Suddenly Tux hears a yeti who runs towards a door nearby.
 He opens the door and finds himself on a balcony outside the castle walls and jumps. The yeti chases him down to a
 small ravine, leaving Tux no other choice than to fight the yeti.
 
 ![](images/Interlude01.jpg)
 
-### Outro: Hint to Progress
+### Outro: Off to the Glacier Isles
 
 (Plays after beating the Yeti)
 
