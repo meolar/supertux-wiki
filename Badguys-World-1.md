@@ -63,7 +63,7 @@ he will attempt to jump over it. Sometimes he succeseds, sometimes he doesn't.
 Bouncing Snowball
 =================
 
-![](img/badguy/icons/bouncing_snowball.gif)
+![](img/objects/bouncing_snowball.webp)
 
 A legless snowball with eyes that moves forward in a constant bounce motion like a ball. It's jump height
 is big enough that Tux can pass under him safely, while making it difficult to jump on him or (potentially)
