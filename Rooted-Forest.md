@@ -1,8 +1,8 @@
 **Rooted Forest** is the second world in SuperTux. It is generally a lively place with many creatures roaming about.
-Parts of the forest however, are corrupted. This world is currently still under development but can already be accessed
-in story mode, and has been in the game for a while now. This world was included in the unstable *SuperTux 0.3*.
+The world however, due to the [Ghost Tree](https://github.com/SuperTux/supertux/wiki/Bosses#Ghost-Tree), becomes corrupted
+after Tux explores the forest a little. This world was included in the unstable *SuperTux 0.3*.
 
-Its subworld is the **Corrupted Forest**. A larger section of the forest overtaken by an eerie disease.
+Its subworld is the **Corrupted Forest**, A section of the forest overtaken by an eerie disease due to the Ghost Tree.
 
 ![The Rooted Forest worldmap as of version 0.6.2](images/rooted_forest_0_6_2.png "The Rooted Forest worldmap as of version 0.6.2")
 
@@ -10,8 +10,45 @@ Its subworld is the **Corrupted Forest**. A larger section of the forest overtak
 
 ### Levels
 
-Rooted Forest is still under development and therefore it is not reasonable to state which levels exist.
-Many will be removed or changed.
+As of SuperTux v0.7.0, Rooted Forest features the following levels:
+
+* A New Location (Cutscene)
+* Welcome to the Forest
+* Rock 'n' Roll
+* Find the Bigger Fish!
+* Mount Crushmore
+* Shallow Green
+* Tux the Builder
+* A Mouldy Grotto
+* Wooden Roots
+* Penguins Don't Grow On Trees
+* Three Sheets to the Wind
+* Bouncy Coils
+* Granito Villiage
+* Flooded Chambers
+* Drop The Ball
+* Ancient Ruin (Secret Level)
+* Owls' Skydive Commando
+* Shocking
+* Going Underground
+* Cave Patrol
+* Through the Dark
+* From A Far It Spreads (Cutscene)
+* Entangled in Roots
+* Worse than Salmonella
+* Square Root of Agony
+* Home Dead Home
+* Hollowed Earth
+* Striking Wood
+* Lost Sanctuary (Secret Level)
+* Stick And Stones
+* Rooting For You
+* Collapse Imminent
+* The Rooted Tower
+* The Root Of The Problem (Cutscene)
+* Roots of All Evil (Boss Level)
+* Nature Is Healing (Cutscene)
+* Floral Blossom
 
 ### Badguys
 
