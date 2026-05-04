@@ -4,7 +4,11 @@ of a graphical user interface.
 
 SuperTux 0.7
 ------------
-## Enabling Developer Mode
+### Enabling Developer Mode
+*Needs Content*
+
+### Cheats
+When in developer mode, a cheats menu will become available by pressing `F1`.
 
 SuperTux 0.3
 ------------
