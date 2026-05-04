@@ -1,7 +1,7 @@
 **Icy Island** is the very first world in SuperTux. It is an ice-themed world, based in Antarctica.
 This world was first released in *SuperTux 0.1*.
 
-Its subworld is **Glacier Isle**. An isle to the west of Icy Island covered in large crystals,
+Its subworld is **Glacier Isle**, an isle to the west of Icy Island covered in large crystals,
 housing the crystal mines.
 
 ![The Icy Island worldmap as of version 0.6.2](images/icy_island_0_6_2.png "The Icy Island worldmap as of version 0.6.2")
@@ -10,38 +10,43 @@ housing the crystal mines.
 
 ### Levels
 
-As of October 2020, Icy Island features the following levels:
+As of SuperTux v0.7.0, Icy Island features the following levels:
 
+* Picnic With Penny (Cutscene)
 * Welcome to Antarctica
 * The Journey Begins
 * The Somewhat Smaller Bath
-* A Fork in the Road
-* Via Nostalgica
+* A Fork in the Road?
 * The Frosted Fields
-* Oh no! More Snowballs!
 * Stone Cold
+* Oh No! More Snowballs!
+* Bouncy, Bouncy Mountainside
+* Above the Antarctic Skies
 * 23rd Airborne
-* Above the Arctic Skies
 * Night Chill
 * Into the Stars
 * Entrance to the Cave
 * Under the Ice
-* Living in a Fridge
-* '...or is it just me?'
-* Miyamoto Monument
+* Living In A Fridge
+* ...Or Is It Just Me?
+* Deep Dive 'n' Chill
 * Ice in the Hole
 * End of the Tunnel
+* An Unsuspected Follower (Cutscene)
 * A Path in the Clouds
-* Icy Valley
-* Over the Frozen Bridge
-* The Shattered Bridge
+* Slippery Slide
+* Between Two Glaciers (Secret Level)
+* Shattered Bridge
+* Antarctic Outpost
 * The Castle of Nolok
-* No More Mr Ice Guy
+* Nobody Home (Cutscene)
+* No More Mr. Ice Guy (Boss Level)
+* Off to the Glacier Isles (Cutscene)
 * The Crystal Mine
 
 ### Badguys
 
-A list of Badguys for Icy Island can be found [here](https://github.com/SuperTux/supertux/wiki/Badguys-Icy).
+A list of Badguys for Icy Island can be found [here](https://github.com/SuperTux/supertux/wiki/Badguys-World-1).
 
 ### End Boss
 
