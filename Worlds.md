@@ -9,14 +9,14 @@ bonus worlds, alongside its story mode.
 
 ### Established Worlds
 * [World 1 - Icy Island](https://github.com/SuperTux/supertux/wiki/Icy-Island)
+* [World 2 - Rooted Forest](https://github.com/SuperTux/supertux/wiki/Rooted-Forest)
 
 ### Worlds Under Development
 
-* [World 2 - Rooted Forest](https://github.com/SuperTux/supertux/wiki/Rooted-Forest)
+* [World 3 - Tropical Paradise](https://github.com/SuperTux/supertux/wiki/Tropical-Paradise)
 
 ### Planned Worlds
 
-* [World 3 - Tropical Paradise](https://github.com/SuperTux/supertux/wiki/Tropical-Paradise)
 * [World 4 - Nolok's Mountain Peak](https://github.com/SuperTux/supertux/wiki/Mountain-Peak)
 
 ---
@@ -24,11 +24,10 @@ bonus worlds, alongside its story mode.
 ## Add-ons
 
 ### Bonus Islands
+Bonus Islands are worlds containing additional levels, and are able to be unlocked by collecting all the tux dolls
+in Story Mode. There are four planned bonus islands, each based on a world in Story Mode (e.g. BI1 is Icy Island, BI2 is Rooted Forest, etc.)
 
 * Bonus Island I
-* Bonus Island II
-* Bonus Island III
-* Bonus Island IV
 
 ### Level Packs
 
