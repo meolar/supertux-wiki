@@ -44,16 +44,16 @@ graphics/UX tasks, `category:code` for code tasks, and
 
 ##### Backgrounds
 
-- [ ] More diverse backgrounds for all themes
+- [x] More diverse backgrounds for all themes
 - [ ] Sky backgrounds for every time of day (i.e. sunrise, midday, sunset, night)
 - [x] Divide backgrounds into multiple layers
 
 ##### Objects
 
 - Badguys
-  - [ ] Improve/Redesign all forest badguys
-  - [ ] Update yeti sprites to fit the games art style
-  - [ ] Proper Ghost Tree graphics
+  - [x] Improve/Redesign all forest badguys
+  - [x] Update yeti sprites to fit the games art style
+  - [x] Proper Ghost Tree graphics
 
 - Interactives
   - [x] Alternative light sources (glowing crystals, hanging/standing brazier, glowing plants)
@@ -81,21 +81,21 @@ graphics/UX tasks, `category:code` for code tasks, and
 
 ##### Icy Island
   - [x] Intro: Picnic with Penny
-  - [x] Interlude: A Yeti in the distance
-  - [x] Interlude: Where is Penny?
-  - [ ] Outro: Towards the Glacier Isle
+  - [x] Interlude: An Unsuspected Follower
+  - [x] Interlude: Nobody Home
+  - [x] Outro: Off to the Glacier Isles
 ##### Rooted Forest
-  - [x] Intro: A New Location
-  - [x] Interlude: An Eerie Plague
-  - [ ] Interlude: Gigantic tree
-  - [ ] Outro: Bye bye forest
+  - [x] Intro: Welcome to the Forest
+  - [x] Interlude: From A Far It Spreads
+  - [x] Interlude: The Root Of The Problem
+  - [x] Outro: Nature Is Healing
 
 ---
 
 ### Code
 
 - [ ] Comments: explain arbitary(?) constants in physics code
-- [ ] Improve Zeekling behavior
+- [x] Improve Zeekling behavior
 - [x] Sliding
 - [x] Swimming
 - [ ] Discuss: fluid simulation as game object rather than tiles?
