@@ -13,8 +13,8 @@ features/mechanics as well (swimming, etc.).
 
 This will be organized based off of the order it will likely be done in.
 
-*Note: After releasing of v0.7 we are going to freeze development to fix some overarching design flaws that piled
-up over the years! For more information, see [here](https://github.com/SuperTux/supertux/wiki/Cleanup-List).*
+*Note: After the release of v0.7 we are going to freeze development to fix some overarching design flaws that have
+piled up over the years! For more information, see [here](https://github.com/SuperTux/supertux/wiki/Cleanup-List).*
 
 # Contents
   1. [Graphics](https://github.com/SuperTux/supertux/wiki/Current-Design-Document#Graphics)
@@ -110,10 +110,7 @@ up over the years! For more information, see [here](https://github.com/SuperTux/
 
 ### Backgrounds
 
-- Rooted Forest – Completely redesign backgrounds throughout all of World 2
-  > "IMO the forest backgrounds are in need of a redo, the current ones seem very flat." - Alzter
-- General - More Cloud BGs
-- Parallax-ify many BGs.
+*Needs Content!*
 
 <details>
   <summary>Crystal Cave Concepts</summary>
@@ -158,7 +155,7 @@ up over the years! For more information, see [here](https://github.com/SuperTux/
 - Large enemy fish (3 x 2)
 
 **Rooted Forest**
-- Poison Ivy
+- Vicious Ivy
 - Walking Leaf
 - Leafshot
 - Mr. Tree
@@ -210,21 +207,16 @@ Add new sounds/cutscene speech for Tux, Penny and Nolok. Perhaps use a new VA?
 
 ### Mechanic Improvements
 
-**Rock**
+**Multiple-Key Locked Doors**
 
-Make rocks bounce off of Tux rather than killing him. Rocks should not be able to kill Tux!
+Some doors should require multiple keys to be unlocked.
 
 ### Mechanic Ideas
 
-**Slope Sliding**
+**Reusable Keys**
 
-Tux sliding down slopes like a real live penguin would be nice.
-
-**Locked Doors and Keys**
-
-Suggested by RustyBox, key would be like a powerup and would hovering over Tux and auto-unlock any locked door. Locked doors
-can&#39;t be opened, etc. Would be useful for puzzle stages. Sometimes, multiple keys are needed to open a door and this should
-be signalled.
+Reusable Keys would work like regular keys, but once they are used to open a door, they do not dissapear,
+allowing Tux to reuse the key.
 
 ### Level Editor
 
@@ -253,20 +245,12 @@ be signalled.
 
 - They should not go through each other.
 - Their flying speed should be configurable.
-- They should either have better pathfinding OR be able to go through solid land.
-
-**Poison Ivy & Walking Leaf**
-
-- Poison Ivy and Walking Leaf should fall slower, to differentiate it from the snowball and make it more realistic.
-  (requires new sprite)
 
 **Crystallo**
 
-- It should turn around better, with easing.
-- Instead of squishing, it should burst out into shards that fly around.
-- It should have an option to spawn by bursting out of walls that emerge when Tux is near, perhaps bursting out shards
-  at the same time?
+- When buttjumped, it should burst out into shards that fly around.
 - Crystallos should be immune to their own spikes, of course.
+- If two crystallo shards touch each other, they should form a new crystallo.
 
 **Haywire**
 
@@ -278,19 +262,13 @@ be signalled.
 **Shadow Tux**
 
 This is something that will tie in to the game's general story. It is a "shadow tux" that mimmicks Tux's movement on a
-delay (similar to keys) and appears in a sort of "Nightmare Library"
-
-**Swimming Fish**
-
-A fish enemy that swims back and forth should be added. It swims left to right, switching directions upon hitting a wall
-or when its range is up (the player can set the range, similar to crystallo). Three variants should be added: a small and
-big one, as well as a non-harmful tiny variant. They are planned to appear in the Icy Island and resemble the frozen fish.
+delay (similar to keys) and appears in a sort of "Nightmare Library." Could potentially be in Corrupted Forest.
 
 **Crystal Shards**
 
 Similar to the mole rock, it goes up and then down and kills anything in its path. If it collides with something, it
-sticks to it (its drawing layer is behind normal tiles) and 4 burst out of crystallos when they die.  They disappear
-after a short time but remain dangerous when stuck.  They also rotate depending on their direction.
+sticks to it (its drawing layer is behind normal tiles) and 4 burst out of crystallos when they die. They disappear
+after a short time but remain dangerous when stuck. They also rotate depending on their direction.
 
 **Stationary Ghost Roots**
 
@@ -298,50 +276,25 @@ Not really an enemy, but just ghost forest "spikes" that are squirming roots.
 
 **Blinking Ghost Roots**
 
-These are ghost tree roots that attack based on a timer. Most similar to the tree's usage of them.
+These are ghost forest roots that attack based on a timer. Most similar to the tree's usage of them.
 
 **Growing Ghost Roots**
 
 If Tux steps on them, after he leaves them they grow up so Tux cannot walk on that terrain anymore.
+All three variants should have an option to change the size of the root.
 
 ### Bosses
 
 These are mainly ideas that are somewhat cemented but can change at any time. These do not serve as mandatory tasks for bosses
 but are highly encouraged to be implemented.
 
-**Yeti**
-
-Before stomping and letting stalactites fall from above, the yeti will throw 2-3 bouncy snowballs. In Pinch Mode, after his
-throwing attack the yeti will throw a gigantic snowball that rolls to the other side of the arena and can crush Tux against
-the wall if not avoided quickly. This snowball breaks when hitting a wall.
-
-**Ghost Tree**
-
-The ghost tree will remain idle for a short time period, its eys following Tux and only attacking from below with its roots.
-These can be spotted by a crack in the ground. After this, the ghost tree will scream, followed by it inhaling one set of
-colored ghost wisps (red > green > blue > repeat). Depending on which color has been swallowed, the tree's eys will glow
-in that color and it will unleash a powerful attack.
-
-- red wisp: ghost tree rages and create a wave of roots which must be jumped over
-- green wisp: summons multiple ghost forest enemies
-- blue wisp: spawns an object that allows hurting the tree (maybe something like a bomb? or the lanterns, like are currently used)
-
-While the green and blue wisps are inhaled, the roots attack will continue to accour! In Pinch Mode the ghost tree will
-inhale all ghost wisps and combine all their attacks continuesly. Once it looses another life all returns to normal when
-hit until all ghost wisps are inhaled again.
+*Needs content!*
 
 ---
 
 # Story
 
-Add missing cutscenes for these scenarios:
-- Icy Island Boss beaten
-- Icy Island Outro
-- Rooted Forest Boss introduction
-- Rooted Forest Boss beaten
-- Rooted Forest Outro
-
-More cutscenees can be added as well, if required!
+*Needs content!*
 
 ---
 
@@ -349,10 +302,7 @@ More cutscenees can be added as well, if required!
 
 ### Levels in general
 
-The levels of the Add-On menu (Bonus Islands I-IV, Halloween 2014, etc.) should be divided from other contrib levels, which
-can be downloaded manually or in-game from "Add-Ons". Manually downloaded levelpacks would be subfoldered under "Community Levels",
-while those already in game would be in a own folder named "Add-Ons". This would make the list of Add-Ons shorter and would clear
-up which levels are official and which not.
+The Christmas and Halloween Specials should be redone.
 
 ### Normal Levels
 
@@ -364,15 +314,7 @@ activated by rocks, etc. Make the most of the level gimmicks!
 One of the most stupid and awful level design philosophies I have seen (especially since it was used to block level proposals
 in the past) is to water down the quality of certain levels to make others stand out, and to this I say: No! That is stupid!
 You&#39;re only going to improve with time, so you can always go back and add on more and more and make ultimately all levels
-better. And anyway, would you rather have two amazing levels of the same quality or one crappy level + one amazing level?
-
-Another problem with current levels is sometimes having to hit bonus blocks to advance in a level. Some official levels
-do this and it should be removed, because every level should be beatable without hitting a bonus block.
-
-### Secret paths on worldmap
-
-Whenever a secret exit to a bonus level is unlocked, a path appears leading to that level. Currently able and might be easy
-to implement.
+better. And anyway, would you rather have two amazing levels of the same quality or one bad level + one amazing level?
 
 ### Cutscenes
 
@@ -381,12 +323,6 @@ Update cutscenes with the new story decisions and the new graphics/stuff decided
 Maybe add designated text boxes for characters when they speak instead of using the default info box?
 
 **The Castle of Nolok**
-
-The cutscene at the very beginning should be skippable. (Although skippable cutscenes exist, they don't place Tux where
-he needs to be. Fix this!!)
-
-The cutscene at the very beginning should also only play once per level session. (If the player dies in the level, DON'T
-show it.  If the player leaves the level and reenters it, then DO show it.)
 
 If you play through the cutscene after the level and don't skip it, then the level stats will be erased or overridden.
 This should be fixed!!
@@ -410,6 +346,9 @@ This contains confirmed features/tasks for post 0.7/World 3+.
 
 - **Toucan**
   - Flying
+  - Perched
+  - Diving
+  - Landing
   - Other/cutscene sprites
 - **Totem Boss**
   - Inactive
@@ -436,40 +375,45 @@ a wider explosion radius. Furthermore, when they explode they shoot out 2-3 smal
 **Hellbent**
 
 Hellbents are black bombs that run straight towards Tux and explode on contact with either Tux, another enemy or a wall. If they
-face away from Tux they will turn around to run towards Tux again.
+face away from Tux they will turn around to run towards Tux again. Hellbents can jump over a small distance, like the haywire. If
+Tux stomps on the Hellbent's head, it will stun the the bomb, but the third time stomping, the hellbent will get stunned like before,
+and then explode.
 
 ### Bosses
 
 **Toucan and Totem Boss**
 
-The toucan will primarly fly high up while performing several attacks from above. Occasionally, (if totem boss is present in the
+The Toucan will primarly fly high up while performing several attacks from above. Occasionally, (if Totem boss is present in the
 same sector) they will land on the highest totem head to protect it from Tux - otherwise they will stay midair constantly!
 
-Attacks the toucan could perform:
+Attacks the Toucan could perform:
  
 - Spits 3 seeds in an arc (triple shot) - repeats this attack at a set interval depending on its current health
   (i.e. 5 lives -> attack once, 4 health -> attack twice, ... etc.)
-- A dive attack Tux must jump over to avoid, also giving him a chance of attacking the toucan
-- Toucan summons a few of his normal sized totem minions (if totem boss is not present/defeated beforehand)
+- A dive attack Tux must jump over to avoid, also giving him a chance of attacking the Toucan
+- Toucan summons a few of his normal sized totem minions (if Totem boss is not present/defeated beforehand)
 
-The totem boss consists out of 5 head pieces which must all be destroyed in order to defeat the boss. Depending on how many head
-pieces are remaining the totem boss will perform a different attack.
+The Totem Boss consists out of 5 head pieces which must all be destroyed in order to defeat the boss. Depending on how many head
+pieces are remaining the Totem Boss will perform a different attack.
 
-- 5 heads: chases Tux and tries to squish him against a wall (requires Up Splasher or trampoline to avoid)
-- 4 heads: totem shoots spikeball projectile while chasing Tux and trying to squish him
-- 3 heads: spins its sharp wings while constantly jumping (instead of running)
-- 2 heads: reveal spikes on top (other head spits out 1 fire rock & 1 normal rock in sequence normal rock must thrown against upper head)
-- 1 head: totem flies over Tux and stombs down once it is right above Tux (like ice crusher) giving Tux time for a final attack
+- 5 heads: Chases Tux and tries to squish him against a wall (requires Trampoline to avoid)
+- 4 heads: Totem shoots spikeball projectile while chasing Tux and trying to squish him
+- 3 heads: Spins its sharp wings while constantly jumping (instead of running)
+- 2 heads: Reveals spikes on top (other head spits out 1 fire rock and 1 normal rock in sequence; normal rock must be thrown against the upper head)
+- 1 head: Totem flies over Tux and stomps down once it is right above Tux (Like the Crusher) giving Tux time for a final attack
 
 If a totem head is destroyed it pushes Tux away to prevent landing on the next head right away (like the 'push-explosion' radius).
-The throwable rock will be a mechanic in the 3rd castle or prior in world 3, allowing to break through certain walls and crush
-enemies (informing the player that they are throwable and effective against enemies).
+The throwable rock will be a mechanic in the Tropical Paradise castle or prior in world 3, allowing to break through certain walls
+and crush enemies (informing the player that they are throwable and effective against enemies).
+
+Things to be considered:
+- How do you defeat a Totem head?
 
 ---
 
 # Unconfirmed Ideas
 
-Only some, few or none of this stuff may be added, or might get added at a later time.
+Only some, a few, or none of this stuff may be added, or might get added at a later time.
 
 ### Features that would affect current gameplay
 
@@ -505,17 +449,13 @@ to be specific) to his demise. Could be used for older levels, where the swimmin
 **Weighted Pushbutton**
 
 A pushbutton who is only activated when something is pressing it and otherwise turns off. Would have a different color and sprite
-to differentiate it.
-
-**Skull Tile & Falling Tiles**
-
-Skull tiles as well as falling tiles should respawn when they have fallen. Either off-screen or on-screen.
+to differentiate it. A good color for it could be teal, as it contrasts well with red.
 
 ### Features that wouldn't affect current gameplay
 
 **More editing options for decals**
 
-Add ability to change a decal's scroll speed and tint. Also decals should be scriptable, and should fade.
+Add ability to change a decal's rotation, flipping (horizontal or vertical), and tint. Also decals should be scriptable, and should fade.
 
 **Better background system**
 
@@ -560,9 +500,13 @@ Add sound effects for when Tux walks on different tiles, and overall better soun
 A colorable, easily placeable light source for pretty effects in levels, and the editor can decide if it obeys gravity, what color
 it is, its shape + rotation, etc...
 
-**Ice floes**
+**Tinted Rublights**
 
-Ice floes that respond to the gravity placed on top of them would add some goodness.
+Rublights could have a setting to change the tint of it, which will change what color it glows when it is rubbed against.
+
+**Floating ice floes**
+
+Ice floes that respond to the gravity placed on top of water would add some goodness.
 
 **Thumbs up**
 
@@ -570,10 +514,13 @@ Tux should twirl and do a happy little thumbs up while the level ending is playi
 
 **Scripting events based off of a time of day**
 
-There should be support for adding scripts that only happen if the player is playing at a certain time of day.
+There should be support for adding scripts that only happen if the player is playing at a certain time of day. Possibly
+a variable in Squirrel Scripting, `time-of-day`. It could work in 24-hour, and return something like this: 1234, 0952,
+1602, etc.
 
 **After-a-while easter eggs/Idle-Graphics**
 
 Snowballs and other enemies do a little break after a while. After all, they were walking for so much time… Tux, after a while of
-not moving, also gets angry and curses the screen. Jumpy just stops jumping after a while
+not moving, sits down and eventually falls asleep. To wake Tux up, the player needs to press any key, and after a moment Tux will
+wake up. Jumpy just stops jumping after a while
 
