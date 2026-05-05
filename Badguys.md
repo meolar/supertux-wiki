@@ -14,7 +14,7 @@
 - Crystallo
 - Sleeping Crystallo
 - Roof Crystallo
-- Yeti (Boss)
+- Yeti (BOSS)
 
 ## Badguys of Rooted Forest
 
@@ -43,7 +43,7 @@
 - Ghoul
 - Will o' Wisp
 - Spidermite
-- Ghost Tree (Boss)
+- Ghost Tree (BOSS)
 
 ## Misc Badguys
 
@@ -67,3 +67,13 @@
 - Totem
 
 ## Proposed Badguys
+
+### Icy Island
+
+### Rooted Forest
+
+### Tropical Paradise
+
+### Mountain Peak
+
+### Misc
