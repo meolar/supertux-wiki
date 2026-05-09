@@ -478,6 +478,8 @@ more intense if this point is behind that tree), it becomes alive and hunts tux.
 A badguy that lives underwater. See wikipedia article about this: en.wikipedia.org/wiki/Leopard\_Seal - They can grab penguins under
 water, they can't breath and they die.
 
+> "That's one that I've wanted since M1."
+
 ### Flattop/Flatbottom Iceberg
 
 Flattop Iceberg looks like an upside-down icy cone with eyes that follow Tux and lives only in water. When jumped on,
@@ -550,7 +552,7 @@ in a skull.
 ### Mr. Bubble
 
 Mr. Bubble looks like a very fat ghost with legs and eyes. It bounces around like a Bouncing Snowball, but it is slower.
-above the ground at random times. Upon spotting Tux, it shoots bubbles at him, and Tux has to dodge them. If he doesn't, he
+Upon spotting Tux, it shoots bubbles at him, and Tux has to dodge them. If he doesn't, he
 gets caught in the bubble, the bubble shrinks to a tiny dot, there is a pop sound, and Tux dies.
 
 Mr. Bubble 2: Looks and acts the same as Regular Mr. Bubble, but the bubble warps Tux. It appears to have a willowisp
