@@ -1,4 +1,4 @@
-_This page aims to gather the types of themes each world should have/needs to feel complete!_
+*This page aims to gather the types of themes each world should have/needs to feel complete!*
 
 **General themes** are open to optional alternate tracks to allow for some variety in levels of the same theming.
 
@@ -43,7 +43,7 @@ world 1 (the current `airship_remix.ogg` has a fitting vibe for the outpost so i
 
 The Crystal Mine's theme should be the most different out of the musical pieces of world 1, as it represents Tux leaving the
 familiar island - preparing to leave his home and traveling towards the unknown (Rooted Forest) to rescue his beloved friend!
-A mix worry but also determination.
+A mix of worry but also determination.
 
 ### General Themes
 
@@ -76,14 +76,14 @@ The music of Rooted Forest should focus more on the mystique, beauty and wonder 
 A place Tux has never seen before. Exciting but with a little bit of caution! The Granito themes
 should be closer to the feel of Icy Island, minus the Ruins theme. A safe and welcoming place inhabited by kind, yet curious
 creatures bouncing around in a beautiful and calm landscape. The ancient ruins of Granito on the other hand are more mysterious and ominous
-sounding in nature - abandoned
+sounding in nature - abandoned.
 
 The themes for nighttime levels and thunderstorms should feel much more intense due to the powerful lightning
 strikes and bombardment from the Owls. A nice climactic end to the forest world, right before the hidden
 underground outpost and dark tunnels, ultimately followed by the Corrupted Forest!
 
 The underground outpost and the dark underground level right after are the transition from normal to corrupted forest.
-Ideally their themes should make you feel more uneasy but not give a way the horrors yet to come. Like a looming evil
+Ideally their themes should make you feel more uneasy but not give away the horrors yet to come. Like a looming evil
 you cannot quite put your finger on. Depending on how it is done, both levels might be able to share a theme.
 
 ### General Themes
@@ -119,10 +119,10 @@ the corruption.
 
 Potentially some "twisted" remixes of normal forest themes or at least some slight references here and
 there to connect them closer together. The Corrupted Granito themes going in a more somber direction as
-the once welcoming and lively Granito are now nothing but a mindless husk, roaming the fully overtaken
-and destroyed villages and ruins
+the once welcoming and lively Granito are now nothing but mindless husks, roaming the fully overtaken
+and destroyed villages and ruins.
 
-For the final level of world 2 (likely named "Regrowth"), the theme should bare a more hopeful tone.
+For the final level of world 2 (Floral Blossom), the theme should bear a more hopeful tone.
 At last a moment of relief! The Ghost Tree has been destroyed and the forest slowly begins to recover.
 However the damage left by the Corruption (e.g. broken terrain, ruined land) do remain as a reminder of
 what happend. Grateful for Tux's help, Granito are helping Tux too, proceeding to carry him across the
@@ -131,8 +131,8 @@ ocean towards the 3rd world, Tropical Paradise!
 ### General Themes
 
 - Surface level theme (one calm, one intense)
-  - [ ] calm, uneasy
-  - [ ] tense, threatening
+  - [ ] Calm, uneasy
+  - [ ] Tense, threatening
 - [ ] Underground level theme
 - [ ] Sky/Airborne level theme (not quite part of Story Mode but useful more vertical/mountainous levels)
 - [ ] Underwater level theme (not part of Story Mode but useful for those who wish to make a corrupted water level)
@@ -150,8 +150,8 @@ ocean towards the 3rd world, Tropical Paradise!
 
 ---
 
-_NOTE: This following two list contains potential themes needed for future worlds. Until specified otherwise these are not
-yet required, but already written down to have an initial list ready to go!_
+*NOTE: This following two list contains potential themes needed for future worlds. Until specified otherwise these are not
+yet required, but already written down to have an initial list ready to go!*
 
 ---
 
@@ -209,6 +209,6 @@ feel due to all you be seeing is an endless sky of thick clouds below you. A mix
 - [ ] Worldmap theme
 - [ ] Bomb Factory level theme - reference world 3 (Tropical Paradise)
 - [ ] Corrupted level theme - reference world 2 (Corrupted Forest)
-- [ ] Climactic castle level theme - - reference world 1 (Icy Island)
+- [ ] Climactic castle level theme - reference world 1 (Icy Island)
 - [ ] Nolok boss theme
 - [ ] Nolok final phase theme
