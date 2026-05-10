@@ -1,5 +1,7 @@
 ## Badguys of Icy Island
 
+[See here](Badguys-World-1.md) for a more descriptive page of all Icy Island Badguys.
+
 - Mr. Snowball
 - Mrs. Snowball (Smartball)
 - Captain Snowball
@@ -17,6 +19,8 @@
 - Yeti (BOSS)
 
 ## Badguys of Rooted Forest
+
+[See here](Badguys-World-2.md) for a more descriptive page of all Rooted Forest Badguys.
 
 - Vicious Ivy
 - Walking Leaf
@@ -47,6 +51,8 @@
 
 ## Misc Badguys
 
+[See here](Badguys-Misc.md) for a more descriptive page of all Miscellaneous Badguys.
+
 - Crusher
 - Stalactite
 - Jumping Fish
@@ -68,12 +74,66 @@
 
 ## Proposed Badguys
 
+This is a section where you can see a list of various badguys that are not currently in the game, and may or may not be added in the future.
+
 ### Icy Island
+
+- Flying Iceblock
+- Spinning Snowball
+- Snowdive (Icy variant of Skydive)
+- Cavefish
+- Minecart
+- Falling Crystal
 
 ### Rooted Forest
 
+
+- Woodpecker
+- Bluejay
+- Carnivorous Plant
+- Mother Snail
+- Bouncy Bush
+- Beetle
+- Ghost Plant
+- Shadow Tux
+- Corrupted Owl
+- Zuurkling
+
 ### Tropical Paradise
+
+- Totem
+- Totem Jumpy
+- Venus Trap
+- Evil Seaweed
+- Chameleon
+- Parrot
+- Frog/Toad
+- Snake
+- Monkey
+- Piranha
+- Squid
+- Pufferfish
+- Crab
+- Anglerfish
+- Hungry Parakeet
+- Palm Tree
+- Coconut
+- Mosquito
+- Electric Eel
+- Feral Pig
+- Seagulls
+- Shark
+- Tumbleweed
+- Bee/Wasp/Hornet
 
 ### Mountain Peak
 
+- Rusty Bomb
+- Hellbent
+- Metal Crusher
+- Rocket
+- Razorcopter
+
 ### Misc
+
+- Kugelblitz
