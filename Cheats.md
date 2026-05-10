@@ -1,1 +1,1 @@
-See [[Developer Mode]]
+See [Developer Mode](Developer-Mode.md)
