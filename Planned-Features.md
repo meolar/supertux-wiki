@@ -1,12 +1,12 @@
-You can see, what everything is planned to next SuperTux releases.
+This is a list of features planned to be implemented in the next release.
 
-* \[?\]: Implementing of that feature isn't still sure.
-* \[⇓\]: This feature is planned.
-* \[➔\]: It's beeing worked on implementing that feature.
+* \[?\]: Implementing of the feature isn't still sure.
+* \[⇓\]: The feature is planned.
+* \[➔\]: Implementing the feature is being worked on.
 * \[✔\]: This feature is implemented in development versions.
-* \[✖\]: ignored
-* \[⇓\]: moved to further release
-* \[ϴ\]: partionally done, patrionally ignored or moved
+* \[✖\]: Ignored
+* \[⇓\]: To be done in a further release
+* \[ϴ\]: Partionally done, patrionally ignored or moved
 
 0.3.5
 -----
@@ -19,23 +19,21 @@ You can see, what everything is planned to next SuperTux releases.
         -   \[⇓\] Crystal cave
         -   \[⇓\] Lavaland
         -   \[✖\] Giant chewinggum
-        -   \[✖\] Vomitland
 -   \[✔\] Many tilesets tweaks
     -   \[✔\] slope tiles for tilegroups:
-        -   \[✔\] darksnow
-        -   \[✔\] darksnow2
-        -   \[✔\] snow air platform
-        -   \[✔\] underground forest
-        -   \[✔\] ghostforest
+        -   \[✔\] Snow Cave
+        -   \[✔\] Snow Air Platform
+        -   \[✔\] Underground Forest
+        -   \[✔\] Ghostforest
     -   \[✔\] only border slope tiles for tilegroups:
-        -   \[✔\] snow
+        -   \[✔\] Snow
     -   \[✔\] upper slopes and border slope tiles for tilegroups:
-        -   \[✔\] forest
+        -   \[✔\] Forest
     -   \[✔\] some corner tiles for tilegroups:
-        -   \[✔\] forest
-        -   \[✔\] forest underground
-        -   \[✔\] darksnow2
-        -   \[✔\] ghostforest
+        -   \[✔\] Forest
+        -   \[✔\] Forest underground
+        -   \[✔\] Darksnow2
+        -   \[✔\] Ghostforest
     -   \[✔\] Upgrade signs.
         -   \[✔\] At least two new colour signs.
         -   \[✔\] Remove snow on the run sign.
