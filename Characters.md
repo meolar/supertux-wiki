@@ -92,6 +92,22 @@ Nolok is also like a crocodile hunting in that he waits patiently for his prey t
 springs his ambush; that's why we don't see Nolok in person until the very last stage when Nolok is ready to
 confront Tux.
 
+Granito
+-------
+
+<details>
+  <summary>Concept Art</summary>
+
+![](images/Granito.png)
+</details>
+
+Granitos are rock-like creatures living in Rooted Forest and are eventually plagued by the Ghost Tree corrupting their land.
+
+They are peaceful in nature and only those infected by the Ghost Tree turn hostile. In-game, large Granito can be
+encountered occasionally, resting in the wild, minding their own business. Tux can jump on them, like a platform, to
+reach extra heights or avoid approaching badguys or simply let them be.
+
+
 Badguys
 =======
 
@@ -143,23 +159,7 @@ Fluffy is a penguin that never moulted from his original fluffy feathers, so he 
 a good friend of Tux and Penny. However, he can't run as fast as Tux, but he can jump higher. Fluffy would be a
 second character for multiplayer which the person playing the game could control instead of Tux.
 
-Granito
--------
-
-<details>
-  <summary>Concept Art</summary>
-
-![](images/Granito.png)
-</details>
-
-Granitos are rock-like creatures living in Rooted Forest and are plagued by the Ghost Tree corrupting their land.
-
-They are peaceful in nature and only those infected by the Ghost Tree's turn hostile. In-game, large Granito can be
-encountered occasionally, resting in the wild, minding their own business. Tux can jump on them, like a platform, to
-reach extra heights or avoid approaching badguys or simply let them be.
-
-Corrupted Granito will attack when Tux is in sight and try to crush him under their own weight. They cannot be defeated
-but once they fell on the ground their infected bodies are too weak to rise back up thus remainng immobile.
+Fluffy could potentially be colored blue.
 
 Gandrus
 -------
