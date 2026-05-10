@@ -3,7 +3,7 @@ To download *SuperTux*, you can choose between two types of packages and the dev
 Stable release
 --------------
 
-The **[stable release](Download/Stable "wikilink")** contains a
+The **[stable release](https://supertux.org/download)** contains a
 playable *SuperTux* that should not suffer from critical bugs and has
 had much testing. If you simply want to play the game this is the
 package for you.
@@ -11,7 +11,7 @@ package for you.
 Development snapshot
 --------------------
 
-The **[development snapshot](Download/Unstable "wikilink")** contains
+The **[development snapshot](https://download.supertux.org)** contains
 a playable *SuperTux* that has not been fully tested and may suffer
 from critical bugs, but does sport newly added features. This package
 is for showing off and testing new features and levels, so don't
@@ -25,8 +25,7 @@ this package unless it is slotted beside the stable version.
 Git repository
 --------------
 
-The **[ Git repository](Download/Git "wikilink")** (formerly the
-[Subversion repository](Download/Subversion "wikilink")) contains
+The **[Git repository](https://github.com/SuperTux/supertux)** contains
 *SuperTux* in a state of development. This means new features and a
 large amount of bugs. If you are interested in the development of
 SuperTux, feel like contributing or just simply want to try out the
@@ -40,9 +39,9 @@ Levels and Additional Game Content
 
 Links to additional game content can be found on the following pages:
 
--   [Levels](Levels "wikilink")
--   [Modifications](Modifications "wikilink")
--   [Demos](Demos "wikilink")
+-   [Levels](Levels.md)
+-   [Modifications](Modifications.md)
+-   [Demos](Demos.md)
 
 Level Editor
 ------------
