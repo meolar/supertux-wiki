@@ -38,7 +38,7 @@ in the same direction the yeti went.
 
 ### Interlude: Nobody Home
 
-(Plays at the end of the level "Castle Of Nolok")
+(Plays at the end of the level "Castle of Nolok")
 
 Tux reaches an empty throne room with nothing but a letter hanging on a pillar. Another letter from Nolok that mentions
 him tricking Tux and taking off with Penny to a far-away forest. Suddenly Tux hears a yeti who runs towards a door nearby.
@@ -54,7 +54,7 @@ small ravine, leaving Tux no other choice than to fight the yeti.
 The yeti is beaten. Rubbing his head and angrily grunting, the yeti communicates his disbelief. When asked by Tux
 if he knew where Nolok went and how he could get there the yeti just laughs at the him. While further tantalizing
 Tux about his cluelessness the yeti accidentally reveals the location of the forest and where to find a boat to
-travel with. Realizing this, the yeti leaves the scene before revealing even more infomation. Tux now knowd where
+travel with. Realizing this, the yeti leaves the scene before revealing even more infomation. Tux now knows where
 he must go and sets off towards the glacier isle to find the crystal mine.
 
 Rooted Forest
@@ -69,7 +69,7 @@ setting shore, Tux hops out of his boat and takes his first steps in the grass. 
 wandering around, looking where to go. He decides to find some place higher up to get a better view of the land,
 since he has no idea where Nolok could have stationed his forest castle.
 
-### Interlude: The Land Is Changing
+### Interlude: From A Far It Spreads
 
 (Plays right before the corrupted forest)
 
@@ -86,7 +86,7 @@ the dangers in of the corrupted forest.
 
 ![](images/Ghostforest.png)
 
-### Interlude: Boss (The Gigantic Tree)
+### Interlude: Boss (The Root of The Problem)
 
 (Plays at the end of the tower level of Rooted Forest)
 
