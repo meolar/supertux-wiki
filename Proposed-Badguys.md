@@ -98,7 +98,6 @@ See also
 -   [Milestone 2 Design Document/Enemies](http://supertux.lethargik.org/wiki/Milestone_2_Design_Document/Enemies)
 -   [Current Design Document](https://github.com/SuperTux/supertux/wiki/Current-Design-Document)
 -   [Concept Art](https://github.com/SuperTux/supertux/wiki/Concept-Art)
+-   [Badguys](https://github.com/SuperTux/supertux/wiki/Badguys)
 -   [Bosses](https://github.com/SuperTux/supertux/wiki/Bosses)
 -   [Worlds](https://github.com/SuperTux/supertux/wiki/Worlds)
-
-<Category:Badguy>
