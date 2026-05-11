@@ -91,10 +91,10 @@ The Gold Bomb has the same behavior as *Mr. Bomb*. The only difference being tha
 | Freezable      | yes    |
 
 
-SkyDive
+Skydive
 =======
 
-![](img/badguy/icons/skydive.png)
+![](https://github.com/SuperTux/supertux/blob/master/data/images/creatures/skydive/skydive-0.png)
 
 A Skydive is a bomb in the shape of a fish that is usually carried around and dropped by
 *[Owl](https://github.com/SuperTux/supertux/wiki/Badguys-Forest#Owl)* but can also spawn from droppers.
@@ -112,7 +112,9 @@ They fall down to the ground once dropped and explode.
 Flame
 =====
 
-![](img/badguy/icons/flame.png "Flame") ![](img/badguy/icons/iceflame.png "Ice Flame") ![](img/badguy/icons/ghostflame.png "Ghost Flame")
+![](https://github.com/SuperTux/supertux/blob/master/data/images/creatures/flame/flame-0.png)
+![](https://github.com/SuperTux/supertux/blob/master/data/images/creatures/flame/iceflame.png)
+![](https://github.com/SuperTux/supertux/blob/master/data/images/creatures/flame/ghostflame-0.png)
 
 Flames are glowing spheres that rotate around in a circle at a set radius, hurting Tux when he gets too close. They are
 usually found in castles.
@@ -131,7 +133,8 @@ be destroyed with an ice ball and the ice flame variant with a fire ball.
 Cannon (dispenser)
 ==================
 
-![](images/Dispenser_rocket_launcher.png) ![](images/Dropper.png)
+![](https://github.com/SuperTux/supertux/blob/master/data/images/creatures/dispenser/cannon_middle.png)
+![](https://github.com/SuperTux/supertux/blob/master/data/images/creatures/dispenser/dropper.png)
 
 While not a badguy in its own right the cannon most commonly spawns badguys like
 *[Kamikaze Snowball](https://github.com/SuperTux/supertux/wiki/Badguys-Icy#Kamikaze)* or
@@ -159,7 +162,7 @@ Despite its cannon form, there also exists a dropper and invisible variant.
 Ispy
 ====
 
-![Ispy](img/badguy/icons/Ispy.png)
+![Ispy](https://github.com/SuperTux/supertux/blob/master/data/images/objects/ispy/i-idle.png)
 
 Ispy is an eye embedded  in a stone housing that works similar to a photoelectric sensor. When Tux can be seen by the eye it
 will activate a mechanism, like a door closing or a trap activating.
