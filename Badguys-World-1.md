@@ -8,7 +8,7 @@ Note: For some badguys, we still need to settle down on proper names (e.g. *Mrs.
 Mr. Snowball
 ============
 
-![](img/badguy/icons/snowball.gif)
+![](img/badguy/icons/snowball2.gif)
 
 Mr. Snowball is a straight forward walking enemy, when reaching an edge he will fall down and
 continue walking on the platform below. Jumping on him will squish him and thus kill him.
@@ -106,7 +106,7 @@ flies up and down constantly.
 Jumpy (snowjumpy)
 =================
 
-![](img/badguy/icons/snowjumpy.png)
+![](https://github.com/SuperTux/supertux/blob/master/data/images/creatures/jumpy/snow_up-0.png)
 
 Jumpy is an armored snowball, wearing a spiky helmet, who jumps up and down and stays stationary on the
 same position. His viewing direction follows Tux.
@@ -132,7 +132,7 @@ The simplest way of avoiding him is usually to run below him or jump over him at
 Spiky
 =====
 
-![](img/badguy/icons/spiky.gif "Awake Spiky") ![](img/badguy/icons/sleeping_spiky.png "Sleeping Spiky")
+![](img/badguy/icons/spiky.gif "Awake Spiky") ![](https://github.com/SuperTux/supertux/blob/master/data/images/creatures/spiky/spiky_sleep-0.png)
 
 Spiky behaves just like *Mr. Snowball*, but he carries a spiky helmet which makes him invulnerable against
 jump attacks as well as hurting Tux.
@@ -243,7 +243,8 @@ He is so concentrated on this, however, that he cannot turn or adjust his veloci
 Crystallo
 =========
 
-![](img/badguy/icons/crystallo.gif "Awake Crystallo") ![](img/badguy/icons/sleeping_crystallo.png "Sleeping Crystallo")
+![](img/badguy/icons/crystallo.gif "Awake Crystallo")
+![](https://github.com/SuperTux/supertux/blob/master/data/images/creatures/crystallo/sleep-0.png)
 ![](img/badguy/icons/roof_crystallo.gif "Roof Crystallo")
 
 Another very basic enemy, but unlike the *Mr. Snowball* or *Mr. Iceblock* he doesn't walk around in a straight
@@ -264,7 +265,8 @@ pop out of their sleepyhole and behave just like any other Crystallo.
 Ice Crusher
 ===========
 
-![](img/badguy/icons/icecrusher_krush.png "Krush") ![](img/badguy/icons/icecrusher_krosh.png "Krosh")
+![](https://github.com/SuperTux/supertux/blob/master/data/images/creatures/crusher/krush_ice_hit.png)
+![](https://github.com/SuperTux/supertux/blob/master/data/images/creatures/crusher/krosh_ice_hit.png)
 <details>
   <summary>Concept Art</summary>
 
@@ -288,7 +290,7 @@ There are two kinds of Ice Crushers, differentiated by their size: Krush (2x2 ti
 Stalactite
 ==========
 
-![](img/badguy/icons/stalactite.png)
+![](https://github.com/SuperTux/supertux/blob/master/data/images/creatures/stalactite/stalactite_ice.png)
 
 The stalactite stays stuck to the ceiling until Tux walks near it, then begins shaking. After a bit of shaking,
 it falls down in an attempt to hurt Tux, while also harming badguys that get in the way.
