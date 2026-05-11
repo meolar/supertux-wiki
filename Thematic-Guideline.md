@@ -56,14 +56,14 @@ All boss fights are meant to vary in how they are fought and how they behave.
   level and attacks upon reaching one side of the arena. Avoid his attacks and jump on his head. Simple.
 
 - The fight against the **Ghost Tree**, the boss of Rooted Forest, will be more round based. Tux can only attack them during a
-  certain attack once whereas the Yeti can be attacked multiple times in between attacks and even during his attacks (if skilled enough).
+  certain attack once whereas the Yeti can be attacked multiple times in between attacks, if skilled enough.
 
 - The boss fight of Tropical Paradise against **Toucan** and **Master Totem** is unique in the way that Tux must fight two
   separate boss enemies at once (however they can also function separate from one another). Toucan attacks the player from high up
   while granting a chance for a counter attack every once and awhile. Master Totem, in the meantime, will attempt to hurt Tux with
   varying attacks, serving as an additional obstacle during the Toucan fight. Its attacks are depended on their amount of lives!
 
-- **Nolok** is the final boss of the game and is going to appear in Nolok's Mountain Peak. It is yet not confirmed how his boss
+- **Nolok** is the final boss of the game and is going to appear in Nolok's Mountain Peak. It is not yet confirmed how his boss
   fight is going to function. Either Nolok uses a combination of attacks based on past boss fights and his own unique attacks
   or Nolok only uses a unique moveset of his own.
 
@@ -88,7 +88,7 @@ This section must yet be discussed in more detail but there are certain aspects 
 > "My only true point for a shop or similar is that the coins need some sort of purpose. If not level bonuses, maybe hints
   for the NOLOK-keys or other hints, unlockables maybe?" - RustyBox
 
-* Is Tux a Ninja? Should he have a dash move? Or is he less mobile?
+* Is Tux a ninja? Should he have a dash move? Or is he less mobile?
 
 > "SuperTux should remain simple in gameplay. Tux is a fat penguin, and although he should factually be mobile (because it's a platformer),
   his moveset shouldn't make him look skilled in movement (aka, no ninja moves)" - Semphris
