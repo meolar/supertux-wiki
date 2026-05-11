@@ -29,7 +29,7 @@ Avoid the temptation to think "more is better" by using nearly every enemy / bac
   good, but it should be consistent. Same goes for tilesets. Don't mix tilesets! There shouldn't be any ice or castle tiles in
   a forest level, unless there is an obvious reason (like transition into another area).
 * Select a handful of enemies that best fit the level style and stick with those rather than using every enemy type available.
-  Do not randomly mix enemies of all different kinds. Your Level should follow a certain theme and thus focus on enemies that
+  Do not randomly mix enemies of all different kinds. Your level should follow a certain theme and thus focus on enemies that
   fit that theme. For example, fire enemies should only appear in castle levels. In addition, don't just randomly place each
   and every type of snow enemy into a level - pick a few enemies that best fit into your level.
 
@@ -115,7 +115,7 @@ make sense. For example:
 
 Transitions between sectors should also make sense. Having Tux walk off a screen of overground ice and suddenly appearing in
 the middle of a castle is confusing. Also one-way sector transitions should only be used where it is logical, such as dropping
-down a hole. Doors should be two-way. Sectors designed to be next to each other should be able to be visually connected.
+down a hole. Sectors designed to be next to each other should be able to be visually connected.
 
 ![How NOT bind sectors together](images/Nsb.png "How NOT to bind sectors together")
 
@@ -185,14 +185,14 @@ Here are some ways you could hide a bonus or secret area:
 
 ### Other things to consider:
 
-* Creating paths that are only two tiles high. Make things high enough that SuperTux can jump.
+* Creating paths that are only two tiles high. Make things high enough that Tux can jump.
 * Don't create jumps that require pixel perfect precision unless it is for a special secret area. Always leave some room for error!
 * Don't use invisible tiles for normal gameplay.
 * Do not overuse switches and doors: SuperTux isn't an adventure game, it's a jump'n run, so make the level straightforward and
   easy to understand.
 * Avoid creating large monotonous spaces; players get tired of running around a huge level.
 * Don't allow dead ends or impossible levels; either the player dies, or there's still a way to solve it or return (allowing the player to
-  suicide from a trap works as well). Test your level thoroughly to find possible paths you missed before.
+  die from a trap and respawn works as well). Test your level thoroughly to find possible paths you missed before.
 * Avoid impossible-to-reach coins, powerups, areas, and badguys. Collecting everything or reaching everywhere in a level is often
   important to players. However, difficulty can be just short of impossible - requiring frame-by-frame accuracy is fine. (So long
   as you provide a demo to prove that it is in fact possible) This only applies to bonus items - players should be able to complete
@@ -223,7 +223,7 @@ Here are some ways you could hide a bonus or secret area:
 * Enemy Visibility: Take care when using Front Passive objects to ensure they never completely cover any enemies. If you want a
   section where Tux appears behind the scenery, don't put any enemies in it.
 * Use the Textbox only if necessary as a player may have a limited knowledge of the English language or even none at all.
-* Never require to be small Tux to reach an Area.
+* Never require to be small Tux to reach an area.
 * Do not use deadly-falls to disguise a secret unless there is an obvious hint that suggests to jump down there.
 * No secret areas right above a Crusher behind the ceiling. Leave at least a gap of two tiles between the Crusher and ceiling
   as well as hints that there actually is a secret. Make sure players can tell whether or not they get crushed riding the Crusher.
