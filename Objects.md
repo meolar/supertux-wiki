@@ -12,8 +12,9 @@ however, serve as obstacles Tux must avoid.
 
 ### Bonus Blocks
 
-![](images/Bonusblock.png)
-![](https://github.com/SuperTux/supertux/blob/master/data/images/objects/bonus_block/purple_0.png?raw=true)
+![](https://github.com/SuperTux/supertux/blob/master/data/images/objects/bonus_block/full-0.png)
+![](https://github.com/SuperTux/supertux/blob/master/data/images/objects/bonus_block/orange-0.png)
+![](https://github.com/SuperTux/supertux/blob/master/data/images/objects/bonus_block/purple-0.png)
 
 Bonus Blocks generally contain coins and sometimes powerups. Generally you cannot see what is in the block until you hit it.
 They can be hit from below but also can be butt-jumped from the top as well as being hit by throwable badguys, like
@@ -21,7 +22,7 @@ They can be hit from below but also can be butt-jumped from the top as well as b
 
 ### Info Block
 
-![](https://github.com/SuperTux/supertux/blob/master/data/images/objects/bonus_block/infoblock.png?raw=true)
+![](https://github.com/SuperTux/supertux/blob/master/data/images/objects/bonus_block/infoblock-0.png)
 
 Info Blocks can give valuable information about the level ahead. They can be hit from below or butt-jumped from on top. 
 
