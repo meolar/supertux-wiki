@@ -1,55 +1,47 @@
-Here I present my ideas. I hope they can make SuperTux more dynamic, entertaining and interesting.
-
+Here I present my ideas. I hope the SuperTux developers can make the game more dynamic, entertaining and interesting.
   
 Why not put them on the main page like everyone else. That way you don't have to repeat the stuff that was already suggested 6E23 times.
 
 Ice breaking
 ------------
 
-There are ice tiles or ice ground that can be walked on. They can also be jumped on without break. But if Tux does the “buttjump” then it breaks the tile/ground. Perhaps this can be used to reach other areas or enter secret places.
-
+There are ice tiles or ice ground that can be walked on. They can also be jumped on without break. But if Tux does the “buttjump” then it breaks the
+tile/ground. Perhaps this can be used to reach other areas or enter secret places.
   
 It should only work when tux is big.
 
 Geiser
 ------
 
-There can be geisers on levels. That blow up water. Tux can stand on this stream to reach high places which are too high for him to jump upon. Could also be wind or something.
-
+There can be geisers on levels that blow up water. Tux can stand on this stream to reach high places which are too high for him to jump upon. Could also be wind or something.
   
-There is wind already.
-
+> There is wind already.
   
-Oh, wind is good, I've never seen wind in Supertux yet though. --smallfoot
+> Oh, wind is good, I've never seen wind in Supertux yet though. --smallfoot
 
 Teleporter
 ----------
 
 There are teleporters or some magic force fields that work as teleportation means on the level. When Tux walks into the teleporter he gets teleported to somewhere else.
-
   
-Doors.
-
+> Doors.
   
-Yes, doors are good. But maybe have other stuff too like teleporter, magic force field, hole, cave or something. --smallfoot
+> Yes, doors are good. But maybe have other stuff too like teleporter, magic force field, hole, cave or something. --smallfoot
 
-Can be done already. A door with another sprite or a script trigger. --[WolfgangB](mediawiki/Users/wolfgangb) 19:47, 7 Sep 2006 (BST)
-
+> Can be done already. A door with another sprite or a script trigger. --[WolfgangB](mediawiki/Users/wolfgangb) 19:47, 7 Sep 2006 (BST)
   
-There should be some cool sprites included in the game which can be choosed.
+> There should be some cool sprites included in the game which can be choosed.
 
 Diving
 ------
 
 Tux can dive in water. Perhaps he need go up to surface to get more air sometimes (limited time underwater). Movement under water is slower than on land. Perhaps there are monsters under water such as sharks, pirayas, “the dopefish” and perhaps even some kind of boss. Can be a underwater tunnel, world, level, cave or something. Maybe need pull a switch/lever under water or do something there to open something on the surface.
-
   
-Time limit sucks.
+> Time limit sucks.
 
-Uhm.. since when a penguin is faster on land than on water?
+> Uhm.. since when a penguin is faster on land than on water?
 
-  
-All the blocks he ran his head in have to have some effect.
+> All the blocks he ran his head in have to have some effect.
 
   
 Ok, I know the game is already unrealistic but there are still things that don't need to be forced. Why should Tux swim slower? its because Super Mario swims slower? Super Tux is another game and I think it has the right to break some non-existent rules on platform games. Been a penguin I think *at least* Tux should have the same speed than on land (though with different acceleration and physics), the underwater enemies could be faster too. I find many platform games too slow when they go underwater.
