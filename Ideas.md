@@ -202,7 +202,7 @@ These don't fit in the main story but could be playable as contrib / add-ons.
 - Mountain Range
 - Underground Laboratory
 - Ghost World
-- Light-And-Magic World
+- Light & Magic World
 - Ocean
 - Cave
 - Jungle
@@ -382,7 +382,7 @@ This is for miscellaneous enemy ideas. Any world-specific enemy plans or ideas c
 ![](images/Tumbleweed.png)
 
 Its graphics are implemented, but there is no sprite or badguy for them. It rolls along the floor, when Tux is on the left or on
-the right. When Tux is above or under, it stops rolling. It hurts on touch and it can't be squished. It's flameable and freezable.
+the right. When Tux is above or under, it stops rolling. It hurts on touch and it can't be squished. It's flamable and freezable.
 
 ### Hanging Ball
 
@@ -391,7 +391,19 @@ the right. When Tux is above or under, it stops rolling. It hurts on touch and i
 It could be a stone stalactite that fits the forest and jungle theme, but stone stalactite wouldn't break suddenly. It's a ball
 of dirt and stones hanging on a wine. When Tux walks under it, it would fall down. It hurts on touch. When it's hit by fireball,
 it falls down and when it's hit by iceball, it will freeze and it doesn't fall, when is Tux under it. It doesn't freeze enemies,
-like [Stalactite](https://github.com/SuperTux/supertux/wiki/Badguys-Icy#stalactite).
+like [Stalactite](https://github.com/SuperTux/supertux/wiki/Badguys-World-1#stalactite).
+
+### Turtle
+
+A turtle that can hide inside its shell. It walks around like a snowball, but when stepped on, it will hide inside its shell.
+Once hidden, it can be picked up like a rock. During this period, nothing can hurt it, except for buttjumps or a crusher.
+After 10 seconds of not being carried, it wakes up and starts walking again.
+
+- When shot with fireball: If on the shell, nothing happens and the turtle hides. If on the front (face) it burns as usual.
+- When shot with iceball: If on the shell, the shell freezes and the turtle walks out without a shell. If on the front, it freezes as usual.
+When the turtle goes out of its shell, itbecomes more vulnerable and can be squished, frozen or flameable.
+
+There will also be a sleeping version of the turtle.
 
 ### Swarm of Flies
 
@@ -411,8 +423,8 @@ particles will appear on death.
 
 ![](images/Mr_slimy.png)
 
-Mr. slimy will be squishable, freezable, but not flameable. When Tux jumps on it, Tux will stick and he will move twice slower
-for five seconds. However, when it will be frozen first, this effect won't appear.
+Mr. slimy will be squishable, freezable, but not flameable. When Tux jumps on it, Tux will stick and he will move twice as slow
+for five seconds. However, when it is frozen first, it will not affect Tux.
 
 ### Root
 
@@ -426,7 +438,7 @@ Only the stones will hurt Tux. Root will be flameable and freezable.
 Tux gets off the ship at a pier, when he hears a splash. He looks at the water, and sees a giant panda bear get out and on
 to the pier. Tux prepares to fight him...
 
-... The boss panda bear is stunned, and he falls in to the water, causing a huge wave. Tux is swept off his feet and
+...The boss panda bear is stunned, and he falls in to the water, causing a huge wave. Tux is swept off his feet and
 carried through the water, screaming.
 
 > "What is the moveset? Also we already have a big, fuzzy character, the yeti."
@@ -1428,7 +1440,7 @@ Maybe Tux Could ride a seal like Mario rides Yoshi! that would be fun.
 
 Rotatable platforms! Like moving platforms, except they can rotate.
 
-Ability to move platforms without a fixed path. Something like: platform.move(x, y, speed). An optional turtle-like scripting
+Ability to move platforms without a fixed path. Something like: platform.move(x, y, speed). An optional -like scripting
 interface would be good, on the other hand it could be overkill.
 
 Platforms that detect whether Tux is standing on them and only start moving once Tux is on them. And it could even change
