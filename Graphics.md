@@ -1,6 +1,6 @@
 ## Want To Help The SuperTux Team?
 
-We need artists, who can provide us with images to use in the game. This file should provide a good starting point for anyone willing to contribute.
+We need artists who can provide us with images to use in the game. This file should provide a good starting point for anyone willing to contribute.
 
 We currently are not offering money for any contributions, unless a member of the team has said otherwise, although this is unlikely.
 
@@ -12,4 +12,4 @@ Useful links:
 
  - [Guide to drawing](http://pingus.seul.org/~grumbel/gimp/drawing/)
  - [SuperTux Downloads Page](https://supertux.org/download.html)
- 
+ - [The wiki's guide on drawing art](Art.md)
