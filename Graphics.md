@@ -10,6 +10,6 @@ Please join us on [IRC](https://github.com/SuperTux/supertux/wiki/IRC), and ask 
 
 Useful links:
 
- - [Guide to drawing](http://pingus.seul.org/~grumbel/gimp/drawing/)
+ - [Guide to drawing](https://web.archive.org/web/20211027224832/http://pingus.seul.org/~grumbel/gimp/drawing/)
  - [SuperTux Downloads Page](https://supertux.org/download.html)
  - [The wiki's guide on drawing art](Art.md)
