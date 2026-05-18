@@ -1,34 +1,34 @@
-> **Note:** This Wiki is converted from the previous Mediawiki format, this conversion is not
-  complete, but progressed far enough that this Wiki is ready to be used again, a lot of outdated
+> **Note:** This wiki is converted from the previous Mediawiki format. The conversion is not
+  complete, but progressed far enough that this wiki is ready to be used again, a lot of outdated
   information does however remain. If you find some, don't delete it, update it and/or move it to
   an appropriatly titled archive page.
 
-This Wiki is used to document the current state of [SuperTux](https://www.supertux.org) as
+This wiki is used to document the current state of [SuperTux](https://www.supertux.org) as
 well as keep track of proposed additions and changes.
 
-This Wiki is targeted towards developers of the game, users are however free to check out what
+This wiki is targeted towards developers of the game, users are however free to check out what
 is going on behind the scenes.
 
-The now unavailable [old Mediawiki based Wiki](http://supertux.lethargik.org/wiki/Main_Page) has been merged
-into this Wiki.
+The now unavailable [old Mediawiki based wiki](http://supertux.lethargik.org/wiki/Main_Page) has been merged
+into this wiki.
 
-Guidelines and tips for using this Wiki
+Guidelines and tips for using this wiki
 ---------------------------------------
 
 * [[News]] is for keeping track of what is going on in SuperTux
   development. Every substantial addition or change to the game should
   be documented there.
 
-* Do not delete information from this Wiki, prefer moving it over to [[Ideas]],
-  [[Rejected Ideas]] or another appropriate place instead.
+* Do not delete information from this wiki, prefer moving it over to [[Ideas]],
+  [[Rejected Ideas]], or another appropriate place instead.
 
-* Use Markdown (`.md`) for the Wikipages.
+* Use Markdown (`.md`) for the wikipages.
 
 * Use line-breaks at around 80 characters, the `.md` files are meant to
   be viewed and edited in a text editor.
 
 * Run the [validator.py](https://raw.githubusercontent.com/wiki/SuperTux/supertux/validator.py)
-  in the Wiki repository to check for broken links.
+  in the wiki repository to check for broken links.
 
 * New pages should go to the [[_Sidebar]] for easy access.
 
@@ -37,7 +37,7 @@ Guidelines and tips for using this Wiki
 Making changes to the wiki
 --------------------------
 
-* Users without write access: Directly editing this Wiki is restricted to developers, you have to
+* Users without write access: Directly editing this wiki is restricted to developers, you have to
   submit a pull request. Go to the [wiki repository](https://github.com/SuperTux/wiki) and try to
   edit; GitHub will automatically make a fork for you. Then submit a pull request to the wiki
   repository through the Github UI. Or you can check it out locally and edit, it's just a git repo.
