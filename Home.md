@@ -1,4 +1,5 @@
-> **Note:** This wiki is converted from the previous Mediawiki format. The conversion is not
+> [!NOTE]
+  This wiki is converted from the previous Mediawiki format. The conversion is not
   complete, but progressed far enough that this wiki is ready to be used again, a lot of outdated
   information does however remain. If you find some, don't delete it, update it and/or move it to
   an appropriatly titled archive page.
