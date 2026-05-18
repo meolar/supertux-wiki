@@ -35,7 +35,9 @@ There are teleporters or some magic force fields that work as teleportation mean
 Diving
 ------
 
-Tux can dive in water. Perhaps he need go up to surface to get more air sometimes (limited time underwater). Movement under water is slower than on land. Perhaps there are monsters under water such as sharks, pirayas, “the dopefish” and perhaps even some kind of boss. Can be a underwater tunnel, world, level, cave or something. Maybe need pull a switch/lever under water or do something there to open something on the surface.
+Tux can dive in water. Perhaps he need go up to surface to get more air sometimes (limited time underwater). Movement under water is slower than on
+land. Perhaps there are monsters under water such as sharks, pirayas, “the dopefish” and perhaps even some kind of boss. Can be a underwater tunnel,
+world, level, cave or something. Maybe need pull a switch/lever under water or do something there to open something on the surface.
   
 > Time limit sucks.
 
@@ -43,30 +45,27 @@ Tux can dive in water. Perhaps he need go up to surface to get more air sometime
 
 > All the blocks he ran his head in have to have some effect.
 
-  
-Ok, I know the game is already unrealistic but there are still things that don't need to be forced. Why should Tux swim slower? its because Super Mario swims slower? Super Tux is another game and I think it has the right to break some non-existent rules on platform games. Been a penguin I think *at least* Tux should have the same speed than on land (though with different acceleration and physics), the underwater enemies could be faster too. I find many platform games too slow when they go underwater.
+> Ok, I know the game is already unrealistic but there are still things that don't need to be forced. Why should Tux swim slower? its because Super Mario
+  swims slower? Super Tux is another game and I think it has the right to break some non-existent rules on platform games. Been a penguin I think *at least*
+  Tux should have the same speed than on land (though with different acceleration and physics), the underwater enemies could be faster too. I find many
+  platform games too slow when they go underwater.
 
-  
-Yes, he could also be faster. But there should be a difference in movement under water and on land. Such as different acceleration or physics. -smallfoot
+> Yes, he could also be faster. But there should be a difference in movement under water and on land. Such as different acceleration or physics. -smallfoot
 
-see [Swimming](Swimming "wikilink") --[WolfgangB](mediawiki/Users/wolfgangb) 19:48, 7 Sep 2006 (BST)
+see [Swimming](Actions.md#Swimming) --[WolfgangB](mediawiki/Users/wolfgangb) 19:48, 7 Sep 2006 (BST)
 
 Doors / Bridges
 ---------------
 
 Tux needs to enter doors or open bridges to pass to some place. In order todo that, he needs to todo something first. Such as get a key, or pull/push a lever or a switch. Or perhaps place an item (such as an stone or something) on a switch.
 
-  
-Can be done with scripting.
+> Can be done with scripting.
 
-  
-Good, but I have never seen this implemented in SuperTux yet. The game needs this type of stuff to be dynamic and fun and entertaining. --smallfoot
+> Good, but I have never seen this implemented in SuperTux yet. The game needs this type of stuff to be dynamic and fun and entertaining. --smallfoot
 
-  
-“Can be done with scripting.” Most everything can be done by scripting, but how? Implent it so everybody can use it..
+> “Can be done with scripting.” Most everything can be done by scripting, but how? Implent it so everybody can use it..
 
-  
-Did you ever look at existing levels? Try world2/village.stl. --[Superdev](mediawiki/Users/superdev) 14:48, 24 January 2009 (UTC)
+> Did you ever look at existing levels? Try world2/village.stl. --Superdev 14:48, 24 January 2009 (UTC)
 
 Rollable/pushable stones
 ------------------------
@@ -89,20 +88,19 @@ Catching background story
 
 SuperTux needs a catching background story that inspires and motivates the player and drags him into the story so that he understands why Tux is doing what he does and why it is important.
 
-  
-“The bad guy took the penguins girlfriend, go save her from him!” or “Nolok stole Penny from Tux, you must save her!” doesn't cut it.
+> “The bad guy took the penguins girlfriend, go save her from him!” or “Nolok stole Penny from Tux, you must save her!”
+
+doesn't cut it.
 
 It needs be passionate and inspiring like:
 
-  
-“The evil Nolok kidnapped Tux beloved girlfriend Penny. Tux was worried he would never see her again, he was scared and upset but knew he would do anything to get his true love back!”.
+> “The evil Nolok kidnapped Tux beloved girlfriend Penny. Tux was worried he would never see her again, he was scared and upset but knew he would do anything to get his true love back!”.
 
-The player shouldn't just play level, complete level, go next level, in an infinitive loop until the end. As the player plays the game, he should learn more. When Nolok kidnapped Penny, Tux was shocked and confused. He perhaps don't need where Nolok is hiding or where Nolok has taken Penny, this information he can learn on the way. And maybe he learns about other bad stuff that Nolok has done to other people.
+> The player shouldn't just play level, complete level, go next level, in an infinitive loop until the end. As the player plays the game, he should learn more. When Nolok kidnapped Penny, Tux was shocked and confused. He perhaps don't need where Nolok is hiding or where Nolok has taken Penny, this information he can learn on the way. And maybe he learns about other bad stuff that Nolok has done to other people.
 
-Some games have a story that is more interesting than the game itself. Some games you play just because you are so into the story and really needs to know more about it. Kinda like when you started to read a book, you cant put it away. Of when you started watch a movie, it get so exciting you cant switch away channel. :)
+> Some games have a story that is more interesting than the game itself. Some games you play just because you are so into the story and really needs to know more about it. Kinda like when you started to read a book, you cant put it away. Of when you started watch a movie, it get so exciting you cant switch away channel. :)
 
-  
-In the midst of a flood of games that take themselves too seriously, a game about a penguin who shoots fireballs and squashes walking snowballs in a quest to save his girlfriend is a relief. Adding more story than what's there now would do little more than interfere with the gameplay. [Plombo](mediawiki/Users/plombo) 22:49, 2 July 2010 (UTC)
+> In the midst of a flood of games that take themselves too seriously, a game about a penguin who shoots fireballs and squashes walking snowballs in a quest to save his girlfriend is a relief. Adding more story than what's there now would do little more than interfere with the gameplay. [Plombo](mediawiki/Users/plombo) 22:49, 2 July 2010 (UTC)
 
 NPC
 ---
@@ -115,11 +113,9 @@ Breakable walls
 Walls that can be broken (in one way or another) in order for Tux to enter into that area. Could be a area which are necessary to be visited or could just be a secret place. A similar concept exists in the game Sonic the Hedgehog where Sonic can break walls by rolling into them.
 
   
-Who the \[censored\] is sonic? There are weak blocks.
+Who in the world is sonic? There are weak blocks.
 
 And Straw Bales (fire shot)
-
--   Watch your mouth.--[DJ Wings](mediawiki/Users/djwings "wikilink")[<sub>Freesyle\ here</sub>](User_talk:Djwings) 18:35, 11 Jul 2006 (BST)
 
 Dynamic environment
 -------------------
