@@ -12,6 +12,8 @@ Where is the consistency? Sometimes tiles are used for background, then they are
 
 Water... yeah, have a pinguin and then no ability to swim, not even collision with water, how stupid is that?
 
+*Swimming is implemented.*
+
 Trash, junk and other garbage and we call it 'levels'. The svn needs really some large cleanup to seperate the useless testing stuff from the usefull ones and the testing from the actually playable.
 
 Reset point uglyness, they don't look good and not even like a reset point...
@@ -19,15 +21,18 @@ Reset point uglyness, they don't look good and not even like a reset point...
 Difficulty, some of the current SuperTux levels that Ikaruga look like a game for kiddies... there really needs to be done \*A LOT\* to make SuperTux playable again. It would be nice to put a bit of fun back into SuperTux, currently its a frustrating mess.
 
 Where are my L/R buttons? Autoscroll is ok, but a way to manipulate it manually would be really usefull.
-
   
 *Peek U/D/L/R is implemented.*
 
 The wingling coloring stinks (to much white), as does is behaviour, kamikaze dive is neither fun nor good looking
 
+*It has been changed.*
+
 Forest tile repetition... if you want to go blind, looking at the forest tiles is a good way to acomplish that, somebody should either remove the repetition or redraw that mess completly.
 
 Where is the dedicated run animation? Graphical hints are always a good thing.
+
+*Running animations have been added.*
 
 Animation? None found. SuperTux, the game as a whole, not just the sprite, looks horrible, all static, with no fun animations around, boring.
 
@@ -35,20 +40,21 @@ Where are the tile-backgrounds? Huge bitmap graphics are soooo ugly..
 
 Why have doors so small and Tux so fat? Tux just doesn't fit through a door by any means.
 
-The bomb certainly wins a price for ugliest gamesprite ever...
+*The sprite has been changed.*
 
+The bomb certainly wins a price for ugliest gamesprite ever...
   
-*It has been changed in SVN.*
+*The sprite has been changed.*
 
 Is there a way to load a sprite without having a sprite file? If not, why not? Writing the same boring sprite syntax over and over again is both error prone and relativly useless.
 
 How do I rotate a sprite? We should have OpenGL up and running, shouldn't we?
 
-How about align\_center, align\_right, align\_top\_left, etc.? Instead of exact pixel positions?
+How about align_center, align_right, align_top_left, etc.? Instead of exact pixel positions?
 
 How about a GUI tool to edit .sprite files?
 
-Compiling SuperTux today tages \*AGES\*, far far longer then needed, this is because for example src/badguy/badguy.hpp includes tons and tons of completly unneeded header files. The reason for this is to reduce the needed \#include directives in the badguy files itself, which is cool, but comes at a \*high\* price, little changes in one of those include files will require a huge recompile, even so if very few files actually depend on those changes. Possible solution: Precompiled header files, should allow to both keep \#includes to a minimum and reduce compile times a lot.
+Compiling SuperTux today tages \**AGES*\*, far far longer then needed, this is because for example src/badguy/badguy.hpp includes tons and tons of completly unneeded header files. The reason for this is to reduce the needed \#include directives in the badguy files itself, which is cool, but comes at a \**high*\* price, little changes in one of those include files will require a huge recompile, even so if very few files actually depend on those changes. Possible solution: Precompiled header files, should allow to both keep \#includes to a minimum and reduce compile times a lot.
 
 Some experiments with precompiled headers and ccache (compiling badguy/ subdirectory):
 
@@ -66,7 +72,7 @@ Flexlay is up and running again, need a bit of testing if it can actually save l
 
 Badguys must not collide or at least not like they do today (ie. stack), best seen in world1/27 where the snowballs and yeti colliding results in compltetly unpredictable and unavoidable patterns, thus killing the player far to often.
 
-Why the \*juck\* do we have filenames full of spaces and other useless junk in data/levels/world1/, what is that good for, except to make working with those levels harder? Duplicate information should be avoided and those “levelnames in filenames” is really doing nothing good.
+Why do we have filenames full of spaces and other useless junk in data/levels/world1/, what is that good for, except to make working with those levels harder? Duplicate information should be avoided and those “levelnames in filenames” is really doing nothing good.
 
 Enemy Criticts
 --------------
@@ -76,15 +82,15 @@ Enemy Criticts
 -   igle should go into trashcan
 -   angrystone looks ugly
 -   dart is to small, almost invisible, needs larger sprite
--   fluffy looks damn cool, but what about behaviour?
+-   fluffy looks so cool, but what about behaviour?
 -   snail should go to trashcan, but might be fixable
 -   new spiky behaviour might not batch with M1 levels, needs testing
 -   tumbleweed is ugly
 -   I want my Homer S. Yeti
 -   darttrap really does not belong into the forest, but castle
 -   jumpy looks more like a castle enemy, but is used all over in M1
--   mrtree breaking up is a nice idea on paper, but awefull in practice (to many enemies on the screen at once)
--   poison ivy -&gt; trash
+-   mrtree breaking up is a nice idea on paper, but awful in practice (too many enemies on the screen at once)
+-   poison ivy -> trash
 -   stlalactites are ugly, maybe they should be shiny and blink?
 -   dispenser is ugly and overused
 -   flame is ugly, trail and actual fire might help
@@ -97,7 +103,7 @@ Enemy Criticts
 -   waterdroplet, a bit ugly -&gt; behaviour?
 -   colory -&gt; kind of cool -&gt; behvaviour?
 -   flamefish -&gt; lame, use classic fireball instead
--   granito -&gt; ugly eyes
+-   granito concept -&gt; ugly eyes
 -   kugelblitz -&gt; ugly
 -   iceblock -&gt; black ugly surround
 -   penny -&gt; animation
