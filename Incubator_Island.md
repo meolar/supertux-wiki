@@ -1,4 +1,4 @@
-**Incubator Island** is a [world](world "wikilink") of *SuperTux* where new / proposed levels are improved until they are ready to go into the main game. [Levels](Levels "wikilink") in the main game have to comply with our [level style guide](level_style_guide "wikilink"). Levels that are *supposed* to go onto one of the *bonus islands* do *not* go onto the *Incubator Island* – they should go on a bonus island directly.
+**Incubator Island** was a [world](World.md) of *SuperTux* where new / proposed levels were improved until they were ready to go into the main game. [Levels](Levels.md) in the main game have to comply with our [level style guide](Level-Design.md). Levels that are *supposed* to go onto one of the *bonus islands* do *not* go onto the *Incubator Island* – they should go on a bonus island directly.
 
 Levels have to pass some basic tests before going into *Incubator Island*:
 
@@ -9,10 +9,7 @@ Levels have to pass some basic tests before going into *Incubator Island*:
 -   Is every secret area and coin reachable?
 
 If a level passes those tests, it may be added to the *Incubator Island* for general review. When it's ready, a level may be moved to the main game. If a level won't make it to the main game, such as if its main gameplay idea is not acceptable for the main game (ex.: the player must jump on invisible tiles to complete the level), it can be moved to one of the *bonus islands*.
-
-[Template:Level list begin](Template:Level_list_begin "wikilink") [Template:Level list end](Template:Level_list_end "wikilink")
-
-[[Template:Level list begin]]
+```
 {{Level list entry
 | Name=A snowy hill
 | Description=Please give feedback in [[Template:Bug|605]].
@@ -67,11 +64,9 @@ If a level passes those tests, it may be added to the *Incubator Island* for gen
 | Contributor=niso
 | Length = 301
 }}
-
+```
 
 Giving feedback
 --------------
 
 Of course, giving feedback is very important for levels that are under active development. You can give feedback by joining our [IRC](IRC "wikilink") channel and stating your opinion, by sending a mail to the [mailing list](mailing_list "wikilink"), or by filing/commenting on an appropriate bug report in our [bug tracker](bug_tracker "wikilink").
-
-<Category:Development>
