@@ -36,7 +36,7 @@ In Pinch Mode, the Yeti will additionally throw a few big snowballs which Tux mu
 ![](images/Forestboss2.png)
 </details>
 
-*(Note: Although the Ghost Tree is basically finished, not all of the animations have been made yet.)*
+*(Note: Although the Ghost Tree is code is finished, not all of the animations have been done yet.)*
 
 The Ghost Tree, a large eerie, purple tree with deep, dark holes as eyes, is the end boss of
 [Rooted Forest](https://github.com/SuperTux/supertux/wiki/Rooted-Forest).
