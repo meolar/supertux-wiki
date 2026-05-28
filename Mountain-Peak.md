@@ -1,6 +1,6 @@
 **Nolok's Mountain Peak** is the final world in SuperTux. It houses Nolok's final fortress but the entrance door is locked and requiring
 five keys spelling out Nolok's name. These keys can be found in each world prior in the hidden levels. Further development on this
-world yet to be made. Though several ideas and concepts have been collected over time.
+world is yet to be made, though several ideas and concepts have been collected over time.
 
 Once development on world 3 has reached a more final state world 4 will become the development teams next prioritised task.
 
