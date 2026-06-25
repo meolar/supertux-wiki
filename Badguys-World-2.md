@@ -2,7 +2,8 @@
 
 This page shall describe all enemies, old and new, that appear or could appear in Rooted Forest, in as much detail as possible.
 
-Note: For some badguys, we still need to settle down on proper names (e.g. *Mr. Tree* or *Walking Tree*).
+>[!NOTE]
+> For some badguys, we still need to settle down on proper names (e.g. *Mr. Tree* or *Walking Tree*).
 
 Vicious Ivy
 ===========
@@ -92,7 +93,7 @@ Snail
 
 ![](img/badguy/icons/snail.gif)
 
-The Snail behaves similar to the Iceblock while falling at normal speed. When buttjumped upon the snail will flips over.
+The Snail behaves similar to the Iceblock. When buttjumped upon the snail will flips over.
 When flipped over, further jumps on it will kick it around, hurting everything in its way and can die after being
 squished again for a number of times. Snails can also be carried and thrown at other badguys.
 
@@ -110,7 +111,7 @@ Igel
 ![](img/badguy/icons/igel.gif)
 
 Igel (*German for "hedgehog"*) are spiky fellows that cannot be squished or buttjumped due to their spines but they can
-be shot with a projectile. If an Igel goes in front of Tux, he will curl up into a spiky ball and roll towards the player.
+be shot with a projectile. If Tux walks in front of an Igel, it will curl up into a spiky ball and roll towards the player.
 | Property       | Status |
 |----------------|--------|
 | Squishable     | no     |
@@ -281,6 +282,8 @@ Dart Trap
 
 The Dart Trap is a stationary skull imbedded on a wall shooting out glowing darts out of its mouth in regular intervals.
 The darts fly in a straight line, hurt Tux and cannot be destroyed.
+
+In Corrupted Forest, the Dart Trap appears as a Corrupted Granito.
 
 | Property       | Status |
 |----------------|--------|
