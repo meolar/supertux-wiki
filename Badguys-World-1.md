@@ -103,8 +103,8 @@ flies up and down constantly.
 | Freezable      | no     |
 
 
-Jumpy (snowjumpy)
-=================
+Jumpy
+=====
 
 ![](https://github.com/SuperTux/supertux/blob/master/data/images/creatures/jumpy/snow_up-0.png)
 
@@ -134,11 +134,11 @@ Spiky
 
 ![](img/badguy/icons/spiky.gif "Awake Spiky") ![](https://github.com/SuperTux/supertux/blob/master/data/images/creatures/spiky/spiky_sleep-0.png)
 
-Spiky behaves just like *Mr. Snowball*, but he carries a spiky helmet which makes him invulnerable against
+Spiky behaves just like *Mr. Snowball*, but he carries a spiky helmet which makes him protected against
 jump attacks as well as hurting Tux.
 
 Sometimes, they can be found asleep waiting for their enemy to approach. Once Tux is in sight Spiky wakes
-up and behave the same as always.
+up and behaves as normal.
 
 | Property       | Status |
 |----------------|--------|
@@ -160,10 +160,7 @@ Mr. Iceblock
 
 Like *Mr. Snowball*, Mr. Iceblock is a simple straight forward enemy. He will not stay on platforms. When
 jumped upon he will get knocked out and become a portable item that one can use to throw or be kicked at other
-enemies.
-
-Continually squishing Mr. Iceblock will eventually kill him. Since version 0.3, he only walks off a cliff if
-there is something safe on which he can land.
+enemies. Continually squishing Mr. Iceblock will eventually kill him.
 
 
 | Property       | Status |
@@ -179,9 +176,8 @@ If Mr. IceBlock is eliminated, Tux is awarded 100 points. If destroyed via repea
 to 550 points.
 
 When carrying Mr. IceBlock, Tux is granted a “get out of jail free” card: if he hits another, non-invincible
-badguy, both Mr. IceBlock and the other badguy are killed, leaving Tux unharmed. A minor glitch occurs:
+badguy, both Mr. IceBlock and the other badguy are killed, leaving Tux unharmed. Hovever, a minor glitch occurs -
 Mr. IceBlock is scored as 0 points.
-
 
 Mrs. Iceblock (Smartblock)
 ==========================
@@ -227,10 +223,8 @@ Kamikaze Snowball (Shooting snowball)
 </details>
 
 The Kamikaze Snowball shoots out of a [cannon](https://github.com/SuperTux/supertux/wiki/Badguys-Misc#Cannon) and
-flies in a straight line until crashing. He is very angry, or very “wise”, and so can levitate through the force of
-his will.
-
-He is so concentrated on this, however, that he cannot turn or adjust his velocity.
+flies in a straight line until crashing into a wall or Tux. He is very angry, or very “wise”, and so can levitate
+through the force of his will. He is so concentrated on this, however, that he cannot turn or adjust his velocity.
 
 | Property       | Status |
 |----------------|--------|
@@ -248,7 +242,7 @@ Crystallo
 ![](img/badguy/icons/roof_crystallo.gif "Roof Crystallo")
 
 Another very basic enemy, but unlike the *Mr. Snowball* or *Mr. Iceblock* he doesn't walk around in a straight
-pattern, but walks back and forth around a fixed position. Crystallo lives in the Crystal Mine, near Icy Island.
+pattern, but walks back and forth around a fixed position. Crystallo lives in Glacier Isle, near Icy Island.
 
 They can be seen on the ground as well as the ceiling. If they notice Tux below them they will drop and shatter
 into four sharp crystal shards upon impact. Some may also rest inside larger crystals. Wake them up and they will
@@ -273,11 +267,17 @@ Ice Crusher
 ![](images/Icecrusher-concept-art.png)
 </details>
 
-Ice Crushers are enemies that are hanging on the ceiling or walls. When Tux gets within one tile they will attempt
-to crush Tux into the nearest wall or floor. After they hit a wall, they slowly drift back up. On this “return trip”,
+Ice Crushers are enemies that are attached to the ceiling or walls. When Tux gets close enough, they will attempt
+to crush Tux into the nearest wall or floor. After they hit a wall, they slowly move back to their previous position.
+On this “return trip”,
 Tux may safely climb on top of them and hitch a ride. When in their resting position, their eyes shall follow Tux.
 
-There are two kinds of Ice Crushers, differentiated by their size: Krush (2x2 tiles) and Krosh (4x4 tiles).
+There are two kinds of Ice Crushers, differentiated by their size: Krush (2x2 tiles) and Krosh (4x4 tiles). Krosh can
+crush through Metal Bricks, while Krush cannot.
+
+### Size Proposal
+It has been suggested that other sizes of Crushers be added in addition to Krush and Krosh: Krish (1x1), Kresh (3x3),
+and Krash (5x5).
 
 | Property       | Status |
 |----------------|--------|
@@ -292,16 +292,17 @@ Stalactite
 
 ![](https://github.com/SuperTux/supertux/blob/master/data/images/creatures/stalactite/stalactite_ice.png)
 
-The stalactite stays stuck to the ceiling until Tux walks near it, then begins shaking. After a bit of shaking,
-it falls down in an attempt to hurt Tux, while also harming badguys that get in the way.
-
-Note: They can also be triggered when hit with a fireball and cause freezable enemies to be frozen upon impact!
+Stalactites are little upside-down spikes found on the ceiling. When Tux gets close enough to one of them,
+it will will fall down, thus hurting Tux or any enemies that are below it. Before falling, Stalactites will
+shake as a visual cue that they are about to fall.  
+Stalactites can be triggered by being shot with a fireball. They will also freeze any freezable enemies that
+they fall on.
 
 | Property       | Status |
 |----------------|--------|
 | Squishable     | no     |
 | Buttjumpable   | no     |
-| Burnable       | no     |
+| Burnable       | yes    |
 | Freezable      | no     |
 
 
