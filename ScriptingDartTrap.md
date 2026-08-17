@@ -28,6 +28,10 @@ Methods
 
 Method | Explanation
 -------|-------
+`Delay in seconds get_fire_delay()` | Gets the delay between consecutive dart firings 
+`void set_fire_delay( fire_delay)` | Sets the delay between consecutive dart firings <br /><br /> `fire_delay` - Delay in seconds 
+`Ammunition of the darttrap, -1 for infinite ammunition. get_ammo()` | Gets the amount of ammunition the darttrap has. 
+`void set_ammo( ammo)` | Sets the amount of ammunition the darttrap has. <br /><br /> `ammo` - Ammunition the darttrap is supposed to have, -1 for infinite ammunition. 
 `void enable()` | Enables the DartTrap. 
 `void disable()` | Disables the DartTrap. 
 
