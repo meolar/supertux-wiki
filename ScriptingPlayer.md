@@ -47,6 +47,7 @@ Method | Explanation
 `bool get_visible()` | Returns `true` if Tux is currently visible (has not been set invisible by the `set_visible()` method). 
 `void set_is_intentionally_safe(bool safe)` | Make tux invincible without the star effect. 
 `bool get_is_intentionally_safe()` | Returns `true` if Tux is currently intentionally safe. 
+`bool on_ground()` | Returns `true` if Tux is on the ground 
 `bool has_grabbed(string name)` | Returns whether the player is carrying a certain object. <br /><br /> `name` - Name of the portable object to check for. 
 `void set_ghost_mode(bool enable)` | Switches ghost mode on/off. Lets Tux float around and through solid objects. 
 `bool get_ghost_mode()` | Returns whether ghost mode is currently enabled. 
