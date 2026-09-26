@@ -29,7 +29,7 @@ The following classes inherit functions and variables from this class:
 * CorruptedGranitoBig
 * Crystallo
 * Dart
-* DartTrap
+* [DartTrap](https://github.com/SuperTux/supertux/wiki/ScriptingDartTrap)
 * Dispenser
 * DiveMine
 * FishChasing

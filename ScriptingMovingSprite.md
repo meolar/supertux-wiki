@@ -38,7 +38,7 @@ The following classes inherit functions and variables from this class:
 * Crusher
 * Crystallo
 * Dart
-* DartTrap
+* [DartTrap](https://github.com/SuperTux/supertux/wiki/ScriptingDartTrap)
 * [Decal](https://github.com/SuperTux/supertux/wiki/ScriptingDecal)
 * Dispenser
 * DiveMine

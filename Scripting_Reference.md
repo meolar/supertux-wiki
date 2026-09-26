@@ -85,6 +85,7 @@ using a function that actually doesn't exist.
 * [CloudParticleSystem](https://github.com/SuperTux/supertux/wiki/ScriptingCloudParticleSystem)
 * [ConveyorBelt](https://github.com/SuperTux/supertux/wiki/ScriptingConveyorBelt)
 * [CustomParticleSystem](https://github.com/SuperTux/supertux/wiki/ScriptingCustomParticleSystem)
+* [DartTrap](https://github.com/SuperTux/supertux/wiki/ScriptingDartTrap)
 * [Decal](https://github.com/SuperTux/supertux/wiki/ScriptingDecal)
 * [DisplayEffect](https://github.com/SuperTux/supertux/wiki/ScriptingDisplayEffect)
 * [FloatingImage](https://github.com/SuperTux/supertux/wiki/ScriptingFloatingImage)

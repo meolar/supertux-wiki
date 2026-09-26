@@ -50,7 +50,7 @@ The following classes inherit functions and variables from this class:
 * [CustomParticleSystem](https://github.com/SuperTux/supertux/wiki/ScriptingCustomParticleSystem)
 * CustomParticleSystemFile
 * Dart
-* DartTrap
+* [DartTrap](https://github.com/SuperTux/supertux/wiki/ScriptingDartTrap)
 * [Decal](https://github.com/SuperTux/supertux/wiki/ScriptingDecal)
 * Dispenser
 * [DisplayEffect](https://github.com/SuperTux/supertux/wiki/ScriptingDisplayEffect)
