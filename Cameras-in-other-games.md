@@ -1,3 +1,8 @@
+>[!IMPORTANT]
+> This article talks about mechanics **outside of the SuperTux game,** and only exists **as a comparison of features** between SuperTux and other games. 
+
+---
+
 Super Mario World
 -----------------
 
