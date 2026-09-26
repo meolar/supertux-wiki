@@ -1,6 +1,6 @@
-Since the game has been abandoned and picked up by varying people/teams over the years many core aspects, design elements
-became a mish mash of ways to insure retrocompatibility. Understandable, but it is only causing more inconsistencies and
-confusion as development goes on. Like a vicious circle.
+Since the game has been abandoned and picked up by varying people/teams over the years, many core aspects and design elements
+became a mish mash of ways to ensure retrocompatibility. Understandable, but it is only causing more inconsistencies and
+confusion as development goes on.
 
 With the release of **v0.7** we will freeze development on the game for a while to tackle all of the possible wrong designs
 that we kept only for retrocompatibility. Fixing them will then be the main focus for **v0.7.1** after which development
@@ -34,7 +34,7 @@ Graphics
 
 * [x] Remove duplicate graphics and tile IDs
 * [x] Get rid of old and unused graphics
-    - Does not including the retro category!
+    - Does not include the retro category!
 
 ---
 
