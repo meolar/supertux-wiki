@@ -1,3 +1,9 @@
+>[!IMPORTANT]
+> This article may contain **outdated and incorrect information** and is retained **only for historical reference** at this time. Please do not delete this article
+> unless its content is found outdated.
+
+-----
+
 The current SuperTux bug tracker can be found at:
 
 * https://github.com/SuperTux/supertux/issues
