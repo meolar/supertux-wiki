@@ -1,3 +1,9 @@
+>[!IMPORTANT]
+> This article may contain **outdated and incorrect information** and is retained **only for historical reference.** Please do not delete this article.
+> *(Reason: Preserved for historical reference)*
+
+-----
+
 # **Alzter's SuperTux Vision**
 
 **NOTE: This is something I know is not currently feasible, it's more of a far out goal that I may come back to at some point**
