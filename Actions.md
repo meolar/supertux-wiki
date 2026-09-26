@@ -1,3 +1,6 @@
+Table of Contents
+=================
+
 ### General
 - [Jumping](#jumping)
 - [Running](#running)
