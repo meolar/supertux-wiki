@@ -1,4 +1,8 @@
-This is a list of ideas that need more discussion/polishing before they are ready to consider, and probably will never
+>[!IMPORTANT]
+> This article may contain **outdated and incorrect information** and is in the process of being updated.
+>
+
+This is a list of ideas that need more discussion/polishing before they are ready to consider, and some may never
 see the light of day. However, these features could be added to SuperTux at some point in the future, if somebody is
 willing to put in the work and maintain it.
 
@@ -25,11 +29,11 @@ to SuperTux no matter what
 
 ### Central Storyline
 
-I believe the game really needs a storyline that makes the game not just about the arcade, but involves a greater plot.
+> "I believe the game really needs a storyline that makes the game not just about the arcade, but involves a greater plot.
 There should be a cutscene for just about every level and specific objectives (like you need to find a certain key or
 something before completing the level) Almost every level should have a cutscene that further adds to the plot. I also
 like the NPC idea because that can also drive the the plot. An idea for a storyline is detailing how Tux and Penny met
-and maybe add other characters that touch Tux's life (family, old flames, etc.)
+and maybe add other characters that touch Tux's life (family, old flames, etc.)"
 
 > "I really don't want special level objectives, and a cutscene per level would get kind of annoying. Level objectives
   would complicate things, as would multiple cutscenes, but having one or two would be nice."
@@ -52,33 +56,26 @@ plays the game, he should learn more. When Nolok kidnapped Penny, Tux was shocke
 where Nolok is hiding or where Nolok has taken Penny, this information he can learn on the way. And maybe he learns about
 other bad stuff that Nolok has done to other people.
 
-> "I shalt put that intoeth mine version of Super tux." - Rorikdude
-
-> "Some games have a story that is more interesting than the game itself. Some games you play just because you are so into
-  the story and really needs to know more about it. Kinda like when you started to read a book, you cant put it away. Of when
-  you started watch a movie, it get so exciting you cant switch away channel. :)"
-
 > "I like the idea of Tux not knowing anything in the beginning. Perhaps at the start - 'Antarctica - the dryest continent on
   Earth. (shows worldmap) One of the few creatures that can brave the polar winds is the penguin - there's some there...' and
   zooms in on Tux and Penny. 'Another is the - ' camera shakes, goes funny, ice bush moves and dark shape, blacks out. And when
-  you start level one: 'Tux was confused and upset. Where wass Penny... his Penny... ? He started searching, not really beleiving
+  you start level one: 'Tux was confused and upset. Where was Penny... ? He started searching, not really beleiving
   he would find her, but he had to do something. There were rumours... such rumours... but nothing like that could have happened...
   could it? And level two: 'Tux caught sight of a peice of paper lying torn and wet under a overhanging ledge of ice. He picked it
   up carefully, and saw with a leap of his heart that it was only the bottom fragment of a larger sheet. All that was there was
-  a delicately drawn ice flower - the symbol of his beloved Penny'" - poison Ivy
+  a delicately drawn ice flower - the symbol of his beloved Penny'"
 
 > "Hmm... we could say that Nolok lives at the North Pole (the other side of the world!) and Tux has to cross the planet
   to find Penny. Or/and maybe we could make Nolok escape continuously, and Tux has to follow him."
 
-> "It does need to be more passionate/inspiring, but the classic platform-game atmosphere may be the highest priority." -
-  Julius\_Freezer 23:58, 2 July 2009 (UTC)
+> "It does need to be more passionate/inspiring, but the classic platform-game atmosphere may be the highest priority."
 
 ### The Narrator Twist
 
 Upon confronting Nolok for the final battle, an idea would be to have it revealed that Nolok has been the narrator of the game.
 
 Basically, the entire game up until the final confrontation takes place in the past. The cutscene will end with narrator (Nolok)
-saying something like: *"At least, that's where we are now..."*, fading to black as if the game has ended. However, shortly after
+saying something like: *"At least, that's where we are now..."*, fading to black as if the game has ended. However, shortly after,
 the cutscene will fade in again, now taking place in the present as Nolok and Tux duke it out in the final battle. This would be
 the only cutscene using direct speech!
 
@@ -126,30 +123,25 @@ Ending: Penny is caught by the cunning Nolok. But she doesn't give up
 because she writes down information she overhears from Nolok himself in a letter
 in hopes to reach Tux and to inform him on Nolok's plans help him as much as she can on his journey.
 
-As a side affect of now having to play Penny, you should get ice flowers instead of fire flowers!
-
 ---
 
 ## Worlds
 
-### In The Sea
+### Ocean
 
-In SVN version, you can travel with boat across the seas. Maybe there could be;
+Some ideas for this world:
 
 -   An iceberg or something.
 -   A whirlpool / maelstrom.
+-   A hurricane.
 -   A sea monster like a sea snake, or Nessie or a hydra with many heads.
-    -   Sounds like a boss for a non-existent (as of now :-) water world.
 
-### Tropical Island
-
-![](images/jungle-concept.png)
-![](images/Tropicalislandbackgroundidea2.png "Background idea for the jungle section")
+## Tropical Paradise
 
 #### Totem Puzzle
 
-Played upon entering the jungle section of the island and shows the user of some puzzle involving totems that needs to
-be completed.Some sort of Hiroglyphs to open a door at the end of a level.
+Played upon entering the temple section of the island and shows the user of some puzzle involving totems that needs to
+be completed. Some sort of Hieroglyphs to open a door at the end of a level.
 
 #### Boss
 
@@ -163,15 +155,15 @@ chase and also uses the teleporter...
 
 #### Locked Entrance
 
-Depending on whether or not Tux has all five NOLOK.keys collected, a cutscene will play. If no or less than five keys have
+Depending on whether or not Tux has all five NOLOK keys collected, a cutscene will play. If no or fewer than five keys have
 been found, Nolok taunts the player for not being able to enter. Once all keys are collected, Tux will unlock the door and
 world 4 will become accessible.
 
 ### Secret Worlds
 
-There might be alternative worlds accessible by beating secret levels, e.g. Tux might find a secret exit in a IcyIsland level
-and go to a volcano world instead of the forest world. Think of Wario Land II. However, I'd reserve this for much latter, since
-this would take a lot of designing.
+There might be alternative worlds accessible by beating secret levels, e.g. Tux might find a secret exit in a Icy Island level
+and go to a volcano world instead of the forest world. Think of Wario Land II. However, this would probably not get implemented
+until later, since this would take a lot of designing.
 
 ### Side Worlds
 
@@ -231,10 +223,9 @@ These don't fit in the main story but could be playable as contrib / add-ons.
 
 ## Level Ideas
 
-- There should be underwater levels, and ways to go underwater.
-- What's about a level in a world, where you can see a volcano in the background? And not just seeing it, after a few steps the
+- What about a level in a world, where you can see a volcano in the background? And not just seeing it, after a few steps the
   volcano becomes active and throws up brocks into the level, which may hit you.
-- What's about a snow level where an avalanche is chasing you, or where regulary come some big snowballs and you have to wait
+- What about a snow level where an avalanche is chasing you, or where regulary come some big snowballs and you have to wait
   on a high platform?
   - This is how *autoscrolling* levels shall work in the future.
 - Being chased by an animal (like a bear in a forest) would be great fun. He could ride down a mountain in an iceball.
@@ -260,15 +251,7 @@ in concept or fix the balance.
 Players are designed to help each other. This makes game more addictive (as i think). You don't only play, you also help
 your friend and he helps you. If we don't follow this - what for we are creating multiplayer at all?!
 
-> "How about the FreeBSD demon (freebsd.org) or another penguin for player 2."
-
-> "Penny would be a better second player. Alternatively, it could be like SuperTuxKart and support up to 4 players
-  (Nolok and Yeti? Gnu and Wilber?), but I feel that it would be a better minigame and that 2-player with Penny would
-  be the best implementation."
-
-> "The other penguin could be Fluffy"
-
-> "+1. I like it."
+> "The other player could be Fluffy the Penguin"
 
 ### Players
 
@@ -282,13 +265,6 @@ Both players have same abilities as original tux with following differences:
 | What will be in single player? (or how this helps to achieve point 2) | Okay, you can get all bonuses from monsters. But there are enemies without bonuses. Killing them is expensive: freeze and be fast to stomp him. Tux will be useful in that situation. Play together with Tux. | Okay, you can kill any enemy. But you will not get fire bonuses from enemies. So killing enemies will be expensive: you need to fire a lot to kill big enemy (i.e. without fire bonus you don't have enough “fire hotness”). Play together with Penny, to get bonuses. |
 
 ### Bonuses
-
-The first thing about bonuses - they may be placed inside enemies. Bonuses in blocks are still exist. Such
-an enemy may be (or should be always?) marked with some symbol, describing type of bonus, or describing random
-bonus.
-
-The only way to extract bonus from enemy is to freeze enemy (Tux can do that) and then stuck it by jumping
-on it (both players can do).
 
 There is a list of new bonuses (of course may be more than two, but if you add some - keep your eye on the
 balance.):
@@ -328,80 +304,131 @@ other tuxes by jumping to hit bricks that they're standing on.
 This is for miscellaneous enemy ideas. Any world-specific enemy plans or ideas can be found
 [here](https://github.com/SuperTux/supertux/wiki/Proposed-Badguys).
 
-- “invisible” enemies (you could see only their eyes or something else) maybe you could just see shoes or gloves etc
+- “invisible” enemies (you could see only their eyes or something else) maybe you could just see shoes or gloves, etc.
 - enemies which becomes bigger and longer
-- **BouncingGlassball** - Kind of like the BouncingSnowball but it bounces 3 tiles higher and is for the forest world.
-- **Vinehat** - Just like the Icehat except it fires vines so it works for the forest world.
-- **SpikeyBoss** - A big version of the stay-on-platform spikey bad-guys(64x64). When he reaches an edge of the platform,
-  he pauses, soots a ball that blows up on contact, and repeats on the other side. You guys decide how to kill.
-- **SpikeheadSnbowball** - Exactly like the Snowball, but after a configurable amount of spaces it jumps and lands 5 spaces
-  foreward on it's spike. After a moment, it jumps back up and repeats.
-- **WaterHeater** - Like Lightning except you can tell when you need to get out of the water because you slowly turn red.
-- **Climbing snowball** - Snowball that can climb up walls and ceilings, not affected by gravity.
-- **Ninja snowball** - Snowball that leaps at Tux if he is in range.
-- **Rolling snowball** - Large snowball that rolls around, destroying other badguys and hurting Tux on contact. Think Indiana
-  Jones...except frozen. Could be a kind of boss level, although we've already got one for Icyisland.
-- **Fake Box Enemy** - The Fake Box looks exactly like an ordinary box from a far distance.But if you come closer to the fake
-  box it will either open its eyes and attack you or it will still open its eyes and a random enemy appears above the box. This
-  is the fake box active: ![](images/Block.jpg)
-- **Drippin'** - Invincible enemy that follows you around. Grows when hit by iceballs and shrinks when hit with fireballs.
-  Preview: ![](images/Drippin-pre.jpg)
-- **Flamin'** - Same as Drippin' but grows through fire and shrinks through ice.
-- **Biella** - Quick, flying creature, continuously following Tux. Could shoot stingers. ![](images/Biella_mrlog_limpy.jpg)
-- **Mr. Log** -  Slow creature without any special abilities. Maybe “stackable”, similar to the cactuses in SMW: Up to four
-  “Mr. Log” could be combined to serve as a high barrier, only destroyable from above (or with FireTux).
-- **Limpy** - Another slow creature, which is able to adhere to any surface. When reaching the end of a platform, it doesn't fall
-  down, but continues to crawl downwards, upwards, or even underneath.
-- **Mr. Missile** - Once he “sees” Tux, Mr Missile starts shadowing him. So if Tux stops he doesn’t stop until he reaches the place
-  Tux stopped at. It is the same with other actions. Mr Missile is as fast as Tux. He is killed by invincibility and Supertux’s fire.
-  ![](images/MrMissile.png)
-- **Mr. Airtank** - Looks like a scuba tank with eyes and feet. When Tux gets near he puffs out gas which harms Tux. When killed,
-- flashes (like [Mr. Bomb](https://github.com/SuperTux/supertux/wiki/Badguys-Misc#mr-bomb)) and explodes (also like Mr. Bomb)
-- **Mr. Block** - Looks like shoes with eyes on top. “Gets” blocks somehow and uses them as a body. When killed only the eyes and
-  feet die, leaving a block. He could make blocks, get them by pulling out of ground or take them when he bumps into a wall.
-- **Mr. Jump** - Behaviour like the normal snowball, but you can jump on it like on a trampoline. ![](images/Mr_jump.png)
-
 - Electric eel
-- Mr. Palm Tree - Very tall badguy consisting of stacked segments; jumping on top removes the bottom segment.
-  - When there's only one segment left, Mr. Palm Tree dies.
-- Nutty - A harmless, indestructible badguy; a bit like a walking moving platform. Alternative: an equivalent
-  of Mr. Ice Block.
-- Volcano - Stationary boss badguy, spews ashes that can hurt Tux.
-- Wild Boar/Feral pig - Basic walking badguy, starts running faster upon seeing Tux. Tux can stun him by kicking
-  him from behind, and can kill him by stomping on him.
-- Hungry Parakeet - Zeekling equivalent.
-- Melon - Snowball equivalent.
-- Mosquito - Flying snowball equivalent.
-- Spider - A tarantulas going up and down
-- Toad - A Frog seeking Tux
-- Tikitchokwe - A badguy wearing a mask that send fireball on Tux
 - Bengal Tiger (Boss)
 
-### Tumbleweed
+### BouncingGlassball
+Kind of like the BouncingSnowball but it bounces 3 tiles higher and is for the forest world.
 
+### Vineflower
+Just like the Ice Flower, except it fires vines that tangle up enemines, so it works for the tropical paradise.
+
+### SpikeyBoss
+A big version of the stay-on-platform spikey bad-guys(64x64). When he reaches an edge of the platform,
+he pauses, soots a ball that blows up on contact, and repeats on the other side. You guys decide how to kill.
+
+### SpikeheadSnbowball
+Exactly like the Snowball, but after a configurable amount of spaces it jumps and lands 5 spaces
+foreward on it's spike. After a moment, it jumps back up and repeats.
+
+### WaterHeater
+Like Lightning except you can tell when you need to get out of the water because the water (or Tux) slowly turns red.
+
+### Climbing snowball
+Snowball that can climb up walls and ceilings, not affected by gravity.
+
+### Ninja snowball
+Snowball that runs towards Tux and then leaps at Tux if he is in range.
+
+### Fake Box Enemy
+![](images/Block.jpg)
+
+The Fake Box looks exactly like an ordinary box from a far distance.But if you come closer to the fake
+box it will either open its eyes and attack you or it will still open its eyes and a random enemy appears above the box.
+
+### Drippin'
+![](images/Drippin-pre.jpg)
+
+Invincible enemy that follows you around. Grows when hit by iceballs and shrinks when hit with fireballs.
+
+### Flamin'
+Same as *Drippin'* but grows through fire and shrinks through ice.
+
+### Biella
+Quick, flying creature, continuously following Tux. Could shoot stingers.
+
+### Mr. Log
+Slow creature without any special abilities. Maybe “stackable”, similar to the cactuses in SMW: Up to four
+“Mr. Log” could be combined to serve as a high barrier, only destroyable from above (or with FireTux).
+
+### Limpy
+Another slow creature, which is able to adhere to any surface. When reaching the end of a platform, it doesn't fall
+down, but continues to crawl downwards, upwards, or even underneath.
+
+![](images/Biella_mrlog_limpy.jpg)
+
+### Mr. Missile
+![](images/MrMissile.png)
+
+Once he “sees” Tux, Mr Missile starts shadowing him. So if Tux stops he doesn’t stop until he reaches the place
+Tux stopped at. It is the same with other actions. Mr Missile is as fast as Tux. He is killed by invincibility and Supertux’s fire.
+
+### Mr. Airtank
+Looks like a scuba tank with eyes and feet. When Tux gets near he puffs out gas which harms Tux. When killed,
+flashes (like [Mr. Bomb](https://github.com/SuperTux/supertux/wiki/Badguys-Misc#mr-bomb)) and explodes (also like Mr. Bomb)
+
+### Mr. Block
+Looks like shoes with eyes on top. “Gets” blocks somehow and uses them as a body. When killed only the eyes and
+feet die, leaving a block. He could make blocks, get them by pulling out of ground or take them when he bumps into a wall.
+
+### Mr. Jump
+![](images/Mr_jump.png)
+Behaviour like the normal snowball, but you can jump on it like on a trampoline.
+
+### Mr. Palm Tree
+Very tall badguy consisting of stacked segments; jumping on top removes the bottom segment.
+When there's only one segment left, Mr. Palm Tree dies.
+
+### Nutty
+A harmless, indestructible badguy; a bit like a walking moving platform. Alternative: an equivalent
+of Mr. Ice Block.
+
+### Volcano
+Stationary boss badguy, spews ashes that can hurt Tux.
+
+### Wild Boar/Feral pig
+Basic walking badguy, starts running faster upon seeing Tux. Tux can stun him by kicking
+him from behind, and can kill him by stomping on him.
+
+### Hungry Parakeet
+Zeekling equivalent for Tropical Paradise
+
+### Melon
+Snowball equivalent for Tropical Paradise.
+
+### Mosquito
+Flying snowball equivalent for Tropical Paradise.
+
+### Spider
+A tarantulas going up and down
+
+### Tumbleweed
 ![](images/Tumbleweed.png)
 
-Its graphics are implemented, but there is no sprite or badguy for them. It rolls along the floor, when Tux is on the left or on
-the right. When Tux is above or under, it stops rolling. It hurts on touch and it can't be squished. It's flamable and freezable.
+Its graphics are implemented, but there is no badguy for them. Here is the idea for its badguy:
+It rolls along the floor, when Tux is on the left or on the right. When Tux is above or under,
+it stops rolling. It hurts on touch and it can't be squished. It's flamable and freezable.
 
 ### Hanging Ball
 
 ![](images/Hanging_ball.png)
 
-It could be a stone stalactite that fits the forest and jungle theme, but stone stalactite wouldn't break suddenly. It's a ball
+It could be a stone stalactite that fits the forest and jungle theme, but it wouldn't break suddenly when Tux is under it. It's a ball
 of dirt and stones hanging on a wine. When Tux walks under it, it would fall down. It hurts on touch. When it's hit by fireball,
 it falls down and when it's hit by iceball, it will freeze and it doesn't fall, when is Tux under it. It doesn't freeze enemies,
 like [Stalactite](https://github.com/SuperTux/supertux/wiki/Badguys-World-1#stalactite).
 
 ### Turtle
 
-A turtle that can hide inside its shell. It walks around like a snowball, but when stepped on, it will hide inside its shell.
+A turtle that can hide inside its shell. It walks slowly around like a snowball, but when stepped on, it will hide inside its shell.
 Once hidden, it can be picked up like a rock. During this period, nothing can hurt it, except for buttjumps or a crusher.
 After 10 seconds of not being carried, it wakes up and starts walking again.
 
-- When shot with fireball: If on the shell, nothing happens and the turtle hides. If on the front (face) it burns as usual.
+- When shot with fireball: If on the shell, nothing happens and the turtle hides in its shell. If on the front (face) it burns as usual.
 - When shot with iceball: If on the shell, the shell freezes and the turtle walks out without a shell. If on the front, it freezes as usual.
-When the turtle goes out of its shell, itbecomes more vulnerable and can be squished, frozen or flameable.
+When the turtle goes out of its shell, it becomes more vulnerable and can be squished, frozen or burned.
 
 There will also be a sleeping version of the turtle.
 
@@ -409,36 +436,36 @@ There will also be a sleeping version of the turtle.
 
 ![](images/Swarm_of_flies.png)
 
-The swarm of flies won't be flameable or freezable. It wouldn't hit on touch immediately, it will last a while. It will fly
-dirrectly to Tux. When it crashes to a solid wall, it dies.
+The swarm of flies won't be burnable or freezable. It wouldn't hurt on touch immediately, it would last a while. It will fly
+directly to Tux. When it crashes to a solid wall, it dies.
 
 ### Jungle Ivy
 
 ![](images/Jungle_ivy.png)
 
 Jungle ivy will behave the same as [Crystallo](https://github.com/SuperTux/supertux/wiki/Badguys-Icy#crystallo), but leaf
-particles will appear on death.
+particles will appear on death, and it is burnable and freezable.
 
 ### Mr. Slimy
 
 ![](images/Mr_slimy.png)
 
-Mr. slimy will be squishable, freezable, but not flameable. When Tux jumps on it, Tux will stick and he will move twice as slow
+Mr. Slimy will be squishable, freezable, but not burnable. When Tux jumps on it, Tux will stick and he will move twice as slow
 for five seconds. However, when it is frozen first, it will not affect Tux.
 
-### Root
+### Throwing Root
 
 ![](images/Root.png)
 
-This root will grow up, when is Tux nearby and it will throw hurting stones to Tux. Root wouldn't hit on touch neither be solid.
-Only the stones will hurt Tux. Root will be flameable and freezable.
+The Throwing Root will grow up out of the ground when Tux is nearby. Then it will throw hurting stones to Tux. Root would hit
+on touch but would not be solid. Root will not be burnable or freezable. Could fit in with the Corrupted Forest.
 
 ### Panda Bear Boss
 
-Tux gets off the ship at a pier, when he hears a splash. He looks at the water, and sees a giant panda bear get out and on
-to the pier. Tux prepares to fight him...
+Tux gets off the ship at a pier, when all of a sudden he hears a splash. He looks towards the water, and sees a giant panda bear get out and on
+to the pier. It starts running straight at Tux. What could Tux do? He decides to fight the panda...
 
-...The boss panda bear is stunned, and he falls in to the water, causing a huge wave. Tux is swept off his feet and
+...The panda bear is stunned, and he falls in to the water, causing a huge wave. Tux is swept off his feet and
 carried through the water, screaming.
 
 > "What is the moveset? Also we already have a big, fuzzy character, the yeti."
@@ -457,11 +484,15 @@ carried through the water, screaming.
 
 - Runs very fast (because he's so angry)
 - If Tux jumps on it, Angry Snowball will be eliminated.
-- If Tux jumps over him, Angry Snowball turns, making him skid,
+- If Tux jumps over him, Angry Snowball turns, making him skid.
 
 ### Mr. Push-away
 
 ![](images/Mr_Pushaway.png)
+
+Mr. Push-away will walk like a regular snowball, but it has a trampoline. It will move its trampoline
+to face towards Tux. When Tux touches Mr. Push-away's trampoline, Tux is pushed away, like a trampoline
+or bumper. To defeat it, you have to be faster than it, and step on its head. 
 
 ### Electric Eel
 
@@ -477,25 +508,22 @@ it electrocutes the water, so Tux will know to get out of the water.
 
 A badguy which could fit into the ghost-forest scheme.
 
-At first, this looks and behaves like a normal background tree, so tux can walk “through” it. (Especially mean when
+At first, this looks and behaves like a normal background tree, so tux can walk past it. (Especially useful enemy when
 having the same tree often as normal background) When tux passes a special point near the tree (surprise will be much
 more intense if this point is behind that tree), it becomes alive and hunts tux.
 
 > "It maybe would be a good idea to make the tree a little slow as it were strange to have it running around. That could
-  be compensated by making it a bit harder to kill. (I also have the graphic in svg available where it should be easy
-  editable and resizeable.)" - Henning 08:46, 27 Sep 2006 (BST)
+  be compensated by making it a bit harder to kill."
 
 ### Leopard Seals
 
-A badguy that lives underwater. See wikipedia article about this: en.wikipedia.org/wiki/Leopard\_Seal - They can grab penguins under
+A badguy that lives underwater. See wikipedia article about this: ()[en.wikipedia.org/wiki/Leopard_Seal] - They can grab penguins under
 water, they can't breath and they die.
-
-> "That's one that I've wanted since M1."
 
 ### Flattop/Flatbottom Iceberg
 
 Flattop Iceberg looks like an upside-down icy cone with eyes that follow Tux and lives only in water. When jumped on,
-speeds off at Mr.-Iceblock speed with Tux on top; at collision, Tux flies off and Iceberg crumbles.
+speeds off at Mr. Iceblock speed with Tux on top; at collision, Tux flies off and Iceberg crumbles.
 
 Flatbottom Iceberg is a flipped Flattop Iceberg, so it can't be “ridden”. Both kinds of Iceberg can be killed by fire
 shot and their points kill Tux.
@@ -532,7 +560,7 @@ other fishes.
 ### Jellyfish
 
 The Jellyfish is hard to beat because it slowly moves randomly in water. The trailing tentacles (2 spaces long) can kill Tux.
-It can be killed thee same way as all the other fish, but it can be stepped on.
+It can be killed thee same way as all the other fish, but it can be stepped on also.
 
 ### Shark
 
@@ -552,13 +580,13 @@ killed only by fire shot and invincibility.
 
 ### Mr. Lightning
 
-It looks like a small cloud with a bolt of lightning, the cloud having eyes. It shoots down from a certain point, trying to hit
+It looks like a small thundercloud with eyes. It shoots down a lightning bolt from a certain point, trying to hit
 Tux. It moves twice as fast as a diving Zeekling. It cannot be killed, and it hurts Tux when it hits him, after which it disappears.
 
 ### Skullymine
 
 It is the Mr. Bomb of the ghost forest; it can be frozen, carried, detonated, etc. However, its explosion patterns will work
-differently of those of mr. bomb; different ways of killing it will produce different results from the bomb, as it is encased
+differently of those of Mr. bomb; different ways of killing it will produce different results from the bomb, as it is encased
 in a skull.
 
 ### Mr. Bubble
@@ -576,7 +604,7 @@ Looks like a Skullyhop, but shoots darts at preset intervals. Can be killed by s
 
 ### Suit of Armor
 
-As high as BigTux, it runs with its sword held in front of it. It can hurt Tux, as well as any badguy that can be killed by
+As high as Big Tux, it runs with its sword held in front of it. It can hurt Tux, as well as any badguy that can be killed by
 Tux. When hit with a fireball, it burns and disappears. It can also be frozen, and it can be killed by Earth Tux or invincibility.
 It can not be stepped on due to a spike on its helmet.
 
@@ -599,7 +627,7 @@ If Tux gets to near a Smart eye, it will haunt him until it hurt. Then Smart eye
 
 ### Icecrusher Family
 
-| Krish                 | Krush                 | Kresh                 | Krosh                 | Krash                 |
+| Krish (1x1)           | Krush (2x2)           | Kresh (3x3)           | Krosh (4x4)           | Krash (5x5)           |
 |-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
 | ![](images/Krish.png) | ![](images/Krush.png) | ![](images/Kresh.png) | ![](images/Krosh.png) | ![](images/Krash.png) |
 
@@ -614,9 +642,9 @@ They look like dirt and rock tied together with vines.
 - Grassball (smart version of Earthball)
 - Earth Jumpy
 - Earthman (like Snowman)
-- Flying Earth (simlary as Flying Snowball)
+- Flying Earthball (simlary as Flying Snowball)
 - Earthshot (similar to Snowshot)
-- Mr. Earthblock (It is made of mostly stone)
+- Stoneblock (like Mr. Iceblock. It is made of mostly stone)
 
 ### Angry Stone
 
@@ -628,8 +656,10 @@ Not sure what its behavior could be, but here is a potential list of actions for
 
 ### Sleeping Snowball
 
-Looks like a Mr Snowball with no feet and closed eyes, on contact with him Tux falls over and can't get up for a few
-seconds, allowing badguys to get him. Might be defeatable.
+Looks like a Mr. Snowball with no feet and closed eyes, on contact with him Tux falls over and can't get up for a few
+seconds, allowing badguys to get him. When Tux slips on it, it will wake up and become a regular Mr. Snowball.
+
+There might also be a Sleeping Smartball as well.
 
 ### Sitting Spiky
 
@@ -647,20 +677,20 @@ Robber walks around and, on contact steals bonuses and runs off to somewhere. If
 a weapon, allowing him to hurt Tux.
 
 > "As an addition for this idea, it should be possible to pursuit and kill the robber to get the stuff back, though it should
-  be pretty hard to get him." - Head 23:12, 8 Dec 2006 (CET)
+  be pretty hard to get him."
 
-> "Needs work... Besides, it sounds kinda cheesy." - DJ Wings 23:12, 20 Dec 2006 (CET)
+> "Needs work... Besides, it sounds kinda cheesy."
 
-> "SuperTux is Jump and run game, but not a shooting game." - Hume 19:21, 30 January 2011 (UTC)
+> "SuperTux is Jump and run game, but not a shooting game."
 
 > "I think that a monster like that will just rob anything, thing that can be important to the rest of the level, like a box,
-  a key... and could look like a fox, or for antartic level, like a little jumping fish?" - Ypetremann 19:00, 1 February 2011 (UTC)
+  a key... and could look like a fox, or for antartic level, like a little jumping fish?"
 
 ### Scared Cat
 
 - Runs away from Tux
 - Would be *nearly* as fast as Tux
-- When he catches one Tux gets a reward-Special bonus?
+- When Tux catches one he gets a bonus or coins
 
 ### Undead Enemy
 
@@ -699,36 +729,25 @@ It's been suggested numerous times that a polar bear be used as a bad guy or NPC
 ![](images/Polar-bear.png)
 
 > "Suggestions for what it could do? Maybe it could pace around like other badguys and charge when it sees Tux? That's
-  probably not a good idea, since it seems like  the sort of thing that only a boss should be able to do, and there's
-  already the Yeti." - DJ Wings N0 PH33R 14:55, 9 August 2007 (UTC)
+  probably not a good idea, since it seems like the sort of thing that only a boss should be able to do, and there's
+  already the Yeti."
 
 > "World 1 is [Antarctica](http://simple.wikipedia.org/wiki/Antarctica). That is a far away from polar bears as you can get without
   leaving the planet. But if we ignore that the bear might make a good boss for a snow world. He is way too big for a ordinary
-  badguy." - Superdev 18:38, 9 August 2007 (UTC)
+  badguy."
 
 > "Since when have we been all about accuracy? Yeah, the bear is way too big for a normal badguy, and since there's already a
-  boss, that's what I was afraid of. I don't want a clash in interests between me and the development team." -
-  DJ Wings N0 PH33R 19:45, 9 August 2007 (UTC)
-
-> "How about an NPC? Would that seem like a good NPC?" - 80.31.56.230 07:06, 11 August 2007 (UTC)
+  boss, that's what I was afraid of. I don't want a clash in interests between me and the development team."
 
 > "'Since when have we been all about accuracy?' I think that we should be more about it ASAP. The ghost forest is unrealistic
-  enough. (No matter *how* cute the skullyhops are)" - Julius\_Freezer 23:58, 2 July 2009 (UTC)
+  enough. (No matter *how* cute the skullyhops are)"
 
 ### Pirates
 
 Any bad guy pirate with a sword also be fun to the milestone 2.
 
 > "Foudre: yer idea be seconded Me hearties, I bein' with ya, matey. Shiver me timbers, I've dreamed of this since M1,
-  aargh. Cap'n snopwball be here! (Also, see [Water World](#water-world)" - Julius\_Freezer 23:58, 2 July 2009 (UTC)
-
-### Flying Badguy
-
-In SuperTux there was the idea of some flying badguy that if killed just loses his ability to fly and becomes
-a walking BG. (Rip out his wings, pop his baloon, pull his goggles, etc.) A airborn BG that just flies left/right or
-even is stationary could be used to jump on to cross a river or as moving obstacle.
-
-> "Make it so." - Superdev 20:29, 31 Jul 2006 (BST)
+  aargh. Cap'n snopwball be here! (Also, see [Water World](#water-world))"
 
 ### Giant Spider
 
@@ -745,7 +764,7 @@ by throwing her enough love letters before he gets killed??
 
 > "Or he could just have to stay alive until the trance wears off."
 
-> "I would not bet on the love letter idea." - 166.137.11.53 22:36, 1 May 2012 (UTC)
+> "I would not bet on the love letter idea."
 
 ### “Special” Yeti
 
@@ -754,7 +773,7 @@ He makes ice-blocks in the ice bank and throw them at Tux. He can only be defeat
 
 ### GIANT Snowball
 
-One of those walking snowball enimies but BIGGER!
+One of those walking snowball enimies but **BIGGER**!
 
 ## Badguys and Immunity
 
@@ -763,7 +782,7 @@ One of those walking snowball enimies but BIGGER!
   [Mr. Iceblock](https://github.com/SuperTux/supertux/wiki/Badguys-Icy#mr-iceblock) get extra-ice stopping him in his tracks
   and making him take more jumps to kill in this state. Eventually (If Tux doesn't kill him first) the ice will melt and
   Mr. IceBlock will go back to normal. The same with the other bad guys. I think there should also be a downside for the
-  bad guy in all cases." - F50
+  bad guy in all cases."
 
 ## Badguy Improvements
 
@@ -771,7 +790,12 @@ You should be able to pick up the beetle baddy and hit it from the side. The fis
 and should work even if there is no water in the interactive layer, and is just in the foreground. The badguys should
 stop killing each other.
 
-You could\\should\\SHOULD make the creator of the level have the ability to turn badguys killing badguys on and off.
+The harmless fish, if near the top of the water, should be able to jump out and dive back in. This could be configurable
+in the badguy settings.
+
+You could/should/SHOULD make the creator of the level have the ability to turn badguys killing badguys on and off.
+
+You could have a setting for Haywire to either jump over badguys, walk through them without any interaction, or kill them.
 
 So sometimes a badguy behaves one way and sometimes it does something else? Stuff that looks the same should behave
 the same way. Always. Maybe except Mr. Schroedinger's cat.
@@ -782,22 +806,23 @@ There should be more Paths to edit in regard to the Badguys. Maybe for the Flame
 
 ![](images/Editpathfire.png "Editpathfire.png")
 
-> "For the flame, you can create a hurting platform that uses the flame sprite. Kind of cheating, but it works." -
-  Tuxnut 02:44, 16 June 2010 (UTC)
+> "For the flame, you can create a hurting platform that uses the flame sprite. Kind of cheating, but it works."
 
-### Behaviour of Crystallo
+> "Then you wouldn't be able to melt it."
+
+### Behavior of Crystallo
 
 - When Tux buttjumps on it: splits into some shards which fly around, kill badguys, hurt Tux or break wooden boxes.
 - When Tux hits him with a fireball: It melts like other badguys with snow.
 - When a icicle falls on the badguy, it also splits into shards.
 
 > "This sounds a bit too much like Mr. Bomb, except that the sprites are very different. Why not have a friendly-ish
-  badguy for once? Tux can jump on Crystallo without harming him, but can use butt jump to kill Crystallo. The sides
-  are sharp and will hurt Tux. Crystallo should also stack onto itself." - Mathnerd314 03:07, 23 January 2008 (UTC)
+  badguy for once? Tux can jump on Crystallo without harming him, but can use buttjump to kill Crystallo. The sides
+  are sharp and will hurt Tux. Crystallo should also stack onto itself."
 
 > "That's okay, too, but I didn't think about a badguy like MrBomb. The particles should look like the ones when you
   destroy the poison ivy. They don't touch Tux when he jumps on Crystallo. Well...let me add another behaviour: Only
-  destroyable with a Butt Stomp."
+  destroyable with a buttjump."
 
 > "Why not try the Idea of Crystallo doing a thing I think better than moving in a fixed position? Crystello could walk
   slower than Mr.Snowball, but have protection. The protection should be that a blue sphere should surround him every 3
@@ -817,22 +842,14 @@ There should be more Paths to edit in regard to the Badguys. Maybe for the Flame
 
 > "More tiles. I like the tiles we already have, but I think that there should be more."
 
-> "More Music. I like the music, but I think there is room for more arctic and fortress music. I think we're good on
-  forest music though."
-  
-> "Last but not least, Animations. I know making a game like this itself is super hard, but could you please add some
-  animations? It would be utterly amazing if you could add stuff like that to the already fun gameplay.
-  Bubble - float and pop in air (particle effect)"
-
-- **Fly position** when tux flies into the air unexpectedly e.g. he is blown by wind he assumes the “fly position” feet
-  together pointing down, arms by side, looking up.
+> "More Music. I like the music, but I think there is room for more of it."
 
 - Forest
   - Tile variance
     - Snowy Forest (needs discussion)
 - Wasteland
   - Tiles and Background as pictured in the upper left-hand corner of
-        <http://supertux.lethargik.org/wiki/images/9/97/Forestworldoverview.jpg>
+    <http://supertux.lethargik.org/wiki/images/9/97/Forestworldoverview.jpg>
   - Worldmap tileset
 - Wallstone tileset and backgrounds
   - <http://supertux.lethargik.org/wiki/images/4/4b/Wallstone-tileset.jpg>
@@ -846,12 +863,10 @@ There should be more Paths to edit in regard to the Badguys. Maybe for the Flame
 
 #### Different Shades of Water
 
-- **Light Water** This is easy to see through and should be used in shallow areas (less than 25 spaces deep). This is the default type of water.
-- **Medium Water** This is darker and a bit harder to see through; it should be used in deeper areas (25-50
-  spaces deep).
-- **Dark Water** This is nearly black, hard to see through, and suitable for the bottoms of very deep pits and
-  trenches (50-100 spaces deep).
-- **SuperDark Water** This water is jet-black; you can hardly see Tux, and so it is suitable for the deepest
+- **Light Water:** This is easy to see through and should be used in shallow areas (less than 25 spaces deep). This is the default type of water.
+- **Medium Water:** This is darker and a bit harder to see through; it should be used in deeper areas (25-50 spaces deep).
+- **Dark Water:** This is nearly black, hard to see through, and suitable for the bottoms of very deep pits and trenches (50-100 spaces deep).
+- **SuperDark Water:** This water is jet-black; you can hardly see Tux, and so it is suitable for the deepest
   oceans and trenches (100+ spaces deep).
 
 This could potentially be done by lowering the ambient brightness to make everything darker, that is already implemented though.
@@ -860,18 +875,19 @@ This could potentially be done by lowering the ambient brightness to make everyt
 
 #### Decoration Tiles for Water
 
-- **Kelp** There are two kinds; the darker immobilizes Tux for 5 seconds, while the lighter is just decorative.
+- **Kelp:** There are two kinds; the darker immobilizes Tux for 5 seconds, while the lighter is just decorative.
 
 > Have to be careful with this, 5 seconds is a looooooooooooooooong time to be immobilised, and becomes extremely
   frustrating to players in situations where it is possible to become immobilised very shortly after regaining
   movement. It's enough to make me personally put a game down and stop playing it for good.
 
-> "Fine,2 seconds."
+> "Fine, 2 seconds."
 
 > "It could maybe just slow Tux down a bit, as long as Tux is touching it?"
    
 - **Smokers** These should be used in Dark and SuperDark water areas. There are two kinds: one with
   light smoke and no light coming from its top, and the other with dark smoke and an angry red glow illuminating it.
+
 - **Logs** - These are ordinary logs which Tux can jump on. There could maybe be a crocodile enemy that looks like the logs too.
 
 ### Ground Sounds
@@ -885,7 +901,7 @@ more tricky since there are no tile attributes that tell the engine what kind of
 
 > "Well, the tiles could get simple attributes, enabling this and, after some time of fooling around with it,
   lots of other effects. Deep snow makes you sink in and slower. Put the slickness of ice in there. Alternatively,
-  just let the designer designate regions that have certain specs." - 84.154.88.23 22:17, 25 Sep 2006 (BST)
+  just let the designer designate regions that have certain specs."
 
 ### Adjustable Level Hardness
 
@@ -897,19 +913,6 @@ advanced players. For example, adjust how often a checkpoint or powerup appears,
 Perhaps a dynamic environment would be cool where the level reacts/interacts with Tux. For example: in forest levels
 there are trees, and there are holes in the trees with eyes that are looking in the direction Tux is. Or the trees could
 shed leaves occasionally, sending leaves drifting to the ground.
-
-### Own Sketches
-
-[](images/ideas1.png)
-
-### The Infinite Patern
-
-An idea to have the graphic not break. All tilemap that have a name becoming with \* where an infinite patern tilemap,
-it make the graphic to be repeated if that the player see is out of the world For example, I make a very small level
-to demonstrate how to make a good mario like pipe effect: ![](Infinite_Tiles_0.png) ![](Infinite_Tiles_1.png)
-
-> "For now we can make this effect by creating a tilemap that have an offset and that the size is over the most large
-  screen size divided by 32." - Ypetremann 13:00, 23 January 2011 (UTC)
 
 ---
 
@@ -941,7 +944,8 @@ without having to worry if the player will have the item at all.
 
 Ability to have different power-ups and weapons would make the game more fun. For example, having a lot of power-ups
 and weapons would make some players want to try out all the moves there are. Making the power-ups so that tux can only
-have one at a time would make the game more interesting. (Possibly have offense and defensive powerups - no slip ice boots)
+have one at a time would make the game more interesting. (Possibly have offense and defensive powerups - for example,
+no slip ice boots)
 
 > Problem: More powerups means more combinations to test in the level to make sure it's playable
 
@@ -949,13 +953,11 @@ have one at a time would make the game more interesting. (Possibly have offense 
   what powers he would have when he got to a level thus making it harder for level writers. I was thinking that this was
   not true if you just make all these powerups have power downs for each one or for all or for some subsets. Thus a level
   could be made where the only way forward was to hit a power down. Thus the level maker would be in total contol of all
-  of Tux's powers at any given place. Douglas E Knapp, Perspective Project MMORPG. (http://code.google.com/p/perspectiveproject)"
+  of Tux's powers at any given place."
 
 ### Laser Flower
 
-![](images/Laser-flower-0.png)
-
-When Tux gets this powerup, if the Action button is pressed, a glowing green laser shoots out of Tux's beak and rebounds 3 times
+When Tux gets this powerup, if the ACTION button is pressed, a glowing green laser shoots out of Tux's beak and rebounds 3 times
 before disappearing, killing all badguys that can be killed with fire shot. The laser should be about as fast as Tux's running speed.
 
 ### Scuba Gear?
@@ -969,45 +971,45 @@ the tank off the bottom of the screen much like a MrSnowball hit with a fireball
 ![](images/Boxeur_tux.gif)
 
 Boxing gloves might be found as temporary powerups, permanent powerups like the flowers or might be bought at the shops.
-Boxer Tux can smash crates, open bonus blocks and defeat most enemies by punching.
+Boxer Tux can smash wooden crates, open bonus blocks, and defeat most enemies by punching.
 
 ### Stone Bonus Blocks
 
-these would only be activated by Big Tux. depending on what powerup you have (Bigtux, fire, ice, air, or earth), you would get a different
+These would only be activated by Big Tux. depending on what powerup you have (Bigtux, fire, ice, air, or earth), you would get a different
 powerup.
 
-bigtux powerup: hugetux tux looks like smalltux but is twice the size of bigtux, he is temporarily invincible and can kill badguys just
+Bigtux Powerup: Hugetux tux looks like smalltux but is twice the size of bigtux, he is temporarily invincible and can kill badguys just
 by touching them and earn coins doing it. he can also activate bonus blocks from above just by stepping on them. this would run out after
 a certain period of time.
 
-firetux powerup: jet pack tux would act normally but if you press the ACTION button tux flies up slowly, gaining speed.
-this would disapear after he has flown for a certain ammount of time and used all his fuel.
+Firetux Powerup: Jet pack tux would act normally but if you press the ACTION key, tux flies up slowly, gaining speed.
+this ability would disappear after he has flown for a certain amount of time and used all his fuel.
 
 ### Superpower Mass Effect
 
 Whenever Tux has a powerup (fire/ice/whatever), a key combo may generate a big (almost whole screen) instant burning/
 frosting/whatever area (fancy graphics) that results in only one fire/ice/whatever shot effect for each enemy/burnable
-block/item in the area (this includes the potential [bad-side](User_ideas#Bad_guys_and_Immunity "wikilink") effects).
-Once this ability is performed, Tux will lose the fire/ice/whatever ability and return to smalltux. Maybe it could
+block/item in the area (this includes the potential bad-side effects (see above)).
+Once this ability is performed, Tux will lose the fire/ice/whatever ability and become smalltux. Maybe it could
 only be possible if Tux has a powerup, has it in the item pocket, and just got it (within 20 seconds)
 
 > "I think this won't unbalance the game. The fact that with a fire/ice hat you have an unlimited fire/ice shot supply is pretty
   much useful than just an instant fire/ice area. You still could just kill every enemy in the screen by shooting and you still
   keep the powerup. Different ways with different difficulty and rewards will improve the game IMO. This feature could bring more
   fanciness and originality to the game along with more possible puzzles involving this ability (Ej: you need to burn a block
-  that is out of range so that it makes a rock fall and push a button)." - Ferk 10:50, 2 February 2007 (UTC)
+  that is out of range so that it makes a rock fall and push a button)."
 
 > "A “superpower mass effect” actually isn't a bad idea. I thought it was at first, but come to think of it, it just might
   be better. (We'd just have to rewrite Welcome to Antarctica to include a section with it, and explaining not to use it by
   accident.) The thing would be, a lot of levels would have to have sections reworked in order to work with it. It isn't a
-  bad notion, though, and would be something to keep in mind." - Julius\_Freezer 23:58, 2 July 2009 (UTC)
+  bad notion, though, and would be something to keep in mind."
 
 ### Colorpile
 
 ![](images/Colorpile.png)
 
 They can be of different colors. When Tux eats a colorpile, Tux begins to glow that color for a short period of time. This
-allows Tux to light up magicblocks without needing a lantern.shine
+allows Tux to light up magicblocks without needing a lantern.
 
 ### Gem
 
@@ -1016,39 +1018,30 @@ allows Tux to light up magicblocks without needing a lantern.shine
 ![](images/Gem-skyblue.png) ![](images/Gem-purple.png)
 
 This is a powerup **without any specific features**, allowing that their function can not confused with something else.
-It would be appropriate if I want to do unusual powerup, which would call a different script than the usual like egg,
-fireflower ... and it wouldnt to powerup the confused with somewhat usunal. Gems could come in many different colors.
+It would be appropriate if I want to do unusual powerup, which would call a different script than usual.
+and it wouldn't to powerup the confused with somewhat usunal. Gems could come in many different colors.
 
 ### Thunder Flower
 
 -   ThunderTux would have head ruffled feathers and sparkles.
--   Tux would shot thunderbolts.
+-   Tux would shoot thunderbolts.
 -   ThunderTux would kill just as FireTux, but something else.
-
-#### Stacking
-
-    (stacking
-      (on_flying <boolean>)
-      (on_non_flying <boolean>)
-    )
-
-*on_flying*
-Powerup can lie on anything else powerup with flying.
-*on_non_flying*
-Powerup can lie on anything else powerup withoult flying.
 
 ### Water To Ice
 
-It should be possible for Tux, when he has the ice-flower power up, to freeze water. But he should not freeze a whole
+It should be possible for Tux, when he has the ice-flower powerup, to freeze water. But he should not freeze a whole
 lake with one ice-attack, it only works with one tile at a time. The frozen water will eventually melt and turn back
 to regular water. It can also melt if Tux touches it, or if he hits it with a fireball.
 
 If Tux...
-- hits the tile once: Very unstable tile, will melt very quickly on contact. Time till naturally melting: 10 seconds
-- hits the tile twice: Unstable tile, will melt somewhat quickly on contact. Time till naturally melting: 20 seconds
-- hits the tile three times: Weak tile, will melt after 5 seconds of contact. Time till naturally melting: 25 seconds
-- hits the tile four times: Meltable tile, does not melt on contact. Time till naturally melting: 30 seconds
+- hits the tile once: Very unstable tile, will melt very quickly on contact (1 second). Time until naturally melting: 5 seconds
+- hits the tile twice: Unstable tile, will melt somewhat quickly on contact (2.5 secs). Time until naturally melting: 10 seconds
+- hits the tile three times: Weak tile, will melt after 5 seconds of contact. Time untill naturally melting: 15 seconds
+- hits the tile four times: Meltable tile, does not melt on contact. Time until naturally melting: 20 seconds
 - hits the tile five times: Fully stable tile. Does not naturally melt. To melt, Tux must hit the tile with fireballs five times.
+
+In any of these, each time Tux hits it with an iceball, it goes up in stability by one level. If Tux hits it with a fireball, it
+goes down in stability by one level.
 
 ### Pogo Stick
 
@@ -1059,7 +1052,7 @@ Perhaps this should be just like a star, just a temporal ability. To avoid makin
 be like the boot in Super Mario Bros. 3, which allows the player to jump on usually harmful enemies, but is gone at
 the end of the level.
 
-![](images/Pogo.jpg "Concept art of Tux on his Pogo Stick")
+![](images/Pogo.jpg)
 
 ### Boomerang
 
@@ -1084,7 +1077,7 @@ Idea for releasing and controlling bubbles:
 
 ### Rope
 
-Tux will be able to use a rope (in one form or another). The rope should be useful for both swinging around and
+Tux should be able to use a rope (in one form or another). The rope should be useful for both swinging around and
 capturing/disabling enemies.
 
 ### New Movements For Tux
@@ -1094,7 +1087,7 @@ capturing/disabling enemies.
   vigorously. After a while, Tux gets tired and will fall to the ground. To manually stop flying, the player must
   press the DOWN key for 2 seconds.
 - **Hang glider**
-- **Walk on water** - but only if the water isn't deep and if Tux is running
+- **Walk on water** - but only if the water isn't deep and if Tux is running and is able to fl
 - Tux becoming frozen (as an ice block) in order to float and kill enemies
 
 ---
@@ -1103,19 +1096,24 @@ capturing/disabling enemies.
 
 - **Moving script triggers** - for example, have a cloud of smoke flying around and if it touches Tux it puts him to sleep
   for a few seconds.
+- **Activate and Deactivate Invisible Walls, Ladders, Scripts, and End Sequence Triggers:** If they are named, you can activate
+  and deactivate them:
+  - `script1.activate();`
+  - `script1.deactivate();`
+  - `script1.set_oneshot_triggered(false);`
+  - `script1.reset_oneshot_data();`
+  - `script1.set_button_mode(true);`
 - **Lava tiles** might be solid, making possible for some enemies (and maybe Invincible Tux) to walk on them. They may also
   kill even BigTux on touch instead of simply hurting him.
-- **Special blocks** solid for enemies but not for Tux, and maybe vice-versa.
+- **Special blocks:** solid for enemies but not for Tux, and maybe vice-versa.
 - **Truly floating platforms**, that actually float on water: if one of these is placed in midair, it will fall down, stopping
   when hitting solid or water tiles; if the level of water rises/falls, they will automatically rise/fall (SVN currently allows
   only platforms with a fixed path).
-- Item which inverts the keyboard (if you press a key in order to go left, you will go right)
+- Item which inverts the keyboard temporarily (if you press a key in order to go left, you will go right)
 - Black hole which suck away Tux (he could die or the black hole could work as transporter)
-- Transformed Tux which could cheat enemies
-- **FreezeBall**: a kickable (but not portable) object that can be used to squish badguys. If the FreezeBall lands in a
-  particular area (let's call it a goal) then a script is activated, possibly opening a door to a secret area...
+- **FreezeBall**: a kickable (but not carriable) object that can be used to squish badguys. If the FreezeBall lands in a
+  particular area, then a script is activated, possibly opening a door to a secret area...
 - Ice floe as a game object (might also depend on fluid simulation as game object)
-
 - **TNT**, Tux will be able to grab this object. When dropped, it will start ticking and then explodes.
 - **Broken boat**, The boat that goes from icy island to rooted forest should be broken, and before Tux can use it, he must fix
   it somehow, by obtaining some tools like a hammer, saw, sail or something. This would create a new sub-objective in the game,
@@ -1125,20 +1123,8 @@ capturing/disabling enemies.
 
 ![](images/RadarMan.png)
 
-Radar Man moves by disappearing from the square he is in and appearing in one next to it. He does not harm Tux he
-simply makes Tux have to move like him for a while. Radar Man cannot be harmed.
-
-> "Maybe its my poor English, but i dont understand what radar man is supposed to do."
-
-> "Radar Man is a teleporter type object. He moves around, and if you touch him, you get teleported... that's how I
-understand it."
-
-> "In that case, it's already been implemented as a Will-O-Wisp." - DJ Wings N0 PH33R 19:52, 9 July 2007 (UTC)
-
-> "Seems more like an object that forces Tux to move like it for a while." - Shylence 10:10, 10 July 2007 (UTC)
-
-> "Look, it teleports short distances instead of actually moving. if it touches tux then tux will teleport short distances
-  as well. Its up to you if that is good or bad. (this was posted by the guy who invented radar man in the first place."
+Radar Man moves by disappearing from where it is in and appearing somewhere nearby. He does not harm Tux.
+When Tux touches Radar Man, Tux will teleport short distances as well for a short time. Radar Man cannot be harmed.
 
 ### Safe
 
@@ -1147,18 +1133,12 @@ understand it."
 Something is hidden in a safe. If it is touched by Tux then as soon as Tux stops touching it the thing is released.
 If it is a tile that’s hidden in it then to release it the safe turns into it, if it is a bad guy it appears on top of it.
 
-> "I at least do not like that idea." - 84.154.88.23 22:14, 25 Sep 2006 (BST)
-
-> "I don't like it either." - Julius\_Freezer 23:58, 2 July 2009 (UTC)
-
 ### Change Blocks
 
 ![](images/Change-block.gif)
 
 Maybe you know it from Crash Bandicoot Games. It's a block containing different things. Tux has to choose
-quickly, before the block become empty.
-
-> "Like Blocks in SMW!" - linuxlove
+quickly, before the block becomes empty.
 
 There should be an option if it goes emty or not.
 
@@ -1167,7 +1147,7 @@ There should be an option if it goes emty or not.
 ![](images/Rotating-bridge.jpg)
 
 On a path node for a platform, be able to change the rotation amount for the platform. This would require making
-rotating hitboxes.
+rotating hitboxes (Or have an option to rotate the hitbox).
 
 ### Warp Pipes
 
@@ -1175,27 +1155,14 @@ Warp pipes should be able to be stood on, but by pressing down on the arrow pad,
 connect underwater and cave levels, and should work somewhat like the door, which already works. They could be used
 as secret areas, and would add a lot of depth to the gameplay.
 
-> "This effect can already be accomplished by using a script over the top of the pipe. The script can use spawn points
-  to respawn Tux inside the secret area, etc." - NathanKP 8/30/2007
-
-> "There is only one problem. The Game must have some thin, invisible tiles to make the pipe's edges solid. I hope you
-  know what i mean."
-
-> "And with the scriptet way, it looks kinda ugly &gt;.&lt; He should move down, and then move to destination and then
-  come out of an other pipe.."
-
-> "I used heavily scripted pipes in my level. It's okay. Just you can see his legs sticking out."
-
 ### Throw / Shoot Upwards
 
-It could be possible to throw objects/shoot fireballs upwards.
-
-> "*I* don't like the idea, but..." - Julius\_Freezer 23:58, 2 July 2009 (UTC)
+It could be possible to throw objects/shoot fireballs upwards. (Like when you press the UP key and ACTION at the
+same time or something.)
 
 ### Pushable/rollable stone
 
-You roll it over enemies so they die, and can roll it to place so you
-jump up on it to reach higher.
+You roll it over enemies so they die, and can roll it to place so you jump up on it to reach higher.
 
 These stones can be pushable so they start rolling.
 
@@ -1208,21 +1175,6 @@ These stones can be pushable so they start rolling.
 ### Pushable Crates
 
 Similar to the already-implemented rocks, but they must be pushed; they cannot be carried.
-
-#### Merchant
-
-I think there should be some sort of merchant in the game where you can spend gold and powerups to buy different
-things so if you have any money that you can't use you at least you have some use for it!
-
-![](images/Merchant.jpg)
-
-"Shops have already been proposed. I rather like the idea. I think that the gnu should be the merchant selling stuff
-in the shops." - Julius\_Freezer 23:58, 2 July 2009 (UTC)
-
-> "Really! Where? Thanks! I'm Suprised anyone would answer my ideas! Just tell me where the shops are coz -
-  I've never seen one!"
-
-> "Maybe the coins could be money or something." - UltraTux 21:00, 16 August 2009 (UTC)
 
 #### Rukush
 
@@ -1242,22 +1194,25 @@ Another idea, surely easier to implement, are Anti-lanterns. They should produce
 colors) but their real lightcolor would be negative. This could be simply a feture of Lantern. In Latern::updateColor,
 instead of:
 
-`sprite->set_color(lightcolor);`
+```cpp
+sprite->set_color(lightcolor);
+```
 
 there would be:
+```cpp
+if(lightcolor.red<0&&lightcolor.green<0&&lightcolor.blue<0){
+   sprite->set_color(-lightcolor); //Now it's an Anti-lantern
+}else{
+   if(lightcolor.red<0||lightcolor.green<0||lightcolor.blue<0)
+      //At least one component is negative but not every one because it was the first case
+      //Error - it is neither a Lantern, neither an Anti-latnern
+   }else{
+      sprite->set_color(lightcolor);`
+   }
+}
+```
 
-`if(lightcolor.red<0&&lightcolor.green<0&&lightcolor.blue<0){`
-`   sprite->set_color(-lightcolor); //Now it's an Anti-lantern`
-`}else{`
-`   if(lightcolor.red<0||lightcolor.green<0||lightcolor.blue<0){`
-`      //At least one component is negative but not every one because it was the first case`
-`      //Error - it is neither a Lantern, neither an Anti-latnern`
-`   }else{`
-`      sprite->set_color(lightcolor);`
-`   }`
-`}`
-
-As an Anti-lantern would seem to be a normal lantern, it should be marked somehow, possibly with a minus on its top.
+As an Anti-lantern would seem to be a normal lantern, it should be marked somehow, possibly with a minus on it.
 
 > "Tux could use it when there was an inaccessable Lantern and a Magicblock standing in his way." - Špule 06:02, 3 July 2007 (UTC)
 
@@ -1265,12 +1220,6 @@ As an Anti-lantern would seem to be a normal lantern, it should be marked someho
 
 I think there should be a creature (for example a bird?) that can carry you for a while through the air but can let you
 down unexpectedly.
-
-### Fire Escape
-
-![](images/Exit.gif)
-
-Behaves like “sequence-trigger” with parameter “sequence” set to value “stoptux”.
 
 #### Ten-Coin
 
@@ -1280,8 +1229,7 @@ Behaves like “sequence-trigger” with parameter “sequence” set to value �
 You gain 10 coins.
 
 > "I think that for this, we should just copy the originals but in other color like argent, because it will be the same and
-  different, when I play Supertux, I don't want to see text, just symbols, like a flower for the fire flower power ..." -
-  Ypetremann 18:26, 30 January 2011 (UTC)
+  different, when I play Supertux, I don't want to see text, just symbols, like a flower for the fire flower power ..."
 
 ### Throwobject
 
@@ -1295,14 +1243,14 @@ You gain 10 coins.
 
 Throwobject can pick up, point and throw it. If you do that, and hit into a badguy, so it dies. Throwobjects are
 **big** and **small**.
-
+```
     (throwobject
       (x <x-pos>)
       (y <y-pos>)
       (sprite "images/objects/throw_object/wood.sprite")
       (type <"big" or "small">)
     )
-
+```
 #### Small Throwobject
 
 - If you miss the target and falls to the ground, I can throw it more.
@@ -1359,14 +1307,6 @@ This would reflect all the light produced from the objects away. Some mirrors Tu
 - **New Air Tiles** - ![](images/New-air-tiles.png)
 - Slime/Mud - Slow down Tux's movement
 
-### Collectibles
-
-Maybe we could have big coins you could collect (like New Super Mario Bros Wii.), and unlock a bonus World
-(World 9 in NSMB Wii).
-
-> "Collectibles on a per-level basis are planned in *Milestone 2*, see
-  [Milestone 2 Design Document](Milestone_2_Design_Document/Objects#Collectibles)." - octo 07:52, 28 February 2010 (UTC)
-
 ---
 
 ## Other Ideas
@@ -1379,21 +1319,7 @@ Maybe we could have big coins you could collect (like New Super Mario Bros Wii.)
 - **Fading parts of tilemaps** so you don't have to make a separate tilemap for each secret area. Just fade the part
   that's covering \*this\* secret area.
 
-> "That would be illogical, and hard to make it work correctly, having a separate tilemap is simpler and more logical." -
-  AnMaster 20:14, 20 January 2007 (UTC)
-
-> "What about a tilemap, that always makes the part in front of Tux semitransparent?"
-
-> "Doesn't sound useful for anything." - AnMaster 15:03, 21 January 2007 (UTC)
-
-> "Did you ever play Short Visit to El Castillo? It would be very useful if the foreground could fade away so you can see tux."
-
-> "I have played that level of course... (I'm a SuperTux developer after all...) And I don't see what you mean. The
-  trees directly after the start or what? The secret area fades in it iirc (at least it does in trunk, not sure about 0.3.0)" -
-  AnMaster 18:04, 21 January 2007 (UTC)
-
-> "AnMaster, i think it was about the building, like, from the outside you don't see what is inside, but when you fall
-  into the hole in ceiling the from tilemap fades and you see what's inside. Got it?"
+> "That would be illogical, and hard to make it work correctly, having a separate tilemap is simpler and more logical."
 
 - climation (if the level is sunny, the ice will melt. If the level is windy, the wind will move Tux)
 
@@ -1451,22 +1377,6 @@ right, but it corrects itself and stops after a little if you jump off. Or a pla
 Mario Bros for the DS - it's a platform that continally moves up but tilts left/right when Mario stands on it so can be
 steered.
 
-### Improve The Handling of Tux
-
-> "Please tweak the handling of Tux to make more precise movements possible. In version 0.3.0 at least, Tux gets accelerated
-  forwards too fast, so it can be difficult to jump precisely. So reduce the \*initial\* accleeration, but of course, not
-  the maximum. In other words, holding a direction should expotentially increase acceleration up to the normal level, starting
-  off very slow, but then speeding up. This process would take maybe something like 1.5 seconds or something (test different
-  settings and use the one that gives the best feeling of being in control). Basically make Tux handle more like Mario. ;P"
-
-> "Yeah, the current method is lazy anyway, even an amateur programmer can do that. (x+=\[speed\], x-=\[speed\])"
-
-> "Feel free to send a patch."
-
-> "Give him some rubber boots. When he jumps and lands again, he is just slipping such a long way. I don't believe
-  that SuperTux just cannot land. It's SUPERtux. ;-) Especially in the Forest he is still sliding which is kinda
-  weird. When it is raining or in the water and on ice this property makes sense but underground and on grass rather not."
-
 ### Surviving A Fall
 
 I don't think he should necessarily not be able to fall of the screen, but he shouldn't die right away.
@@ -1476,52 +1386,23 @@ I don't think he should necessarily not be able to fall of the screen, but he sh
 > Penguins are built to fish, an emperor penguin can stay underwater without needing air for 27 minutes. So any air
   limit should be a very long one.
 
-> "There are underwater platforms in the game. Maybe you can add an indicator of oxygen level? Then oxygen gone, Tux
-  die... Sorry for my English..."
-
 >" Unless you leave the game running while you go out and work in the yard, there would be no way Tux could run out
    of oxygen. Penguins can hold their breaths for a *very long time*...***very*** long time." - Julius\_Freezer 23:58, 2 July 2009 (UTC)
 
-I don't know if penguins can breath underwater, but maybe Tux need swim to surface to breath sometimes...
+> I don't know if penguins can breath underwater, but maybe Tux need swim to surface to breath sometimes...
 
 > They can hold their breaths for up to 12 minutes. Good enough?
   - It depends on the penguin. Adélie's--like Tux--can hold their breaths for 15 minutes. I seriously doubt he
   - would be underwater for that long. You probably won't be making a level as long as “Moving On,” (an EXTREMELY
-  - long--7000+ length, level made by a friend) all the way below the surface of the water." -
-  Julius\_Freezer 04:32, 25 June 2009 (UTC)
+  - long--7000+ length, level made by a friend) all the way below the surface of the water."
 
 > "Some levels in story mode, like Deep Dive 'n' Chill, make Tux stay underwater for a long period of time. Either
   the level creator should be able to turn on and off oxygen levels, or there should be 'refill tanks' where Tux
   can get more oxygen.
 
-### Stage Variety
+### Playable Penny
 
-One thing that SuperTux is missing that Mario has would be stage variety. There are already above and underground
-stages, but where's the underwater action? Not to mention things like castle stages, stages with rising/falling
-water, vertically scrolling stages, those really annoying maze stages, autoscrolling stages, et cetera. Not to
-mention different locales, but I gather that those are already in the works. I refer specifically to some sort of
-forest. (And, might I add, picturing a penguin in a forest is pretty amusing.)
-
-They are going to use a forest in M2
-
-foudre: I dl the alpha for milestone 2, problem being is that in mario and other games they had more variety, ie:
-smaller worlds and more of them, rather then a long series of same themed levels, the forest is sort of cool, but
-people need to work on more tile sets, i will try to create a mountain side/volcano one, but the thing about major
-sidescroolers they had several worlds, and some levels even had their own tileset, so i think there shouldn't be the
-same fear of extra tile sets here either, i mean keeping it reasonable of course. and of course more enemies, the new
-set of forest creatures was sort of cool, still needs more variety
-
-See: en.wikipedia.org/wiki/Computer\_and\_video\_game\_settings
-
-The wall stone preview could really be a step in the right direction.
-
-![](images/Wallstone-tileset.jpg)
-
-### Female Players
-
-Perhaps a version of story mode where Tux is kidnapped rather than Tux and Penny must go safe him.
-
-> "I do not like this idea."
+Perhaps a version of story mode where Tux is kidnapped rather than Penny, and Penny must go safe him.
 
 ### Collecting Stuff
 
@@ -1532,11 +1413,10 @@ located on the world map. For completing the collection with all badguys of the 
 Big Coins or Medals would be more realistic. There should be a map where you can see what medals you have, or just
 how many and when a specific number is reached a door on the world map opens...
 
-> I love this idea! However, I'm not sure about how it fits into the theme of SuperTux... Maybe instead of bubbles
-
-Tux could somehow freeze enemies in a block of ice and carry them in his feet like real-life male penguins carry
-there eggs. The challenge would be to get to the end of the coarse without it getting knocked out of your grasp
-by an enemy and sliding of a cliff. Maybe the igloo that Tux starts out on could be the “Museum”.
+> "I love this idea! However, I'm not sure about how it fits into the theme of SuperTux... Maybe instead of bubbles,
+  Tux could somehow freeze enemies in a block of ice and carry them in his feet like real-life male penguins carry
+  there eggs. The challenge would be to get to the end of the coarse without it getting knocked out of your grasp
+  by an enemy and sliding of a cliff. Maybe the igloo that Tux starts out on could be the “Museum”".
 
 ### Cheats
 
@@ -1656,20 +1536,19 @@ like a tiger, arrr!
 > "Sounds like completely anti-Tux, I would prefer this to be some miniboss Nolok made by cloning Tux."
 
 > Playing a cute little dragon would be cool too! :D Again,I shalt put that intoeth mine version of Super tux.It will be out
-in three years -Rorikdude
+in three years
 
 > "I think that an alternative character (outside of [Super Tux Smash](https://github.com/SuperTux/supertux/wiki/Ideas#super-tux-smash))
   would be another very bad idea. Penny, of course, ***must*** be playable--that is given--but the whole idea is that you have Tux the
-  penguin and you jump and squish your way through a variety of levels until you reach a fortress." - Julius\_Freezer 23:58, 2 July 2009 (UTC)
+  penguin and you jump and squish your way through a variety of levels until you reach a fortress."
 
 ### Submit Level
 
 A very nice way to get the community involved in creating artwork/levels for SuperTux would be to have a submit button in
-the level editor. Submissions received this way can be put on a website where the community “votes” (for example digg style)
-the levels.
+the level editor. Submissions received this way can be put on a website where the community “votes” the levels.
 
-> "See <http://supertux.info/pmlvls.php> . I don't think a button in the editor would do much good. Too many people would submit
-  everything just because they can. Lets hope uploading manually makes them think a bit about their level." - Superdev 09:35, 6 October 2007 (UTC)
+> "I don't think a button in the editor would do much good. Too many people would submit
+  everything just because they can. Lets hope uploading manually makes them think a bit about their level."
 
 ### Planet Map
 
@@ -1698,15 +1577,7 @@ the levels.
   would probably be the types of levels in the Forest World. It seems to me that ALL of the levels in there contain a gimmick
   which is never to be found again. “Bouncy Coils” is the only level to contain the coils. “Crumbling Path” introduces the
   crumble blocks, which are never seen again. “Tux the Builder” has building blocks which are also never seen again. Call me
-  spoiled, but I'd like to see some more just-plain-levels (Like “Welcome to the Forest”) when Milestone 2 is finally released." -
-  Mr Eyeball 21:59, 24 October 2009 (UTC)
-
-> "One more thing: Just because it's the Forest World, doesn't mean that there have to be ONLY forest levels included in
-  there. The Mario series has Grassland Levels in the Sky World, Sky Levels in the Forest World, Volcano Levels in the
-  Grassland World, etc. After 23 levels of *only*forest, I got a little bored of the theme. You might say the novelty
-  wore off. I'd also like to see certain enemies (Like the Goomba in Mario) that appear in every world. And I think the
-  castles in each world should have the same (or somewhat similar) tileset to add a sense of uniformity to Nolok's
-  designs." - Mr Eyeball 22:03, 24 October 2009 (UTC)
+  spoiled, but I'd like to see some more just-plain-levels (Like “Welcome to the Forest”) when Milestone 2 is finally released."
 
 > "This is why 0.3.\* is called a “development version.” It is intended to preview new features. The levels are the demos
   for these features. This is also why you can get the editor for these levels.
@@ -1727,13 +1598,13 @@ the levels.
 <details>
   <summary>Methods</summary>
 
-`get_pos_x("object")`
+`OBJECT.get_pos_x()`
 
-returns the x-pos of the target object
+returns the x-pos of OBJECT
 
-`get_pos_y("object")`
+`OBJECT.get_pos_y()`
 
-returns the y-pos of the target object
+returns the y-pos of OBJECT
 
 `run("script")`
 
@@ -1742,7 +1613,7 @@ run a script, mentioned either in an imported script, or somewhere else in the l
 A script is defined like this:
 
 ```
-script("script1") {
+defscript("script1") {
 ...
 }
 ```
