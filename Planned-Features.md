@@ -1,12 +1,12 @@
 This is a list of features planned to be implemented in the next release.
 
-* \[?\]: Implementing of the feature isn't still sure.
+* \[?\]: Implementing of the feature isn't confirmed.
 * \[⇓\]: The feature is planned.
-* \[➔\]: Implementing the feature is being worked on.
-* \[✔\]: This feature is implemented in development versions.
-* \[✖\]: Ignored
+* \[➔\]: Implementing of the feature is being worked on.
+* \[✔\]: The feature is implemented in development versions.
+* \[✖\]: The feature is ignored
 * \[⇓\]: To be done in a further release
-* \[ϴ\]: Partionally done, patrionally ignored or moved
+* \[ϴ\]: Partially done, partially ignored or moved
 
 0.3.5
 -----
