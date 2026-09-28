@@ -57,13 +57,6 @@ Specifications
 * [[Tileset]]
 * [[Sprite]]
 
-Milestones
-
-* [[Milestone 1 Analysis]]
-* [[Milestone 2 Design Document]]
-* [[Milestone 2 Design Document Old]]
-* [[Milestone 3 Design Document]]
-
 Building (mostly outdated)
 
 * [INSTALL.md](https://github.com/SuperTux/supertux/blob/master/INSTALL.md)
