@@ -9,6 +9,7 @@ Table of Contents
 - [Buttjump](#buttjump)
 - [Backflip](#backflip)
 - [Swimming](#swimming)
+- [Sliding](#sliding)
 
 ### Power-Ups
 - [Egg](#egg)
@@ -22,7 +23,6 @@ Table of Contents
 ### Proposed
 - [Super-Butt-Jump](#super-butt-jump)
 - [Blowflyer](#blowflyer)
-- [Sliding](#sliding)
 - [Flapping](#flapping)
 - [Diving](#diving)
 
@@ -92,10 +92,30 @@ When in water, Tux can move and turn in all directions with his movement speed b
 
 Instead of jumping, Tux will gain a boost which lets him swim much faster.
 
+Sliding
+-------
+
+While Tux is running, the player can press the DOWN key and slide. While sliding, Tux will get on his
+belly and slide speedy down hilly terrain. Terrain that is formed like a ramp allows Tux to make
+large jumps, which would be impossible without the slide action. While sliding downhill Tux will defeat
+most enemies in his path, however enemies such as Snowman, Mr. Tree, and Spiky are not defeated and
+instead will harm Tux.
+
+Sliding did not exist as an action before SuperTux v0.7.0.
+
+Crawling
+--------
+
+Crawling allows Tux to duck and avoid dangers from above, yet still move around. Crawling is only possible
+for Big Tux. It is achieved mainly by ducking and then pressing the RIGHT or LEFT keys, but it will also
+be activated when Tux slides and the slide speed wears off.
+
+Crawling did not exist as an action before SuperTux v0.7.0.
+
 ---
 
 Powerups
-=========
+========
 
 Egg
 ---
@@ -129,8 +149,7 @@ by buttjumping, but the ice will eventually melt, activating them.
 
 - Perhaps the ice bullet could freeze water, bouncing across the
   surface of a body of the aforesaid liquid and freezing the surface
-  of the **one block** it touches, and maybe one block either side of
-  it. I got the idea from water to ice on the Ideas page.
+  of the **one block** it touches, and maybe one block either side of it.
 
 Air Flower
 ----------
@@ -169,8 +188,7 @@ Tux Doll
 ![](https://github.com/SuperTux/supertux/blob/master/data/images/powerups/1up/1up.png?raw=true)
 
 The **Tux Doll** allows Tux to access the Bonus Island. When a certain percentage of Tux Dolls
-are collected,
-1234567891123456789212345678931234567894123456789512345678961234567897123456789812345678991234567890
+are collected, A Bonus Island will unlock.
 
 In previous versions of the game, Tux would instead gain 100 coins.
 
@@ -200,38 +218,12 @@ Blowflyer
 
 ![](images/Blowflyer.png)
 
-The **blowflyer** or **BalloonTux** action should be a temporary limited action in
+The **Blowflyer** or **Balloon Tux** action would be a temporary limited action in
 which Tux fills his body with air (helium?!) and is thus able to fly for a short time,
 i.e. as long as he can go without breathing. The end of the flight should be announced
 by Tux changing color and catching for air.
 
-Perhaps there could be a hidden “pump” in each level, which tux could pump himself up with.
-
-Sliding
--------
-
-Tux will be able to make use of smooth terrain by using the slide action. By using the
-slider action Tux will jump on its belly and thus slide speedy down the hill. Terrain
-that is formed like a ramp should allow him to make huge jumps, which would be impossible
-without the slide action. While sliding downhill Tux shall be invulnerable by normal enemies,
-however special enemies with spikes or so, might still be able to stop him.
-
-Exact details on how the sliding will work have to be worked out, but it might get a rather
-central role in gameplay.
-
-![](images/slider.jpg)
-
-![](images/slider2.png)
-
-Somewhat related, you could have icy platforms that when running on it is much harder to
-stop/change-direction (i.e. you could slide off the edge accidently) that require you to
-be extra careful.. these could appear on later harder levels. If these aren't flat, you
-get what is shown in the above picture, which you could slide down instead.
-
-We'd probably need tile-based friction to make this work well. Holding the *DOWN* key while
-moving above a certain speed (or on a slope) will reduce Tux's friction by a large factor (4?)
-and make him slide as illustrated in the above picture. He'll be able to kill/stun certain
-enemies this way, but some (like the spiky ones) will damage and stop him.
+Perhaps there could be a hidden "pump" or balloon or in each level, which Tux could pump himself up with.
 
 Flapping
 --------
@@ -243,9 +235,3 @@ but should allow him to get some additional air-time (like a small double-jump).
 
 - While not as a core ability, this could very well be turned into
   how Tux glides with the new air flower costume designs.
-
-Diving
-------
-
-When jumping from a great height, Tux should have his beak facing down, like a dive. It would work
-well with the swim ability.
