@@ -13,9 +13,9 @@ Table of Contents
 ### Power-Ups
 - [Egg](#egg)
 - [Fire Flower](#fire-flower)
-- [Ice Flower](#ice-flower)
+- [Ice Rosette](#ice-rosette)
 - [Air Flower](#air-flower)
-- [Earth Flower](#earth-flower)
+- [Rock Shroom](#rock-shroom)
 - [Star](#star)
 - [Tux Doll](#tux-doll)
 
@@ -94,7 +94,7 @@ Instead of jumping, Tux will gain a boost which lets him swim much faster.
 
 ---
 
-Power-Ups
+Powerups
 =========
 
 Egg
@@ -102,72 +102,65 @@ Egg
 
 ![](https://github.com/SuperTux/supertux/blob/master/data/images/powerups/egg/egg.png?raw=true)
 
-The **egg** is the first and most vital power-up Tux encounters on his journey,
-turning him into Big Tux. He now can take one more hit before dying, break crates
-by jumping against them and perform actions such as the buttjump and backflip.
+The **egg** is the first and most vital powerup Tux encounters on his journey,
+turning him into Big Tux. He now can take one more hit before dying, break wooden
+crates by jumping against them, and perform actions such as the buttjump and backflip.
 
 Fire Flower
 -----------
 
 ![](https://github.com/SuperTux/supertux/blob/master/data/images/powerups/fireflower/fire_flower-0.png?raw=true)
 
-The **fire flower** gives Tux the ability to spit bouncing fire bullets that kill
-most badguys in his path.
+The **Fire Flower** gives Tux the ability to shoot bouncing fire bullets that kill
+most badguys in his path. It can also be used to melt the ice around frozen enemies,
+making them active again.
 
-Any subsequent fire flower that Tux takes increase the amount of fire bullets that
-can be on the screen at the same time, but do not increase the amount of hits Tux
-can take.
-
-Ice Flower
-----------
+Ice Rosette
+-----------
 
 ![](https://github.com/SuperTux/supertux/blob/master/data/images/powerups/iceflower/ice_flower-0.png?raw=true)
 
-The **ice flower** gives Tux the ability to shoot ice bullets. These will not bounce
-like fire bullets, but will shoot out in a straight path towards the enemy. When the
-ice bullet hits an enemy it will freeze him for a short time, if the enemy is actually
-freezable.
+The **Ice Rosette** (previously called Ice Flower) gives Tux the ability to shoot ice bullets.
+These will not bounce the same way fire bullets will. When the ice bullet hits an enemy,
+it will freeze him for a short time, if the enemy is actually freezable.
 
-Any subsequent ice flower that Tux takes increase the amount of ice bullets that can
-be on the screen at the same time, but do not increase the amount of hits Tux can take.
+While frozen, enemies may be picked up and stood on, like rocks. They can be defeated
+by buttjumping, but the ice will eventually melt, activating them.
 
 - Perhaps the ice bullet could freeze water, bouncing across the
   surface of a body of the aforesaid liquid and freezing the surface
   of the **one block** it touches, and maybe one block either side of
-  it. I got the idea from water -&gt; ice on the User Ideas page.
+  it. I got the idea from water to ice on the Ideas page.
 
 Air Flower
 ----------
 
 ![](https://github.com/SuperTux/supertux/blob/master/data/images/powerups/airflower/air_flower-0.png?raw=true)
 
-The **air flower** grants Tux the ability to jump much higher and run much faster.
-Additionally, holding down the *JUMP* key after a jump will allow Tux to glide for
-a couple of seconds.
+The **Air Flower** grants Tux the ability to jump higher and run faster.
+Additionally, holding down the JUMP while in the air will allow Tux to glide,
+allowing him to reach areas that he could not have reached without gliding.
 
-Any subsequent air flower that Tux takes increase the amount of time Tux can glide,
-but do not increase the amount of hits Tux can take.
-
-Earth Flower
+Rock Shroom
 ------------
 
 ![](https://github.com/SuperTux/supertux/blob/master/data/images/powerups/earthflower/earth_flower-0.png?raw=true)
 
-The **earth flower** gives Tux the ability to turn into a stone version of himself for a
-short amount of time. When turned to stone, Tux is invulnerable to all types of damage,
-but cannot move during that time.
+The **Rock Shroom** (previously called Earth Flower) gives Tux the ability to turn into
+a rock and roll around by walking and pressing the DOWN key. As long as the player is
+holding the DOWN key down, then Tux will stay in his rock form. While Tux is in rock
+mode, he is invulnerable to most types of damage.
 
-In dark areas the earth flower will also provides a small cone of light.
-
-Any subsequent earth flower that Tux takes increase the amount of time Tux will remain in
-his stone form, but do not increase the amount of hits Tux can take.
+In older versions of the game, Tux could instead turn into a statue of himself for a short
+time, being invincible to all types of danger. However, Tux would not be able to move while
+in statue form. In, dark areas the rock shroom would also provide a small cone of light.
 
 Star
 ----
 
 ![](https://github.com/SuperTux/supertux/blob/master/data/images/powerups/star/star-0.png?raw=true)
 
-A white **star** will turn Tux invincible for about 14 seconds, visualized by white sparks
+The **Star** will make Tux invincible for about 14 seconds, visualized by white sparks
 surrounding him.
 
 Tux Doll
@@ -175,7 +168,11 @@ Tux Doll
 
 ![](https://github.com/SuperTux/supertux/blob/master/data/images/powerups/1up/1up.png?raw=true)
 
-The **Tux Doll** grants Tux 100 extra coins.
+The **Tux Doll** allows Tux to access the Bonus Island. When a certain percentage of Tux Dolls
+are collected,
+1234567891123456789212345678931234567894123456789512345678961234567897123456789812345678991234567890
+
+In previous versions of the game, Tux would instead gain 100 coins.
 
 Before the life-system was discarded in Milestone 2, the Tux Doll granted one extra life.
 
