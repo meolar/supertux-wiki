@@ -35,8 +35,6 @@ The end boss of Nolok's Mountain Peak and the game's final boss is [Nolok](https
 See also
 --------
 
--   [Icy Island](https://github.com/SuperTux/supertux/wiki/Icy-Island)
--   [Rooted Forest](https://github.com/SuperTux/supertux/wiki/Rooted-Forest)
+-   [Icy Island](https://github.com/SuperTux/supertux/wiki/World-1)
+-   [Rooted Forest](https://github.com/SuperTux/supertux/wiki/World-2)
 -   [Worlds](https://github.com/SuperTux/supertux/wiki/Worlds)
-
-<Category:World>
