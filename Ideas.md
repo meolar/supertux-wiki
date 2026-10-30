@@ -251,7 +251,7 @@ in concept or fix the balance.
 Players are designed to help each other. This makes game more addictive (as i think). You don't only play, you also help
 your friend and he helps you. If we don't follow this - what for we are creating multiplayer at all?!
 
-> "The other player could be Fluffy the Penguin"
+> "The other player could be Fluffy the Penguin."
 
 ### Players
 
@@ -309,21 +309,21 @@ This is for miscellaneous enemy ideas. Any world-specific enemy plans or ideas c
 - Electric eel
 - Bengal Tiger (Boss)
 
-### BouncingGlassball
+### Bouncing Glassball
 Kind of like the BouncingSnowball but it bounces 3 tiles higher and is for the forest world.
 
 ### Vineflower
 Just like the Ice Flower, except it fires vines that tangle up enemines, so it works for the tropical paradise.
 
-### SpikeyBoss
+### Spikey Boss
 A big version of the stay-on-platform spikey bad-guys(64x64). When he reaches an edge of the platform,
 he pauses, soots a ball that blows up on contact, and repeats on the other side. You guys decide how to kill.
 
-### SpikeheadSnbowball
+### Spikehead Snbowball
 Exactly like the Snowball, but after a configurable amount of spaces it jumps and lands 5 spaces
 foreward on it's spike. After a moment, it jumps back up and repeats.
 
-### WaterHeater
+### Water Heater
 Like Lightning except you can tell when you need to get out of the water because the water (or Tux) slowly turns red.
 
 ### Climbing snowball
