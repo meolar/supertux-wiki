@@ -1,7 +1,7 @@
 **Tropical Paradise** is the upcoming third world in SuperTux. A precious tropical jungle island with a vast shiny beach and mysterious underwater caverns.
 Further development on this world yet to be made. Though several ideas and concepts have been collected over time.
 
-Once development on world 2 has reached a more final state world 3 will become the development teams next prioritised task.
+Once development on World 2 has reached a more final state, World 3 will become the development team's next prioritised task.
 
 ---
 
@@ -34,5 +34,3 @@ See also
 -   [Icy Island](https://github.com/SuperTux/supertux/wiki/Icy-Island)
 -   [Rooted Forest](https://github.com/SuperTux/supertux/wiki/Rooted-Forest)
 -   [Worlds](https://github.com/SuperTux/supertux/wiki/Worlds)
-
-<Category:World>
