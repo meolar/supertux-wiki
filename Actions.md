@@ -6,6 +6,7 @@ Table of Contents
 - [Running](#running)
 - [Ducking](#ducking)
 - [Carrying](#carrying)
+- [Climbing](#climbing)
 - [Buttjump](#buttjump)
 - [Backflip](#backflip)
 - [Swimming](#swimming)
@@ -33,7 +34,7 @@ General
 Jumping
 -------
 
-![](images/jump.gif)
+![](images/actions/action-jump.gif)
 
 Jumping is the most basic ability present in platformers. A jump will allow Tux to reach
 four tiles in height. A running jump reaches five tiles in height.
@@ -41,17 +42,17 @@ four tiles in height. A running jump reaches five tiles in height.
 Running
 -------
 
-![](images/run.gif)
+![](images/actions/action-run.gif)
 
 Running is an automatic action that gets activated when Tux is walking in the same direction
 for a certain amount of time.
 
-Milestone 1 used a dedicated RUN key, since Milestone 2 it is automatic.
+Milestone 1 used a dedicated <kbd>RUN</kbd> key, since Milestone 2 it is automatic.
 
 Ducking
 -------
 
-![](images/duck.gif)
+![](images/actions/action-duck.gif)
 
 Ducking can be used to slide down small, one tile high holes as big Tux or to avoid projectiles
 which are shot one tile above ground.
@@ -59,43 +60,52 @@ which are shot one tile above ground.
 Carrying
 --------
 
-![](images/carry.gif)
+![](images/actions/action-climb.gif)
 
 Walking into or standing next to [carriable objects](https://github.com/SuperTux/supertux/wiki/Objects#Carriables)
-while holding the *ACTION* key allows Tux to carry the object around. Releasing the *ACTION* key while walking results
+while holding the <kbd>ACTION</kbd> key allows Tux to carry the object around. Releasing the <kbd>ACTION</kbd> key while walking results
 in Tux throwing the object. Doing so while standing still results in Tux simply dropping the object right next to him.
+
+Climbing
+--------
+
+If Tux is touching a climbable surface (such as a ladder, rope, etc.), by pressing UP he may climb it. Tux can then
+press the <kbd>UP</kbd>, <kbd>DOWN</kbd>, <kbd>RIGHT</kbd> and <kbd>LEFT</kbd> keys to move around in the climbable area. Tux may be released from climbing mode
+by pressing the <kbd>JUMP</kbd> key.
 
 Buttjump
 --------
 
-![](images/buttjump.gif)
+![](images/actions/action-buttjump.gif)
 
 A buttjump allows Tux to crush boxes from above and destroy some badguys that cannot be harmed
-by a normal jump. To perform the buttjump, jump and hold down the *DOWN* key while in the air.
+by a normal jump. To perform the buttjump, jump and hold down the <kbd>DOWN</kbd> key while in the air.
 
 It takes Tux a small amount of time to jump back onto his feet upon touching the ground.
 
 Backflip
 --------
 
-![](images/backflip.gif)
+![](images/actions/action-backflip.gif)
 
 The backflip is a special jump which gives Tux some extra height compared to a normal jump.
-It is performed while ducking and pressing the *JUMP* key.
+It is performed while ducking and pressing the <kbd>JUMP</kbd> key.
 
 Swimming
 --------
 
-![](images/swim.gif)
+![](images/actions/action-swim.gif)
 
 When in water, Tux can move and turn in all directions with his movement speed being momentum based.
 
-Instead of jumping, Tux will gain a boost which lets him swim much faster.
+If the <kbd>JUMP</kbd> key is pressed, Tux will get a boost which lets him swim much faster.
 
 Sliding
 -------
 
-While Tux is running, the player can press the DOWN key and slide. While sliding, Tux will get on his
+![](images/actions/action-slide.gif)
+
+While Tux is running, the player can press the <kbd>DOWN</kbd> key and slide. While sliding, Tux will get on his
 belly and slide speedy down hilly terrain. Terrain that is formed like a ramp allows Tux to make
 large jumps, which would be impossible without the slide action. While sliding downhill Tux will defeat
 most enemies in his path, however enemies such as Snowman, Mr. Tree, and Spiky are not defeated and
@@ -107,7 +117,7 @@ Crawling
 --------
 
 Crawling allows Tux to duck and avoid dangers from above, yet still move around. Crawling is only possible
-for Big Tux. It is achieved mainly by ducking and then pressing the RIGHT or LEFT keys, but it will also
+for Big Tux. It is achieved mainly by ducking and then pressing the <kbd>RIGHT</kbd> or <kbd>LEFT</kbd> keys, but it will also
 be activated when Tux slides and the slide speed wears off.
 
 Crawling did not exist as an action before SuperTux v0.7.0.
@@ -132,17 +142,20 @@ Fire Flower
 ![](https://github.com/SuperTux/supertux/blob/master/data/images/powerups/fireflower/fire_flower-0.png?raw=true)
 
 The **Fire Flower** gives Tux the ability to shoot bouncing fire bullets that kill
-most badguys in his path. It can also be used to melt the ice around frozen enemies,
-making them active again.
+most badguys in his path, by pressing the <kbd>ACTION</kbd> key. It can also be used
+to melt the ice around frozen enemies, making them active again.
 
 Ice Rosette
 -----------
 
 ![](https://github.com/SuperTux/supertux/blob/master/data/images/powerups/iceflower/ice_flower-0.png?raw=true)
 
-The **Ice Rosette** (previously called Ice Flower) gives Tux the ability to shoot ice bullets.
-These will not bounce the same way fire bullets will. When the ice bullet hits an enemy,
-it will freeze him for a short time, if the enemy is actually freezable.
+![](images/actions/action-ice.gif)
+
+The **Ice Rosette** (previously called Ice Flower) gives Tux the ability to shoot ice bullets,
+by pressing the <kbd>ACTION</kbd> key. These will not bounce the same way fire bullets will.
+When the ice bullet hits an enemy, it will freeze him for a short time, if the enemy is
+actually freezable.
 
 While frozen, enemies may be picked up and stood on, like rocks. They can be defeated
 by buttjumping, but the ice will eventually melt, activating them.
@@ -156,8 +169,10 @@ Air Flower
 
 ![](https://github.com/SuperTux/supertux/blob/master/data/images/powerups/airflower/air_flower-0.png?raw=true)
 
+![](images/actions/action-glide.gif)
+
 The **Air Flower** grants Tux the ability to jump higher and run faster.
-Additionally, holding down the JUMP while in the air will allow Tux to glide,
+Additionally, holding down the <kbd>JUMP</kbd> while in the air will allow Tux to glide,
 allowing him to reach areas that he could not have reached without gliding.
 
 Rock Shroom
@@ -165,9 +180,11 @@ Rock Shroom
 
 ![](https://github.com/SuperTux/supertux/blob/master/data/images/powerups/earthflower/earth_flower-0.png?raw=true)
 
+![](images/actions/action-rock.gif)
+
 The **Rock Shroom** (previously called Earth Flower) gives Tux the ability to turn into
-a rock and roll around by walking and pressing the DOWN key. As long as the player is
-holding the DOWN key down, then Tux will stay in his rock form. While Tux is in rock
+a rock and roll around by walking and pressing the <kbd>DOWN</kbd> key. As long as the player is
+holding the <kbd>DOWN</kbd> key down, then Tux will stay in his rock form. While Tux is in rock
 mode, he is invulnerable to most types of damage.
 
 In older versions of the game, Tux could instead turn into a statue of himself for a short
@@ -203,14 +220,14 @@ Super-Butt-Jump
 ---------------
 
 1.  Player moves Tux to a high position on the map
-2.  Player jumps from the ledge
-3.  Player presses 'down'
-4.  Tux does some acrobatic movement to get into the 'butt-position'
-5.  Tux then falls down back to the ground, butt first with increasing speed,
-    due to the higher altitude he will change to Super-Butt-Jump-mode
+2.  Player jumps off a cliff
+3.  Player presses <kbd>DOWN</kbd> key
+4.  Tux does some acrobatic movement to get into the 'buttjump-position'
+5.  Tux then falls down back to the ground with increasing speed,
+    due to the higher altitude and longer time in the air, he will change to Super-Butt-Jump-mode
 6.  When smashing on the ground nearby enemies might be turned upside down,
     rendering them unmovable or killing them (might depend on the type of
-    enemy and of the type of ground)
+    enemy and of the type of ground), crates may be broken, etc.
 7.  It takes Tux a small amount of time to jump back onto his feet to get back to normal
 
 Blowflyer
