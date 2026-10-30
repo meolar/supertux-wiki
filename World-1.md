@@ -46,16 +46,16 @@ As of SuperTux v0.7.0, Icy Island features the following levels:
 
 ### Badguys
 
-A list of Badguys for Icy Island can be found [here](https://github.com/SuperTux/supertux/wiki/Badguys-World-1).
+A list of Badguys for Icy Island can be found [here](Badguys-World-1).
 
 ### End Boss
 
-See [Yeti](https://github.com/SuperTux/supertux/wiki/Bosses#Yeti).
+See [Yeti](Bosses#Yeti).
 
 ---
 
 See also
 --------
 
--   [Rooted Forest](https://github.com/SuperTux/supertux/wiki/World-2)
--   [Worlds](https://github.com/SuperTux/supertux/wiki/Worlds)
+-   [Rooted Forest](World-2)
+-   [Worlds](Worlds)
