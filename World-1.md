@@ -1,8 +1,8 @@
-**Icy Island** is the very first world in SuperTux. It is an ice-themed world, based in Antarctica.
+**Icy Island** is the very first world in SuperTux. It is an ice-themed world, set in Antarctica.
 This world was first released in *SuperTux 0.1*.
 
 Its subworld is **Glacier Isle**, an isle to the west of Icy Island covered in large crystals,
-housing the crystal mines.
+housing the crystal mine.
 
 ![The Icy Island worldmap as of version 0.6.2](images/icy_island_0_6_2.png "The Icy Island worldmap as of version 0.6.2")
 
@@ -57,7 +57,5 @@ See [Yeti](https://github.com/SuperTux/supertux/wiki/Bosses#Yeti).
 See also
 --------
 
--   [Rooted Forest](https://github.com/SuperTux/supertux/wiki/Rooted-Forest)
+-   [Rooted Forest](https://github.com/SuperTux/supertux/wiki/World-2)
 -   [Worlds](https://github.com/SuperTux/supertux/wiki/Worlds)
-
-<Category:World>
