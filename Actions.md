@@ -10,6 +10,7 @@ Table of Contents
 - [Backflip](#backflip)
 - [Swimming](#swimming)
 - [Sliding](#sliding)
+- [Crawling](#crawling)
 
 ### Power-Ups
 - [Egg](#egg)
@@ -24,7 +25,6 @@ Table of Contents
 - [Super-Butt-Jump](#super-butt-jump)
 - [Blowflyer](#blowflyer)
 - [Flapping](#flapping)
-- [Diving](#diving)
 
 
 General
