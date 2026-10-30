@@ -20,17 +20,17 @@ A small list of potential level ideas and themes:
 
 ### Badguys
 
-Proposed badguys for Tropical Paradise can be found at the [Badguys](https://github.com/SuperTux/supertux/wiki/Proposed-Badguys) page.
+Proposed badguys for Tropical Paradise can be found at the [Proposed Badguys](Proposed-Badguys.md) page.
 
 ### End Boss
 
-The planned end boss of Tropical Paradise is the [Toucan and Master Totem](https://github.com/SuperTux/supertux/wiki/Bosses#Toucan).
+The planned end boss of Tropical Paradise is the [Toucan and Master Totem](Bosses.md#Toucan).
 
 ---
 
 See also
 --------
 
--   [Icy Island](https://github.com/SuperTux/supertux/wiki/Icy-Island)
--   [Rooted Forest](https://github.com/SuperTux/supertux/wiki/Rooted-Forest)
--   [Worlds](https://github.com/SuperTux/supertux/wiki/Worlds)
+-   [Icy Island](World-1.md)
+-   [Rooted Forest](World-2.md)
+-   [Worlds](Worlds.md)
