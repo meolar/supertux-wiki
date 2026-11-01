@@ -24,11 +24,11 @@ Proposed names for the levels in Nolok's Mountain Peak:
 
 ### Badguys
 
-Proposed badguys for Nolok's Mountain Peak can be found at the [here](https://github.com/SuperTux/supertux/wiki/Proposed-Badguys#noloks-mountain-peak).
+Proposed badguys for Nolok's Mountain Peak can be found at the [here](Proposed-Badguys).
 
 ### End Boss
 
-The end boss of Nolok's Mountain Peak and the game's final boss is [Nolok](https://github.com/SuperTux/supertux/wiki/Bosses#Nolok).
+The end boss of Nolok's Mountain Peak and the game's final boss is [Nolok](Bosses#nolok).
 
 ---
 
