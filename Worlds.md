@@ -8,16 +8,16 @@ bonus worlds, alongside its story mode.
 ## Story Mode
 
 ### Established Worlds
-* [World 1 - Icy Island](https://github.com/SuperTux/supertux/wiki/Icy-Island)
-* [World 2 - Rooted Forest](https://github.com/SuperTux/supertux/wiki/Rooted-Forest)
+* [World 1 - Icy Island](World-1)
+* [World 2 - Rooted Forest](World-2)
 
 ### Worlds Under Development
 
-* [World 3 - Tropical Paradise](https://github.com/SuperTux/supertux/wiki/Tropical-Paradise)
+* [World 3 - Tropical Paradise](World-3)
 
 ### Planned Worlds
 
-* [World 4 - Nolok's Mountain Peak](https://github.com/SuperTux/supertux/wiki/Mountain-Peak)
+* [World 4 - Nolok's Mountain Peak](World-4)
 
 ---
 
