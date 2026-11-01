@@ -52,7 +52,7 @@ As of SuperTux v0.7.0, Rooted Forest features the following levels:
 
 ### Badguys
 
-A list of Badguys for Icy Island can be found [here](https://github.com/SuperTux/supertux/wiki/Badguys-Forest).
+A list of Badguys for Rooted Forest can be found [here](https://github.com/SuperTux/supertux/wiki/Badguys-World-2).
 
 ### End Boss
 
@@ -63,7 +63,5 @@ See [Ghost Tree](https://github.com/SuperTux/supertux/wiki/Bosses#Ghost-Tree).
 See also
 --------
 
--   [Icy Island](https://github.com/SuperTux/supertux/wiki/Icy-Island)
+-   [Icy Island](https://github.com/SuperTux/supertux/wiki/World-1)
 -   [Worlds](https://github.com/SuperTux/supertux/wiki/Worlds)
-
-<Category:World>
