@@ -269,3 +269,21 @@ Something like Poision Ivy but smart enough not to commit suicide. Maybe a autum
 Btw, i could just grab the Ivy image and add some red, but maybe there is another BG that matchs the description but looks different. --[WolfgangB](mediawiki/Users/wolfgangb) 18:44, 26 Jul 2006 (BST)
 
 Done. [WalkingLeaf](WalkingLeaf "wikilink") --[WolfgangB](mediawiki/Users/wolfgangb) 15:59, 13 Aug 2006 (BST)
+
+### I#062: Corrupted Forest
+
+The Ghost Tree was planted by Nolok using his mighty staff to corrupt the forest and its inhabitants to be
+more eerie and dangerous. A group of Granito, inhabitants of the forest who have not yet been overtaken
+by the Ghost Tree's disease asked Tux to help save their home and fellow Granito that have been corrupted already.
+When the Ghost Tree is destroyed and the Granito are healed some of the once infected Granito living near the tower
+inform Tux about noticing someone strange leaving with another of Tux's kind to the northeast, shortly before the
+disease began to spread.
+
+### I#063: Tropical Paradise
+
+Tux will sail from Rooted Forest towards the tropical island to find Penny there. Then Tux will pass trough some levels to a clearing, where
+a mysterious temple is located. This part of the islands will be overrun by totem themed enemies. On the temple grounds, Tux will encounter
+the boss. He will learn about a hidden teleporter that is located not far from the temple that will bring gim to Nolok's final fortress.
+
+There, he spots Nolok as he teleports himself and Penny. Tux gives chase arriving on a snowy mountain peak. In front of him a gigantic fortress
+with Nolok sitting on the highest tower on his throne.
