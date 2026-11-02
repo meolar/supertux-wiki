@@ -349,7 +349,7 @@ Slow creature without any special abilities. Maybe “stackable”, similar to t
 Another slow creature, which is able to adhere to any surface. When reaching the end of a platform, it doesn't fall
 down, but continues to crawl downwards, upwards, or even underneath.
 
-![](images/Biella_mrlog_limpy.jpg)
+![](images/Biella-mrlog-limpy.jpg)
 
 ### I#095: Mr. Missile
 ![](images/MrMissile.png)
