@@ -12,14 +12,14 @@ Below you can find a list of ideas that have already been discussed and rejected
 
 # Characters
 
-## I#001: Beastie, GNU, or other FOSS mascots
+### I#001: Beastie, GNU, or other FOSS mascots
 
-### *Idea:*
+#### *Idea:*
 
 It would be cool if you could play other characters than Tux like Konqui the KDE Dragon. If possible he could jump
 higher than Tux but run slower. In the story Konqui could be Tux friend who helps him to find Penny.
 
-### *Why not:*
+#### *Why not:*
 
 We won't include Beastie or any other FOSS mascot. SuperTux is meant as a good jump'n run, not as a showcase of walking
 FOSS logos. The use of Tux is because he makes a good starting point, one that other people can agree on, to create a
