@@ -25,51 +25,27 @@ We won't include Beastie or any other FOSS mascot. SuperTux is meant as a good j
 FOSS logos. The use of Tux is because he makes a good starting point, one that other people can agree on, to create a
 world around him and less because he is the Linux mascot.
 
-Konqui (Other Playable Characters)
-----------------------------------
-
-> "No Beastie."
-
-> "I agree that Penny should be the only other playable character. However, [Super Tux Smash](Super_Tux_Smash "wikilink")
-  would allow stuff like that."
-
-GNU
 ---
 
-> "Perhaps Tux could ride a Gnu?" - kcfelix
+# Story
 
-> "Rejected ideas lists “no FOSS mascots”. I also don't think SuperTux' target audience would understand just why
-  SuperTux would feature a penguin riding a gnu. Let's leave Tux the only reference to anything geeky."
+### I#002: Crystal Cave
 
-> "Perhaps we could make just this exception, since it is kind of a major character. We could tell it like “Tux went
-  to Grass(???) world and met Gnu, who joined Tux against Nolok because <personal reason>”." - tuxdev
+#### *Idea:*
 
-> Yeah. The gnu's almost as much of a figurehead as Tux. He needs to make *some* appearance. (...maybe he could be
-  in the shops, or an Easter egg) - Julius\_Freezer 23:58, 2 July 2009 (UTC)
+Tux will go into the mountain to the crystal cave. Tux will go trough miscelaneous lifts, mineshafts, and cave rooms still
+deeper and deeper to the cave. It will be dark, so magic blocks and lanterns won't be rare. Then Tux will enter a big room
+with Nolok's castle. Tux will only pass through the castle, because Penny is in the Lavaland castle. After
+that Tux will defeat a crystal boss and then Tux will take a lift leading to the surface of Lavaland.
 
-> "Hey, if you wanna see a possible NPC, look at Salsa." - Penguin Man 00:55, 19 March 2007 (UTC)
+#### *Why not:*
 
-> "I once used Mr. Fluffy (Pinkish version of Mr. Snowball) as a friendly NPC in my own level - you control him with
-  levers (I might replace them with script triggers)"
+The game is currently set to only feature one large crystal cave level which is 'The Crystal Mine'. Also, lanterns will be saved
+for the Corrupted Forest and a lava themed world is not planned to be added based on our current story roadmap.
 
----
+### I#003: Shadow Penguin Boss
 
-Story
-=====
-
-Crystal Cave
-------------
-
-Tux will go into the mountain to the crystal cave. Tux will go trough miscelaneous lifts and mineshafts and cave rooms still
-deeper and deeper to the cave. There will be dark, so magic blocks and lanterns won't be rare. Then will Tux enter a big room
-with Nolok's castle. Tux will only pass trough the castle, because Penny is in the [Lavaland](World_5 "wikilink") castle. After
-that Tux will defeat a crystal boss and then Tux will take a lift leading on the surface of [Lavaland](World_5 "wikilink").
-
-> The game is currently set to only feature one large crystal cave level which is 'The Crystal Mine'. Also, lanterns will be saved
-  for the corrupted forest and a lava themed world is not planned to be added based on our current story roadmap.
-
-Shadow Penguin
---------------
+#### *Idea:*
 
 As Nolok dies (or whatever), a shade floats out of him and solidifies. The shade is in the general shape of a penguin, but is
 all black. Not even the eyes are visible. If you have lighting effects going by that time, the “Shadow Penguin” literally darkens
@@ -82,78 +58,85 @@ that was causing darkness to take over, vanishes, the blackness (and glowing gre
 world we know reasserts itself, and you are revealed to be back in Antarctica, where you started! Tux embracing Penny, happy ending
 cutscenes, etc. the end.
 
-> "Nolok is set as the final encounter for the game. After his defeate the story is done. Though the idea of a shadow penguin will
-  be repurposed as a potential mini boss, Shadow Tux."
+#### *Why not:*
+
+Nolok is set as the final encounter for the game. After his defeate the story is done. Though the idea of a shadow penguin will
+be repurposed as a potential mini boss, Shadow Tux.
 
 ---
 
-Badguys
-=======
+# Badguys
 
-BillBoss
---------
+### I#004: Bill Boss
+
+#### *Idea:*
 
 There's probably a good reason, but why doesn't Microsoft play a greater role as an enemy of Tux? Couldn't Nolok
-be Bill or one of his minions?
-
-**Updated**: Perhaps Nolok could ultimately be defeated by manoeuvring him into Redmond and getting “embraced,
+be Bill or one of his minions? Perhaps Nolok could ultimately be defeated by maneuvering him into Redmond and getting “embraced,
 extended and extinguished” by Bill. :)
 
-> No. Similar reasons as with [Beastie](https://github.com/SuperTux/supertux/wiki/Rejected-Ideas#Beastie).
+#### *Why not:*
 
-> Someone suggested this on the mailing list, and Marek came up with a concept: An easter egg that makes Nolok look
-  like Bill or Steve (Ballmer, not Jobs). I figure it's at least worth a try, but a complete storyline revision would
-  be imprudent in keeping with this game's general philosophy to be a Mario homage, only. If you want to frag Gates,
-  go play XTux." - DJ Wings 03:08, 28 Jul 2006 (BST)
+Similar reasons as with *I#001* (Beastie; Rejected).
 
-What about replacing the powerups by Apples?
+### I#005: Mr. Windows
 
-Mr. Windows
------------
+#### *Idea:*
 
-![](images/Win-0.png "Mr windows - normal")
-![](images/Win-block.png "Mr windows - shield")
-![](images/Win-dead.png "Mr windows - squished")
+![](images/Win-0.png)
+![](images/Win-block.png)
+![](images/Win-dead.png)
 
-Mr windows sometimes stays and sometimes walks around one place.
+Mr. Windows sometimes stays and sometimes walks around one place.
 
--   Mr windows is squishable.
--   When Tux approaches a distance of two tiles, they will turn the shield and become invincible and stay put.
-    Once again, get into a longer distance than two tiles, it will turn back.
--   I can kill him at a distance or it can kill other object.
+- Mr windows is squishable.
+- When Tux approaches a distance of two tiles, it will turn into a shield, become invincible and stay put.
+  Once again, get into a longer distance than two tiles, it will turn back.
+- I can kill him at a distance or it can kill other object.
 
-> Yet another Logo. See [Beastie](https://github.com/SuperTux/supertux/wiki/Rejected-Ideas#Beastie).
+#### *Why not:*
 
-Sasquatch
----------
+Yet another logo. See *I#001* (Beastie; Rejected).
+
+### I#006: Sasquatch
+
+#### *Idea:*
 
 ![](images/Bigfoot.png)
 
-I now propose a forest boss . He would function like the [Yeti](), except have more
-of a roar than a gna. As Sasquatches and Yeti are very similar (both mythical creatures of the same family), I think that this
-would be a fun addition to the forest.
+I now propose a forest boss. He would function like the Yeti, except he would have more of a roar
+than a gna. As Sasquatches and Yeti are very similar (both mythical creatures of the same family),
+I think that this would be a fun addition to the forest.
 
-Perhaps he could be the forest boss, not the ghost tree (or the ghost tree could be the ghost forest boss, and the Sasquatch be
-the normal forest boss).
+Perhaps he could be the forest boss, not the ghost tree (or the ghost tree could be the ghost forest
+boss, and the Sasquatch be the normal forest boss).
 
-> We want all bosses to differ from one another. Sasquatch being just a yeti with slight changes does not fit this requirement.
+#### *Why not:*
+
+We want all bosses to differ from one another. Sasquatch being just a yeti with slight changes does
+not fit this requirement.
 
 ---
 
-Mechanics
-=========
+# Mechanics
 
-No Magic System
----------------
+### I#007: Magic System
+
+#### *Idea:*
 
 There was a discussion on the mailing list shortly after the release of milestone 1 about introducing some kind of
 magic system that all of Tux' abilities are based on. Although details were never worked out, the general idea was
-to replace all powerups and some level objects by “spells” Tux could learn and cast using mana energy that needed to
-be refilled by collecting specific items. The idea was rejected because it would make the gameplay go in a completely
-different direction, and properly implementing and adjusting it could theoretically be a whole milestone in itself.
+to replace all powerups and some level objects by "spells" Tux could learn and cast using mana energy that needed to
+be refilled by collecting specific items.
 
-Power meter
------------
+#### *Why not:*
+
+The idea was rejected because it would make the gameplay go in a completely different direction, and properly implementing
+and adjusting it could theoretically be a whole milestone in itself.
+
+### I#008: Power meter
+
+#### *Idea:*
 
 A system supplementing the current power-ups, this is basically a way to allow large and powerful effects without letting
 the player use them all the time. The meter could be increased by collecting coins, killing enemies, or getting points.
@@ -161,99 +144,107 @@ When the meter is full the player can enter a specific control sequence (this is
 normally when the meter is full) to use a super-powerful attack, which would usually wipe out all the normal enemies
 onscreen and might have other effects as well (such as opening secret areas in the level).
 
-![](images/No-power.png "Empty power meter")
-![](images/Firemeter-half.png "49% filled power meter")
-![](images/Firemeter-full.png "100% filled power meter")
+![](images/No-power.png)
+![](images/Firemeter-half.png)
+![](images/Firemeter-full.png)
 
-> "Rejected: ammo/mana makes it just complicated - you have to do too much "tactics"..."
+#### *Why not:*
 
-No useless items/actions/enemies
---------------------------------
+Ammo/mana makes it just complicated - you have to do too much "tactics"...
 
-Any enemy, action or item added to the game should serve a specific purpose, thus allow something not doable by
+### I#009: Ideas for useless items/actions/enemies
+
+#### *Idea:*
+
+Ideas for items, actions, and enemies that have no use
+
+#### *Why not:*
+
+Any enemy, action, or item added to the game should serve a specific purpose, thus allow something not doable by
 other items, enemies or actions. Different looking actions that serve the same purpose are most of the time just
 confusing and add unnecessary bloat to the game. There is of course a little need to have a variety of enemies,
 but even with them variety in behaviour is much more important then variety in look. Different looking enemies
 might make pretty screenshots, but different behaviour makes a better game.
 
-Sonic Spin Dash
----------------
+### I#010: Sonic Spin Dash
+
+#### *Idea:*
 
 How about something like Sonic the Hedgehog's rev up spin dash? A rev up sliding move. Or, a Sonic Clone as a project. Slide dash away.
 Also would be cool to have loops. Maybe Tux can destroy things with his beak when sliding. I like the sliding idea as all penguins do it.
 
-Slam
-----
+#### *(No Reason Given)*
 
-> "Big Tux can slam the badguys. If Big Tux gets so close to badguy press Action and he can slam it from left to right. like in most beat'em
-  up games. sample of this can be viewed here" - 89.251.107.53 15:37, 30 October 2011 (UTC)
+### I#011: Slam
 
-Pay for restart at reset point, not for dying
----------------------------------------------
+#### *Idea:*
 
-This has been proposed as Issue 141. It would mean that Tux doesn't have to pay 25 coins as a penalty for dying. Instead he buys the
-ability to restart at a reset point. In practice, it would mean that Tux doesn't have to pay when he hasn't activated a reset point
-yet. It would make the cost seem less like a penalty and more like a trade-off. (Plus, restarting from the beginning is always
-possible from the worldmap.)
+Big Tux could slam badguys. If Big Tux gets so close to badguy press Action and he can slam it from left to right, like in most beat'em
+up games.
 
----
+#### *(No Reason Given)*
 
-World Themes
-============
+# World Themes
 
-### Computer/glitch world
+### I#012: Computer/glitch world
+
+#### *Idea:*
 
 - A Glitch world one put somewhere hard to find
   - Glitches aren't done on purpose, they are programming mistakes, so we can't do a glitch world on purpose.
 - Geeky computer/circuit board world - “Tux decided that the only way to get Penny back would be to hack into Nolok's
 computer...” well, worth a try.
 
-> "No. Not another so called “geek game”. Kill evil Bill G. won't work with the existing storyline."
-
-> "Great idea. And because Nolok uses M$-Software it is super easy."
+#### *(No Reason Given)*
 
 ---
 
-Technical
-=========
+# Technical
 
-Vector (SVG) Graphics
----------------------
+### I#013: Vector (SVG) Graphics
 
-Some bits from the mailing list discussion:
+#### *Idea:*
 
--   SVG only knows about plain lines, filled polygons and a handfull of fill-patterns, it doesn't know anything about
-    smooth brushes or smudge lines, but without them you will never get away from this vectorish look.
--   for artists, SVG tools are also immature, especially Linux ones.
--   If you want to think of a good way to slow down our development cycle, making a transition to SVG is a good way of
-    accomplishing that :P Not only that, but I've recently been working quite a bit with SVG for a project I got hired in.
-    It takes a hell of a lot longer than making sprites does, and on top of that, the hand drawn feel of the game will be
-    completely lost.
+Use Vector SVG graphics for SuperTux sprites.
 
-Also note that you can scale up supertux with the -g WIDTHxHEIGHT switch!
+#### *Why not:*
 
-Choose Audio output
--------------------
+- SVG can only do plain lines, filled polygons and a handful of fill patterns, it can't do smooth brushes or smudge lines,
+  (at least without special effects) but without them you will never get away from the vectorish look.
+- For artists (mostly the SuperTux ones), SVG tools are also immature.
+- If you want to think of a good way to slow down our development cycle, making a transition to SVG is a good way of
+  accomplishing that :P Not only that, but I've recently been working quite a bit with SVG for a project I got hired in.
+  It takes a whole lot longer than making sprites does, and on top of that, the hand drawn feel of the game would be
+  completely lost.
 
-In options menu let player choose a sound output like OSS, aRts and so on.
+### I#014: Choose Audio output
+
+#### *Idea:*
+
+In Options menu, let player choose a sound output like OSS, aRts and so on.
+
+#### *Why not:*
 
 It isn't a good idea for SuperTux to be playing with this. If you need to change sound drivers, use the SDL environments
 variables: sdldoc.csn.ul.ie/sdlenvvars.php.
 
 > The right place to change those settings would probally in a launcher application that starts before SuperTux itself and
   allows setting of sound driver, video resolution and other stuff, its a very common thing in Windows and might be a good
-  idea under Linux as well, especially since those SDL environment variables are not exactly easy to find. --
-  [Grumbel](mediawiki/Users/grumbel) 07:47, 1 Aug 2006 (BST)
+  idea under Linux as well, especially since those SDL environment variables are not exactly easy to find.
 
-Ipod touch
-----------
+## I#015: iPod touch
 
-What about a version for iPod touch/iPhone. I have no idea if this is possible, just a suggestion.
+### *Idea:*
 
-GPLed software is not compatible with the app store <http://www.fsf.org/blogs/licensing/more-about-the-app-store-gpl-enforcement>
+What about a version for iPod touch/iPhone? I have no idea if this is possible, just a suggestion.
 
-Super Tux Smash
----------------
+### *Why not:*
+
+GPL-ed software is not compatible with the app store <http://www.fsf.org/blogs/licensing/more-about-the-app-store-gpl-enforcement>
+
+## I#016: Super Tux Smash
+
+### *Idea:*
 
 Super Tux Smash would be a mod of the Super Tux Engine for Multiplayer, loosely based on Super Smash Brothers Melee but
 with some completely different gameplay.
@@ -428,7 +419,7 @@ Penguin punch (Tux jumps in midair, striking enemies touching him) - available a
 `       PINGU`
 
 UNLOCK:Beat Penguinos island with Tux. CUTSCENE: Some penguin (Pingu) runs into Tux. “HI! NOW I FOUND YOU!I...” TUX:“Wait a bit,
-who are you?” “I AM YOUR BROTHER!!” Tux feels like WTF? PENGUIN:“I will explain it. Sit down just here... I remember you when I was
+who are you?” “I AM YOUR BROTHER!!” Tux feels like what in the world? PENGUIN:“I will explain it. Sit down just here... I remember you when I was
 young. We were taking a vacation at Icyisland. Then, returned to home, we noticed that you were lost... \*sniff\* BUT NOW I GLAD TO
 SEE YOU BRO!!!” DESCRIPTION:Tux's brother, has his own cool moves. QUOTES TO GAME:“It's action time for Pingu!”, “WOW! I am so cool!”
 
@@ -451,3 +442,5 @@ thunderball (a flying thunderball appears, striking all enemies on his way) - av
 teleports up a bit, damaging all enemies on his vertical coordinates and near these) - available at level 6 dojo
 
 </details>
+
+#### *(No Reason Given)*
