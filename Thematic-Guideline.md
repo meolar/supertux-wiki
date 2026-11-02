@@ -1,4 +1,4 @@
-Something this game seems to be missing since most of its development time was a thematic guideline and a clarification
+Something this game seems to have been missing since most of its development time was a thematic guideline and a clarification
 of such. This page is meant to fix some of those issues by laying down the main idea and concept for design and world/level
 themes etc. for further development on the game's main story.
 
@@ -21,7 +21,7 @@ From the cold antarctic landscapes to the lukewarm forests to the tropical beach
 journey to feature as much design variety as possible.
 
 The first world, **Icy Island**, serves as the basic introduction into the game's core mechanics. **Rooted Forest**, the game's
-second world will introduce more complex and puzzle oriented elements. The third world, **Tropical Paradise**, is set to
+second world, will introduce more complex and puzzle oriented elements. The third world, **Tropical Paradise**, is set to
 lay a huge focus on Tux's swimming ability and take full advantage of it with more unique obstacles and challenges. The
 fourth and final world, **Nolok's Mountain Peak**, will combine all elements of each world but in an even more challenging
 way and with its own unique spin. It will also feature more mechanical elements, like a bomb factory or mechanical
